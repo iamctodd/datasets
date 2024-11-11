@@ -1,0 +1,8 @@
+customer_id,segment,join_date
+C1,Premium,1/1/23
+C2,Standard,6/1/23
+C3,Premium,3/1/23
+C4,Standard,12/1/23
+C5,Standard,7/2/23
+C6,Premium,8/1/23
+C7,Premium,8/31/23

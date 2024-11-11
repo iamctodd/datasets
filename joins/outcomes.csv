@@ -1,0 +1,10 @@
+interaction_id,resolution_time,satisfied
+I1,10,TRUE
+I2,26.7,FALSE
+I4,15,TRUE
+I6,21.7,TRUE
+I7,24.2,FALSE
+I8,26.7,TRUE
+I9,29.2,TRUE
+I11,31.7,FALSE
+I12,34.2,TRUE

@@ -1,0 +1,10 @@
+interaction_id,customer_id,date,channel
+I1,C1,1/1/24,phone
+I2,C2,1/1/24,email
+I4,C1,1/2/24,chat
+I6,C3,1/2/24,phone
+I7,C4,1/3/24,phone
+I8,C1,1/3/24,email
+I9,C5,1/4/24,chat
+I11,C6,1/5/24,phone
+I12,C7,1/6/24,chat
