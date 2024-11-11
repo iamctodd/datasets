@@ -1,0 +1,5 @@
+date,warehouse_id,capacity_used,region
+2024-01-01,W1,75,East
+2024-01-01,W2,60,West
+2024-01-02,W1,85,East
+2024-01-02,W2,55,West
