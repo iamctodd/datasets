@@ -1,0 +1,13 @@
+feedback_id,order_id,rating,comments
+F1,A1,4.1,Good service
+F2,A2,5,Excellent
+F3,A4,3.2,Delayed
+F4,A5,4,Fast delivery
+F5,A6,3.5,Good service
+F6,A8,3.3,Excellent
+F7,A19,3.1,Delayed
+F8,A3,2.9,Fast delivery
+F9,A10,2.7,Good service
+F10,A9,2.5,Excellent
+F11,A20,2.3,Delayed
+F12,A11,2.1,Fast delivery
