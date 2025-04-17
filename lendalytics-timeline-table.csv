@@ -1,0 +1,19 @@
+Date,Algorithm Change,Description,Measured Effect
+Mar-18,Initial ML Model Launch,First version with 23 variables,Baseline performance
+Aug-18,Credit Utilization Patterns,Added granular analysis of utilization patterns,+5% approval for thin-file borrowers
+Jan-19,Education Variables,"Added school attended, degree, field of study","+8% approval overall, +3.2pp interest spread for HBCU/HSI vs PWI"
+Apr-19,Employment Stability,"Added job tenure, industry volatility metrics",-0.3pp in default rates
+Sep-19,Digital Footprint,Added online behavior signals,"+7% approval for ""invisible primes"""
+Feb-20,Educational Weighting v1,Increased weight of educational variables,+0.4pp interest spread for HBCU/HSI vs PWI
+Mar-20,SBPC Report Release,External report identified educational redlining,No immediate algorithm change
+Jun-20,Educational Normalization v1,First attempt to normalize educational variables,-0.3pp interest spread for HBCU/HSI vs PWI
+Sep-20,Independent Monitor Engagement,External monitor appointed to evaluate algorithms,No immediate algorithm change
+Dec-20,MSI Normalization,Special normalization for Minority-Serving Institutions,-0.5pp interest spread for HBCU/HSI vs PWI
+Mar-21,Extended Variable Set,Expanded to 890 variables,+15% approval for all segments
+Aug-20,Fairness Constraints v1,Initial implementation of fairness constraints,-0.4pp interest spread for HBCU/HSI vs PWI
+Nov-21,Default Prediction Enhancement,Improved default prediction models,-0.5pp in overall default rates
+Feb-22,CFPB Consent Order,Required removal of educational institution factor,"-2.1pp interest spread for HBCU/HSI vs PWI, -3.1% approval rate"
+May-22,Proxy Variable Removal,Removed variables highly correlated with protected characteristics,"-0.3pp interest spread across groups, -1.2% approval rate"
+Sep-22,FairCore Platform Launch,Comprehensive fairness-aware lending platform,"+1.5% approval rate, -0.4pp interest spread across groups"
+Dec-22,Disparate Impact Testing,Automated testing for disparate impact,Further narrowing of outcome disparities
+Feb-23,FairScore Implementation,Alternative credit scoring with explicit fairness constraints,"+2.1% approval rate, disparities <0.5pp across groups"
