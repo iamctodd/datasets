@@ -1,4 +1,4 @@
-User_ID,Product_ID,Category,Price,Discount(%),Final_Price,Payment_Method,Purchase_Date
+User_ID,Product_ID,Category, Price ,Discount (%), Final_Price ,Payment_Method,Purchase_Date
 337c166f,f414122f-e,Sports, 36.53 ,15, 31.05 ,Net Banking,12/11/24
 d38a19bf,fde50f9c-5,Clothing, 232.79 ,20, 186.23 ,Net Banking,9/2/24
 d7f5f0b0,0d96fc90-3,Sports, 317.02 ,25, 237.76 ,Credit Card,1/9/24
@@ -3659,75 +3659,75 @@ fcdfd494,5420918c-0,Books, 334.79 ,25, 251.09 ,UPI,2/3/24
 1defd3b1,c39a4f16-6,Home & Kitchen, 389.76 ,0, 389.76 ,Net Banking,7/8/24
 0611293d,b4f67f96-9,Electronics, 447.66 ,30, 313.36 ,UPI,21-05-2024
 e73ad07c,a5d07442-d,Home & Kitchen, 235.77 ,30, 165.04 ,UPI,14-04-2024
-c5e1f66b,5ac642e8-2,Home & Kitchen, 216.55 ,20," 10,444.00 ",UPI,1/3/23
-2ae065a3,a537747a-b,Electronics, 282.62 ,15," 7,437.50 ",Credit Card,2/15/23
-ad7a00fe,2739d8a4-1,Clothing, 493.54 ,10," 3,150.00 ",Debit Card,3/22/23
-de0683d6,359b2172-9,Sports, 48.56 ,5," 3,990.00 ",PayPal,4/10/23
-19c7efc6,5f56f43c-3,Beauty, 185.29 ,8," 11,040.00 ",Credit Card,4/28/23
-ce0380de,a537747a-b,Electronics, 310.41 ,12," 13,200.00 ",Credit Card,1/10/23
-5c591a5c,7199581b-3,Home & Kitchen, 381.75 ,8," 5,980.00 ",UPI,3/5/23
-4e8a8ff2,2739d8a4-1,Clothing, 202.43 ,5," 2,660.00 ",Cash on Delivery,1/18/23
-d1ee12da,a537747a-b,Electronics, 235.21 ,20," 17,600.00 ",Credit Card,4/2/23
-a6da9898,ccdca36b-5,Books, 371.67 ,0," 1,200.00 ",Debit Card,2/8/23
-fbf88af9,5f56f43c-3,Grocery, 393.10 ,2," 3,430.00 ",Cash on Delivery,1/22/23
-e90aeb07,359b2172-9,Sports, 146.55 ,15," 6,630.00 ",Credit Card,4/15/23
-c427ea12,a537747a-b,Electronics, 193.43 ,7," 12,801.45 ",Net Banking,1/3/23
-21ee3aaf,359b2172-9,Toys, 259.28 ,5," 1,425.00 ",UPI,2/20/23
-4298c35a,5f56f43c-3,Beauty, 217.51 ,10," 2,880.00 ",Debit Card,3/28/23
-57408fc1,2739d8a4-1,Clothing, 412.49 ,12," 3,960.00 ",PayPal,4/30/23
-bcbef8e7,359b2172-9,Toys, 392.74 ,11," 8,323.28 ",UPI,1/5/23
-45ceb957,a537747a-b,Electronics, 135.71 ,10," 5,850.00 ",Credit Card,2/14/23
-51f581e6,7199581b-3,Home & Kitchen, 487.62 ,18," 7,298.00 ",Debit Card,3/12/23
-8ef78570,359b2172-9,Sports, 370.72 ,16," 11,719.68 ",Credit Card,1/9/23
-bedc0d23,2739d8a4-1,Beauty, 98.73 ,5," 2,660.00 ",PayPal,2/27/23
-ac5f51dd,ccdca36b-5,Books, 79.42 ,0," 1,800.00 ",Cash on Delivery,4/5/23
-c33035c7,a537747a-b,Electronics, 248.01 ,10," 8,550.00 ",Credit Card,1/30/23
-0d575e3c,2739d8a4-1,Clothing, 339.17 ,8," 2,944.00 ",UPI,2/18/23
-e65b50eb,7199581b-3,Home & Kitchen, 419.32 ,12," 4,752.00 ",Debit Card,3/10/23
-6ccc18f0,2739d8a4-1,Beauty, 323.53 ,15," 3,060.00 ",Credit Card,4/22/23
-ba80beba,ccdca36b-5,Books, 230.00 ,0, 950.00 ,Cash on Delivery,1/15/23
-32fbc798,5f56f43c-3,Grocery, 218.44 ,5," 4,275.00 ",UPI,2/28/23
-45177a4d,359b2172-9,Sports, 431.85 ,10," 6,030.00 ",Debit Card,3/25/23
-e9fc3b5d,a537747a-b,Electronics, 334.79 ,20," 14,800.00 ",Credit Card,4/18/23
-7fd4a6ba,2739d8a4-1,Beauty, 486.79 ,8," 2,668.00 ",PayPal,5/2/23
-af1453cd,2739d8a4-1,Clothing, 212.87 ,12," 3,696.00 ",Net Banking,1/8/23
-cf22fe3d,7199581b-3,Home & Kitchen, 389.76 ,15," 6,630.00 ",Credit Card,2/12/23
-1342567a,2739d8a4-1,Beauty, 447.66 ,5," 3,325.00 ",Debit Card,3/30/23
-2803642c,359b2172-9,Toys, 235.77 ,9," 13,221.39 ",Cash on Delivery,1/20/23
-05c5eef6,a537747a-b,Electronics, 262.88 ,18," 9,430.00 ",Credit Card,2/5/23
-20797b76,ccdca36b-5,Books, 373.87 ,0," 1,500.00 ",UPI,3/15/23
-337c166f,2739d8a4-1,Clothing, 96.15 ,10," 3,420.00 ",PayPal,4/25/23
-d38a19bf,359b2172-9,Toys, 298.68 ,2," 9,222.78 ",UPI,1/6/23
-d7f5f0b0,359b2172-9,Sports, 290.90 ,5," 4,940.00 ",Credit Card,4/28/23
-a81bc91d,7199581b-3,Home & Kitchen, 316.29 ,12," 5,984.00 ",Debit Card,2/10/23
-d61eceec,2739d8a4-1,Beauty, 69.38 ,8," 3,772.00 ",Cash on Delivery,3/22/23
-c1eba76b,5f56f43c-3,Grocery, 241.05 ,1," 3,960.99 ",Cash on Delivery,1/3/23
-3e3ea054,a537747a-b,Electronics, 206.34 ,15," 11,730.00 ",Credit Card,2/20/23
-ccc156ec,ccdca36b-5,Books, 457.39 ,0," 1,800.00 ",UPI,4/2/23
-c94b1a1a,2739d8a4-1,Clothing, 71.82 ,10," 3,150.00 ",PayPal,3/18/23
-ae262d85,359b2172-9,Sports, 431.57 ,12," 5,456.00 ",Debit Card,1/25/23
-e9ad7995,7199581b-3,Home & Kitchen, 304.06 ,18," 8,036.00 ",Credit Card,3/8/23
-efcf43d8,2739d8a4-1,Beauty, 302.93 ,5," 2,565.00 ",Cash on Delivery,4/15/23
-bbf18e01,5f56f43c-3,Grocery, 31.24 ,8," 5,060.00 ",UPI,2/22/23
-4fa93089,a537747a-b,Electronics, 439.88 ,15," 7,565.00 ",Net Banking,3/5/23
-4e69c8b2,2739d8a4-1,Clothing, 279.85 ,10," 5,046.30 ",Cash on Delivery,1/10/23
-59b1a413,ccdca36b-5,Books, 281.93 ,0," 1,200.00 ",Credit Card,1/28/23
-860101ea,359b2172-9,Toys, 284.01 ,5," 2,660.00 ",Debit Card,2/15/23
-fcdfd494,2739d8a4-1,Beauty, 286.09 ,12," 4,312.00 ",PayPal,3/12/23
-67abda0a,a537747a-b,Electronics, 288.17 ,20," 10,000.00 ",Cash on Delivery,4/5/23
-34ebc1a0,7199581b-3,Home & Kitchen, 290.25 ,15," 6,630.00 ",UPI,1/18/23
-1defd3b1,2739d8a4-1,Clothing, 292.33 ,8," 3,220.00 ",Credit Card,2/28/23
-0611293d,ccdca36b-5,Books, 294.42 ,0," 2,200.00 ",Debit Card,3/25/23
-e73ad07c,5f56f43c-3,Grocery, 31.24 ,10," 6,120.00 ",PayPal,4/10/23
-337c166f,359b2172-9,Sports, 298.58 ,12," 4,664.00 ",Cash on Delivery,1/22/23
-d38a19bf,2739d8a4-1,Beauty, 300.66 ,8," 3,496.00 ",Credit Card,2/18/23
-d7f5f0b0,a537747a-b,Electronics, 302.74 ,15," 8,075.00 ",UPI,3/30/23
-395d4994,7199581b-3,Home & Kitchen, 304.82 ,18," 5,904.00 ",Debit Card,4/20/23
-a83c145c,2739d8a4-1,Clothing, 306.91 ,10," 4,050.00 ",PayPal,1/15/23
-3fdcdae8,359b2172-9,Toys, 308.99 ,3," 12,485.84 ",Debit Card,1/17/23
-12772337,ccdca36b-5,Books, 311.07 ,0," 1,800.00 ",Credit Card,2/25/23
-9f0194af,5f56f43c-3,Grocery, 31.24 ,5," 3,990.00 ",Cash on Delivery,3/18/23
-7a8559d8,2739d8a4-1,Beauty, 315.23 ,22," 4,681.56 ",Debit Card,1/9/23
-8911f0d1,359b2172-9,Sports, 317.31 ,12," 5,984.00 ",UPI,4/2/23
-98857e41,a537747a-b,Electronics, 319.40 ,20," 12,400.00 ",Net Banking,2/8/23
-3b857e65,7199581b-3,Home & Kitchen, 321.48 ,15," 6,970.00 ",Credit Card,3/22/23
+c5e1f66b,5ac642e8-2,Home & Kitchen, 216.55 ,20, 173.24 ,UPI,1/3/23
+2ae065a3,a537747a-b,Electronics, 282.62 ,15, 240.23 ,Credit Card,2/15/23
+ad7a00fe,2739d8a4-1,Clothing, 493.54 ,10, 444.19 ,Debit Card,3/22/23
+de0683d6,359b2172-9,Sports, 48.56 ,5, 46.13 ,PayPal,4/10/23
+19c7efc6,5f56f43c-3,Beauty, 185.29 ,8, 170.47 ,Credit Card,4/28/23
+ce0380de,a537747a-b,Electronics, 310.41 ,12, 273.16 ,Credit Card,1/10/23
+5c591a5c,7199581b-3,Home & Kitchen, 381.75 ,8, 351.21 ,UPI,3/5/23
+4e8a8ff2,2739d8a4-1,Clothing, 202.43 ,5, 192.31 ,Cash on Delivery,1/18/23
+d1ee12da,a537747a-b,Electronics, 235.21 ,20, 188.17 ,Credit Card,4/2/23
+a6da9898,ccdca36b-5,Books, 371.67 ,0, 371.67 ,Debit Card,2/8/23
+fbf88af9,5f56f43c-3,Grocery, 393.10 ,2, 385.24 ,Cash on Delivery,1/22/23
+e90aeb07,359b2172-9,Sports, 146.55 ,15, 124.57 ,Credit Card,4/15/23
+c427ea12,a537747a-b,Electronics, 193.43 ,7, 179.89 ,Net Banking,1/3/23
+21ee3aaf,359b2172-9,Toys, 259.28 ,5, 246.32 ,UPI,2/20/23
+4298c35a,5f56f43c-3,Beauty, 217.51 ,10, 195.76 ,Debit Card,3/28/23
+57408fc1,2739d8a4-1,Clothing, 412.49 ,12, 362.99 ,PayPal,4/30/23
+bcbef8e7,359b2172-9,Toys, 392.74 ,11, 349.54 ,UPI,1/5/23
+45ceb957,a537747a-b,Electronics, 135.71 ,10, 122.14 ,Credit Card,2/14/23
+51f581e6,7199581b-3,Home & Kitchen, 487.62 ,18, 399.85 ,Debit Card,3/12/23
+8ef78570,359b2172-9,Sports, 370.72 ,16, 311.40 ,Credit Card,1/9/23
+bedc0d23,2739d8a4-1,Beauty, 98.73 ,5, 93.79 ,PayPal,2/27/23
+ac5f51dd,ccdca36b-5,Books, 79.42 ,0, 79.42 ,Cash on Delivery,4/5/23
+c33035c7,a537747a-b,Electronics, 248.01 ,10, 223.21 ,Credit Card,1/30/23
+0d575e3c,2739d8a4-1,Clothing, 339.17 ,8, 312.04 ,UPI,2/18/23
+e65b50eb,7199581b-3,Home & Kitchen, 419.32 ,12, 369.00 ,Debit Card,3/10/23
+6ccc18f0,2739d8a4-1,Beauty, 323.53 ,15, 275.00 ,Credit Card,4/22/23
+ba80beba,ccdca36b-5,Books, 230.00 ,0, 230.00 ,Cash on Delivery,1/15/23
+32fbc798,5f56f43c-3,Grocery, 218.44 ,5, 207.52 ,UPI,2/28/23
+45177a4d,359b2172-9,Sports, 431.85 ,10, 388.67 ,Debit Card,3/25/23
+e9fc3b5d,a537747a-b,Electronics, 334.79 ,20, 267.83 ,Credit Card,4/18/23
+7fd4a6ba,2739d8a4-1,Beauty, 486.79 ,8, 447.85 ,PayPal,5/2/23
+af1453cd,2739d8a4-1,Clothing, 212.87 ,12, 187.33 ,Net Banking,1/8/23
+cf22fe3d,7199581b-3,Home & Kitchen, 389.76 ,15, 331.30 ,Credit Card,2/12/23
+1342567a,2739d8a4-1,Beauty, 447.66 ,5, 425.28 ,Debit Card,3/30/23
+2803642c,359b2172-9,Toys, 235.77 ,9, 214.55 ,Cash on Delivery,1/20/23
+05c5eef6,a537747a-b,Electronics, 262.88 ,18, 215.56 ,Credit Card,2/5/23
+20797b76,ccdca36b-5,Books, 373.87 ,0, 373.87 ,UPI,3/15/23
+337c166f,2739d8a4-1,Clothing, 96.15 ,10, 86.54 ,PayPal,4/25/23
+d38a19bf,359b2172-9,Toys, 298.68 ,2, 292.71 ,UPI,1/6/23
+d7f5f0b0,359b2172-9,Sports, 290.90 ,5, 276.36 ,Credit Card,4/28/23
+a81bc91d,7199581b-3,Home & Kitchen, 316.29 ,12, 278.34 ,Debit Card,2/10/23
+d61eceec,2739d8a4-1,Beauty, 69.38 ,8, 63.83 ,Cash on Delivery,3/22/23
+c1eba76b,5f56f43c-3,Grocery, 241.05 ,1, 238.64 ,Cash on Delivery,1/3/23
+3e3ea054,a537747a-b,Electronics, 206.34 ,15, 175.39 ,Credit Card,2/20/23
+ccc156ec,ccdca36b-5,Books, 457.39 ,0, 457.39 ,UPI,4/2/23
+c94b1a1a,2739d8a4-1,Clothing, 71.82 ,10, 64.64 ,PayPal,3/18/23
+ae262d85,359b2172-9,Sports, 431.57 ,12, 379.78 ,Debit Card,1/25/23
+e9ad7995,7199581b-3,Home & Kitchen, 304.06 ,18, 249.33 ,Credit Card,3/8/23
+efcf43d8,2739d8a4-1,Beauty, 302.93 ,5, 287.78 ,Cash on Delivery,4/15/23
+bbf18e01,5f56f43c-3,Grocery, 31.24 ,8, 28.74 ,UPI,2/22/23
+4fa93089,a537747a-b,Electronics, 439.88 ,15, 373.90 ,Net Banking,3/5/23
+4e69c8b2,2739d8a4-1,Clothing, 279.85 ,10, 251.86 ,Cash on Delivery,1/10/23
+59b1a413,ccdca36b-5,Books, 281.93 ,0, 281.93 ,Credit Card,1/28/23
+860101ea,359b2172-9,Toys, 284.01 ,5, 269.81 ,Debit Card,2/15/23
+fcdfd494,2739d8a4-1,Beauty, 286.09 ,12, 251.76 ,PayPal,3/12/23
+67abda0a,a537747a-b,Electronics, 288.17 ,20, 230.54 ,Cash on Delivery,4/5/23
+34ebc1a0,7199581b-3,Home & Kitchen, 290.25 ,15, 246.72 ,UPI,1/18/23
+1defd3b1,2739d8a4-1,Clothing, 292.33 ,8, 268.95 ,Credit Card,2/28/23
+0611293d,ccdca36b-5,Books, 294.42 ,0, 294.42 ,Debit Card,3/25/23
+e73ad07c,5f56f43c-3,Grocery, 31.24 ,10, 28.12 ,PayPal,4/10/23
+337c166f,359b2172-9,Sports, 298.58 ,12, 262.75 ,Cash on Delivery,1/22/23
+d38a19bf,2739d8a4-1,Beauty, 300.66 ,8, 276.61 ,Credit Card,2/18/23
+d7f5f0b0,a537747a-b,Electronics, 302.74 ,15, 257.33 ,UPI,3/30/23
+395d4994,7199581b-3,Home & Kitchen, 304.82 ,18, 249.96 ,Debit Card,4/20/23
+a83c145c,2739d8a4-1,Clothing, 306.91 ,10, 276.22 ,PayPal,1/15/23
+3fdcdae8,359b2172-9,Toys, 308.99 ,3, 299.72 ,Debit Card,1/17/23
+12772337,ccdca36b-5,Books, 311.07 ,0, 311.07 ,Credit Card,2/25/23
+9f0194af,5f56f43c-3,Grocery, 31.24 ,5, 29.68 ,Cash on Delivery,3/18/23
+7a8559d8,2739d8a4-1,Beauty, 315.23 ,22, 245.88 ,Debit Card,1/9/23
+8911f0d1,359b2172-9,Sports, 317.31 ,12, 279.24 ,UPI,4/2/23
+98857e41,a537747a-b,Electronics, 319.40 ,20, 255.52 ,Net Banking,2/8/23
+3b857e65,7199581b-3,Home & Kitchen, 321.48 ,15, 273.26 ,Credit Card,3/22/23
