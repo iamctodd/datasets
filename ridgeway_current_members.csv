@@ -1,0 +1,1201 @@
+member_id,home_club,age,tenure_months,contract_type,months_to_contract_end,plan_tier,monthly_fee,joined_on_promo,family_plan,personal_trainer,distance_km,app_user,visits_last_30d,visits_prev_30d,days_since_last_visit,classes_last_30d,payment_failures_12m,locker_rental,referral_source,complaints_12m
+RW-200001,Lakeview,26,10,Monthly,0,Basic,29,1,0,0,5.5,1,6,4,9,3,1,0,Walk-in,1
+RW-200002,Northgate,37,13,Annual,9,Basic,24,1,0,0,5.5,1,9,9,4,3,0,0,Online ad,0
+RW-200003,Downtown,36,9,Monthly,0,Basic,29,0,0,0,8.9,1,12,14,2,3,0,0,Online ad,0
+RW-200004,Riverside,27,18,Annual,9,Premium,74,1,0,0,3.4,0,8,8,8,0,0,0,Friend,0
+RW-200005,Riverside,43,9,Annual,10,Basic,24,0,0,0,5.5,0,11,12,5,3,1,0,Online ad,0
+RW-200006,Northgate,63,7,Annual,4,Basic,24,0,0,0,6.5,1,2,5,15,1,1,0,Online ad,0
+RW-200007,Downtown,27,27,Annual,9,Plus,39,1,0,1,9.7,0,6,3,3,4,0,1,Walk-in,0
+RW-200008,Riverside,24,22,Annual,4,Premium,69,1,1,0,2.9,0,2,10,12,0,2,0,Online ad,1
+RW-200009,Westfield,29,24,Monthly,0,Basic,19,1,0,0,4.0,1,0,6,62,0,0,0,Walk-in,1
+RW-200010,Northgate,25,8,Monthly,0,Basic,29,0,0,0,21.4,0,3,10,1,0,0,0,Friend,0
+RW-200011,Downtown,45,16,Annual,11,Basic,24,0,0,0,2.8,1,6,6,10,1,0,0,Walk-in,0
+RW-200012,Westfield,40,2,Annual,9,Basic,24,0,0,1,9.0,0,13,10,6,6,0,0,Friend,0
+RW-200013,Downtown,34,21,Monthly,0,Basic,29,1,0,0,8.3,1,12,6,5,0,1,0,Walk-in,0
+RW-200014,Lakeview,54,18,Annual,0,Premium,69,1,0,0,5.1,1,0,2,48,0,0,0,Corporate,0
+RW-200015,Downtown,46,8,Monthly,0,Basic,29,0,1,0,40.0,1,4,6,3,3,0,1,Walk-in,0
+RW-200016,Downtown,30,18,Annual,8,Basic,24,0,0,0,12.0,1,3,4,8,0,0,0,Online ad,0
+RW-200017,Westfield,56,46,Monthly,0,Basic,29,0,0,0,3.4,1,8,7,7,2,0,0,Online ad,0
+RW-200018,Riverside,42,11,Monthly,0,Premium,79,1,0,1,7.2,1,14,17,1,12,0,0,Walk-in,0
+RW-200019,Hillcrest,29,8,Monthly,0,Plus,49,0,1,0,5.5,0,7,5,5,0,0,1,Online ad,0
+RW-200020,Hillcrest,47,84,Monthly,0,Plus,49,0,0,0,2.9,1,15,14,6,2,1,0,Friend,0
+RW-200021,Downtown,30,19,Monthly,0,Plus,49,0,0,0,4.6,1,5,11,1,3,0,0,Friend,0
+RW-200022,Riverside,30,6,Monthly,0,Premium,79,0,1,0,3.0,0,1,10,10,0,0,0,Walk-in,0
+RW-200023,Riverside,35,36,Monthly,0,Plus,49,0,1,0,28.6,1,1,6,1,2,0,0,Walk-in,0
+RW-200024,Lakeview,56,4,Monthly,0,Plus,44,1,0,0,9.3,0,6,10,8,3,1,0,Walk-in,0
+RW-200025,Riverside,36,10,Monthly,0,Premium,79,1,0,0,1.2,0,1,1,15,0,0,0,Walk-in,0
+RW-200026,Lakeview,28,27,Monthly,0,Basic,29,0,0,0,7.5,0,6,4,10,0,0,0,Corporate,0
+RW-200027,Northgate,24,10,Annual,3,Plus,44,0,0,0,7.2,0,6,5,0,1,0,1,Corporate,0
+RW-200028,Westfield,36,44,Monthly,0,Basic,29,0,0,0,13.7,0,5,6,9,0,1,0,Walk-in,0
+RW-200029,Northgate,36,20,Monthly,0,Basic,19,1,0,0,2.3,1,9,6,1,0,0,0,Walk-in,0
+RW-200030,Hillcrest,29,49,Annual,4,Basic,24,0,0,0,10.9,0,0,11,37,0,0,1,Walk-in,0
+RW-200031,Riverside,30,15,Annual,6,Basic,24,0,0,0,11.1,1,0,5,39,0,0,0,Online ad,0
+RW-200032,Downtown,31,15,Annual,2,Basic,24,0,0,0,2.0,0,2,2,14,0,2,1,Walk-in,0
+RW-200033,Hillcrest,48,5,Monthly,0,Plus,49,0,0,0,5.8,1,19,20,4,2,0,0,Walk-in,0
+RW-200034,Riverside,47,21,Annual,6,Basic,24,0,0,1,2.2,1,5,12,1,0,0,0,Corporate,0
+RW-200035,Riverside,54,4,Annual,1,Basic,24,0,0,0,2.6,1,1,7,12,0,0,0,Walk-in,0
+RW-200036,Lakeview,24,28,Monthly,0,Premium,79,0,0,0,2.8,1,10,9,0,0,0,1,Corporate,0
+RW-200037,Riverside,34,2,Monthly,0,Plus,49,0,0,0,6.8,1,4,4,10,0,0,0,Online ad,0
+RW-200038,Lakeview,27,14,Annual,2,Premium,74,0,0,0,3.1,0,15,17,6,0,0,1,Corporate,0
+RW-200039,Riverside,35,50,Monthly,0,Plus,49,1,0,0,4.5,0,0,5,46,0,0,0,Online ad,1
+RW-200040,Westfield,31,11,Monthly,0,Basic,29,1,0,0,1.4,1,1,10,15,0,0,0,Friend,1
+RW-200041,Riverside,38,5,Monthly,0,Basic,29,0,1,0,8.9,1,6,3,3,0,0,0,Online ad,1
+RW-200042,Northgate,30,20,Annual,11,Plus,39,1,0,0,3.3,0,1,6,11,1,0,0,Walk-in,0
+RW-200043,Northgate,18,56,Annual,11,Plus,44,0,0,0,5.4,0,13,11,6,6,0,0,Walk-in,0
+RW-200044,Riverside,22,2,Annual,4,Basic,24,0,0,0,19.8,0,18,14,5,2,1,0,Friend,0
+RW-200045,Riverside,57,3,Annual,7,Plus,44,0,0,0,2.3,1,0,7,32,0,0,0,Friend,0
+RW-200046,Westfield,24,32,Annual,11,Plus,44,0,0,0,1.6,1,3,7,10,0,0,1,Online ad,0
+RW-200047,Hillcrest,26,31,Monthly,0,Premium,79,0,0,0,6.3,0,3,6,8,0,0,0,Walk-in,0
+RW-200048,Downtown,27,8,Monthly,0,Plus,49,0,0,0,4.0,1,15,12,1,1,0,0,Online ad,0
+RW-200049,Northgate,27,38,Monthly,0,Plus,44,1,0,0,4.1,1,10,8,3,0,0,1,Walk-in,0
+RW-200050,Lakeview,30,31,Annual,7,Premium,69,1,0,0,4.8,1,10,9,3,0,0,0,Friend,0
+RW-200051,Westfield,34,6,Annual,7,Premium,74,0,0,0,16.4,1,6,4,4,1,0,1,Corporate,0
+RW-200052,Westfield,68,37,Annual,6,Premium,74,0,0,1,4.0,0,3,5,12,1,0,1,Online ad,0
+RW-200053,Downtown,27,67,Monthly,0,Basic,29,0,0,0,7.1,0,7,18,5,3,2,0,Friend,0
+RW-200054,Downtown,28,2,Annual,7,Premium,74,0,0,0,6.1,0,11,17,6,0,0,0,Walk-in,0
+RW-200055,Downtown,20,48,Monthly,0,Basic,24,1,0,0,2.0,0,9,8,8,0,0,1,Walk-in,0
+RW-200056,Downtown,38,9,Monthly,0,Basic,29,0,0,0,3.0,0,13,11,3,14,0,0,Friend,0
+RW-200057,Riverside,47,31,Annual,4,Premium,69,1,0,0,2.4,0,28,28,0,1,1,0,Corporate,0
+RW-200058,Lakeview,40,79,Monthly,0,Basic,29,0,0,0,4.5,1,1,18,11,0,0,0,Online ad,0
+RW-200059,Westfield,32,28,Monthly,0,Premium,79,0,0,0,4.9,1,18,16,5,9,0,0,Walk-in,0
+RW-200060,Northgate,35,6,Monthly,0,Basic,29,0,0,0,10.0,1,3,11,10,0,0,0,Online ad,0
+RW-200061,Lakeview,50,50,Annual,4,Basic,24,0,0,0,1.9,0,11,6,1,5,1,0,Online ad,0
+RW-200062,Downtown,53,2,Monthly,0,Basic,29,0,0,0,15.3,1,3,4,8,0,0,0,Corporate,0
+RW-200063,Riverside,32,8,Annual,7,Basic,24,0,0,0,17.3,0,10,16,8,1,0,1,Online ad,0
+RW-200064,Northgate,30,7,Monthly,0,Basic,29,0,0,0,7.8,0,4,5,0,0,0,0,Friend,0
+RW-200065,Westfield,45,8,Monthly,0,Plus,49,0,0,0,5.5,1,28,28,1,1,0,1,Friend,0
+RW-200066,Downtown,47,9,Annual,1,Basic,24,0,0,0,8.9,1,9,7,9,5,0,0,Walk-in,0
+RW-200067,Lakeview,60,22,Monthly,0,Plus,49,1,0,0,2.7,1,8,7,1,1,1,0,Walk-in,1
+RW-200068,Northgate,38,11,Monthly,0,Basic,29,0,0,0,20.1,1,2,4,4,4,0,0,Walk-in,0
+RW-200069,Downtown,40,20,Monthly,0,Plus,49,0,0,0,10.1,0,0,2,43,0,1,0,Online ad,1
+RW-200070,Lakeview,61,2,Monthly,0,Basic,24,1,0,0,1.3,1,0,6,38,0,0,1,Walk-in,0
+RW-200071,Riverside,26,66,Monthly,0,Plus,49,0,1,0,4.6,1,5,0,10,0,1,1,Friend,0
+RW-200072,Lakeview,32,10,Monthly,0,Basic,29,1,1,0,7.3,0,28,13,1,1,0,1,Walk-in,0
+RW-200073,Northgate,65,16,Annual,0,Plus,44,0,0,0,2.3,0,9,8,6,1,0,0,Friend,0
+RW-200074,Lakeview,30,41,Monthly,0,Plus,49,0,0,0,2.4,1,12,11,2,0,0,0,Online ad,1
+RW-200075,Hillcrest,23,2,Monthly,0,Basic,29,0,0,0,6.1,0,0,4,48,0,0,1,Corporate,0
+RW-200076,Westfield,25,12,Monthly,0,Plus,49,1,0,0,1.5,0,11,8,6,0,0,0,Walk-in,0
+RW-200077,Northgate,33,36,Monthly,0,Basic,24,1,0,0,9.4,0,4,7,5,1,0,0,Walk-in,0
+RW-200078,Riverside,28,5,Annual,5,Basic,24,0,0,0,11.8,1,0,14,50,0,1,1,Friend,0
+RW-200079,Downtown,30,8,Monthly,0,Basic,29,0,0,1,9.4,0,11,11,5,2,0,1,Online ad,0
+RW-200080,Westfield,34,12,Monthly,0,Basic,29,0,0,1,9.4,1,3,5,6,2,0,0,Online ad,0
+RW-200081,Downtown,33,33,Monthly,0,Plus,49,0,0,0,10.8,1,5,6,11,3,0,0,Online ad,0
+RW-200082,Downtown,34,59,Monthly,0,Basic,29,0,0,0,3.0,0,6,8,2,2,0,1,Friend,0
+RW-200083,Northgate,31,4,Annual,4,Basic,24,0,0,0,4.6,0,2,2,14,0,0,0,Walk-in,0
+RW-200084,Riverside,27,6,Annual,11,Plus,44,0,0,0,8.1,1,3,4,6,0,0,0,Online ad,0
+RW-200085,Northgate,28,2,Monthly,0,Basic,19,1,0,0,4.1,0,4,4,6,1,0,0,Corporate,0
+RW-200086,Downtown,40,9,Monthly,0,Plus,49,0,0,0,4.3,0,0,9,37,0,0,0,Friend,0
+RW-200087,Lakeview,45,35,Annual,6,Premium,74,0,0,0,17.1,0,6,10,6,0,2,0,Online ad,0
+RW-200088,Downtown,27,11,Annual,8,Basic,24,0,0,0,7.5,1,6,6,1,4,0,1,Walk-in,1
+RW-200089,Hillcrest,33,18,Annual,2,Basic,24,0,0,0,5.3,1,8,7,0,7,0,0,Online ad,0
+RW-200090,Westfield,49,5,Monthly,0,Premium,79,0,0,1,4.2,1,13,18,5,0,2,0,Walk-in,0
+RW-200091,Downtown,28,41,Monthly,0,Basic,29,0,1,0,3.5,0,8,14,1,5,0,0,Friend,0
+RW-200092,Hillcrest,25,5,Annual,2,Plus,44,0,0,0,5.8,0,2,12,10,0,0,0,Friend,0
+RW-200093,Riverside,21,31,Monthly,0,Premium,74,1,1,1,21.6,1,11,27,3,6,0,1,Walk-in,1
+RW-200094,Lakeview,28,6,Annual,4,Basic,24,0,1,0,18.3,1,1,4,6,0,0,0,Friend,1
+RW-200095,Downtown,24,13,Monthly,0,Basic,29,0,1,0,3.6,0,28,28,1,1,0,0,Corporate,0
+RW-200096,Riverside,26,7,Monthly,0,Plus,49,0,0,0,7.9,1,4,4,4,1,0,0,Friend,1
+RW-200097,Lakeview,33,3,Monthly,0,Plus,49,1,0,0,4.5,0,2,16,3,1,0,1,Friend,1
+RW-200098,Riverside,36,3,Annual,1,Basic,24,0,0,1,15.7,1,13,5,5,6,1,0,Walk-in,0
+RW-200099,Downtown,32,3,Monthly,0,Basic,29,0,0,0,9.0,1,7,3,7,2,0,0,Friend,0
+RW-200100,Lakeview,42,8,Monthly,0,Plus,49,0,1,0,8.4,1,17,18,1,7,0,0,Online ad,0
+RW-200101,Downtown,22,5,Annual,10,Plus,44,0,1,0,4.9,0,6,4,3,4,0,0,Friend,0
+RW-200102,Riverside,33,16,Annual,9,Basic,24,0,0,0,3.7,1,2,5,9,0,0,0,Online ad,0
+RW-200103,Lakeview,29,63,Annual,8,Basic,24,0,0,1,3.5,0,9,20,3,0,0,1,Friend,1
+RW-200104,Northgate,31,7,Annual,7,Basic,19,1,0,0,7.3,0,6,15,7,0,0,0,Walk-in,0
+RW-200105,Northgate,21,21,Monthly,0,Basic,29,0,0,0,7.2,1,2,6,3,1,1,0,Walk-in,0
+RW-200106,Northgate,23,14,Annual,6,Basic,24,0,1,0,8.3,1,2,5,8,0,0,1,Walk-in,0
+RW-200107,Westfield,29,37,Monthly,0,Plus,49,0,0,0,4.7,1,12,24,3,0,0,0,Walk-in,0
+RW-200108,Lakeview,23,6,Annual,0,Premium,74,0,0,0,6.9,0,10,8,6,6,0,0,Walk-in,0
+RW-200109,Riverside,29,45,Monthly,0,Plus,49,0,0,0,4.8,0,5,4,10,0,0,0,Walk-in,0
+RW-200110,Lakeview,45,7,Monthly,0,Plus,49,1,0,0,9.7,1,21,17,4,3,0,1,Walk-in,0
+RW-200111,Westfield,27,1,Monthly,0,Plus,49,0,0,0,8.7,0,3,0,13,2,0,0,Walk-in,0
+RW-200112,Hillcrest,43,98,Monthly,0,Plus,49,0,0,0,14.3,0,4,4,3,2,0,0,Online ad,0
+RW-200113,Hillcrest,33,18,Annual,6,Plus,44,0,0,0,5.2,1,8,16,5,0,1,0,Corporate,0
+RW-200114,Lakeview,55,29,Annual,7,Premium,74,0,1,0,3.5,1,18,12,1,15,1,0,Online ad,0
+RW-200115,Hillcrest,26,3,Annual,9,Plus,44,0,0,1,2.4,1,8,15,0,3,0,0,Friend,0
+RW-200116,Westfield,30,13,Monthly,0,Plus,49,1,0,0,3.8,1,0,5,76,0,0,0,Online ad,0
+RW-200117,Riverside,22,21,Annual,6,Plus,44,0,0,0,1.6,0,12,9,8,5,0,0,Friend,0
+RW-200118,Westfield,43,14,Monthly,0,Basic,29,0,1,0,2.8,1,5,5,2,1,0,0,Walk-in,0
+RW-200119,Northgate,24,43,Monthly,0,Plus,49,0,0,0,6.5,1,6,6,8,0,0,0,Friend,0
+RW-200120,Downtown,34,55,Annual,11,Basic,24,0,0,0,4.0,1,28,24,2,2,0,0,Friend,0
+RW-200121,Northgate,30,18,Annual,8,Premium,74,0,0,0,15.8,0,3,11,2,0,0,0,Online ad,0
+RW-200122,Riverside,50,23,Monthly,0,Plus,49,0,0,0,4.8,0,2,4,6,3,1,0,Online ad,0
+RW-200123,Lakeview,51,3,Monthly,0,Plus,44,1,0,0,5.9,1,5,10,3,2,0,0,Walk-in,0
+RW-200124,Riverside,31,28,Monthly,0,Premium,79,0,0,1,7.6,1,8,27,6,1,1,0,Friend,0
+RW-200125,Lakeview,24,5,Annual,7,Basic,24,0,0,0,4.3,0,10,7,8,8,0,1,Friend,0
+RW-200126,Riverside,29,37,Monthly,0,Plus,49,0,0,1,4.8,1,25,25,2,2,0,0,Walk-in,1
+RW-200127,Lakeview,40,26,Annual,5,Basic,24,0,0,0,9.3,0,4,5,4,2,1,1,Walk-in,0
+RW-200128,Lakeview,43,16,Annual,1,Basic,24,0,0,0,15.7,0,15,11,6,11,1,0,Friend,1
+RW-200129,Riverside,21,53,Annual,9,Basic,24,0,0,0,3.2,1,7,10,5,0,1,0,Online ad,0
+RW-200130,Northgate,33,35,Monthly,0,Plus,49,0,0,0,7.0,0,5,8,11,1,0,0,Corporate,0
+RW-200131,Downtown,37,10,Monthly,0,Plus,49,1,0,0,17.3,0,5,3,4,3,0,0,Friend,0
+RW-200132,Westfield,44,62,Monthly,0,Plus,49,0,1,0,2.0,0,14,13,7,0,0,0,Walk-in,0
+RW-200133,Westfield,23,38,Monthly,0,Basic,19,1,0,0,4.9,0,2,3,5,0,0,0,Walk-in,0
+RW-200134,Northgate,42,24,Monthly,0,Plus,49,0,0,0,6.0,1,5,3,11,4,0,0,Walk-in,1
+RW-200135,Downtown,28,51,Monthly,0,Basic,29,0,0,1,17.3,0,6,7,5,0,0,0,Walk-in,0
+RW-200136,Hillcrest,27,17,Annual,10,Basic,24,0,0,0,3.8,1,4,6,1,0,1,0,Walk-in,0
+RW-200137,Downtown,40,37,Annual,8,Plus,44,0,0,0,5.0,0,6,4,3,0,0,0,Online ad,0
+RW-200138,Hillcrest,33,6,Annual,6,Premium,74,0,1,0,26.1,1,2,5,1,0,0,0,Online ad,0
+RW-200139,Lakeview,27,8,Monthly,0,Basic,29,0,0,0,5.2,0,4,3,11,1,0,0,Online ad,0
+RW-200140,Riverside,38,60,Monthly,0,Premium,79,0,0,0,3.1,1,4,11,12,0,0,0,Walk-in,1
+RW-200141,Westfield,40,6,Monthly,0,Basic,19,1,0,0,6.4,1,0,3,69,0,1,0,Online ad,0
+RW-200142,Riverside,23,27,Monthly,0,Plus,49,0,0,0,2.5,0,3,3,6,0,0,0,Online ad,1
+RW-200143,Northgate,32,4,Monthly,0,Plus,49,1,0,0,3.3,1,7,8,6,1,0,0,Friend,0
+RW-200144,Downtown,55,14,Monthly,0,Basic,29,0,0,0,3.1,0,12,8,2,7,0,0,Friend,0
+RW-200145,Riverside,30,18,Monthly,0,Plus,49,1,0,0,11.7,1,11,12,5,7,1,0,Online ad,0
+RW-200146,Downtown,24,1,Monthly,0,Basic,29,0,0,0,5.3,1,10,0,8,0,0,0,Walk-in,0
+RW-200147,Riverside,33,12,Monthly,0,Basic,29,0,0,0,13.8,1,2,3,10,0,0,1,Walk-in,1
+RW-200148,Westfield,33,6,Monthly,0,Basic,29,0,0,0,9.9,1,2,3,17,0,0,0,Walk-in,1
+RW-200149,Westfield,43,6,Annual,11,Premium,74,0,0,1,13.6,0,13,7,7,4,0,0,Online ad,0
+RW-200150,Westfield,34,14,Annual,10,Premium,74,0,1,0,3.4,0,2,4,6,0,0,0,Online ad,0
+RW-200151,Downtown,43,7,Annual,9,Premium,74,1,0,0,4.2,1,3,11,6,3,0,0,Friend,0
+RW-200152,Northgate,42,2,Monthly,0,Plus,49,0,0,0,11.5,0,1,4,4,1,0,0,Online ad,0
+RW-200153,Hillcrest,38,33,Monthly,0,Plus,49,0,1,0,6.7,1,11,10,7,1,0,0,Friend,0
+RW-200154,Lakeview,26,22,Monthly,0,Basic,29,0,0,0,3.0,0,2,3,12,0,1,0,Walk-in,0
+RW-200155,Downtown,35,11,Annual,6,Basic,24,0,0,0,4.9,0,28,28,3,12,0,0,Friend,0
+RW-200156,Riverside,39,13,Monthly,0,Basic,29,0,1,0,13.1,0,8,5,2,0,0,1,Walk-in,0
+RW-200157,Lakeview,52,25,Annual,3,Plus,44,1,0,0,3.8,0,0,2,35,0,0,1,Corporate,1
+RW-200158,Riverside,63,23,Monthly,0,Basic,29,0,0,0,4.0,1,13,8,7,1,1,0,Walk-in,0
+RW-200159,Hillcrest,70,16,Monthly,0,Plus,49,0,0,0,4.2,0,7,4,1,1,1,1,Walk-in,0
+RW-200160,Downtown,27,22,Monthly,0,Basic,29,0,0,0,4.9,1,3,5,10,1,1,0,Online ad,0
+RW-200161,Riverside,34,8,Annual,5,Basic,24,0,0,0,6.5,1,8,7,6,0,0,0,Walk-in,0
+RW-200162,Riverside,25,8,Annual,8,Basic,24,1,1,0,6.1,1,3,6,6,2,0,0,Walk-in,0
+RW-200163,Westfield,27,5,Annual,9,Basic,24,0,1,1,14.4,1,0,18,39,0,0,1,Friend,0
+RW-200164,Downtown,24,7,Monthly,0,Plus,44,1,0,0,4.9,1,15,6,1,0,0,0,Online ad,0
+RW-200165,Lakeview,57,37,Monthly,0,Basic,29,0,0,0,3.3,1,2,7,1,0,0,0,Friend,1
+RW-200166,Northgate,32,45,Monthly,0,Basic,29,0,1,0,4.4,0,10,9,7,1,0,0,Friend,0
+RW-200167,Lakeview,27,5,Monthly,0,Basic,29,0,0,0,2.8,1,4,1,9,0,1,0,Online ad,0
+RW-200168,Hillcrest,36,31,Annual,8,Premium,74,0,0,0,5.2,1,28,28,3,3,1,0,Walk-in,0
+RW-200169,Riverside,39,22,Monthly,0,Plus,49,0,0,0,4.8,1,4,8,1,0,2,0,Walk-in,0
+RW-200170,Lakeview,21,9,Monthly,0,Basic,29,0,1,0,1.5,0,24,25,1,1,0,0,Online ad,1
+RW-200171,Westfield,46,13,Monthly,0,Premium,74,1,0,0,1.4,1,12,15,2,1,1,0,Online ad,0
+RW-200172,Hillcrest,72,1,Monthly,0,Basic,29,0,1,0,12.2,1,4,0,6,0,0,0,Walk-in,0
+RW-200173,Hillcrest,30,21,Monthly,0,Basic,29,1,1,1,5.8,1,3,10,2,0,1,0,Online ad,0
+RW-200174,Lakeview,46,5,Monthly,0,Basic,29,0,0,0,14.3,0,2,6,5,0,1,1,Friend,0
+RW-200175,Hillcrest,29,20,Monthly,0,Basic,29,0,0,0,11.6,1,5,4,4,0,0,1,Corporate,0
+RW-200176,Westfield,36,57,Annual,4,Basic,24,0,1,0,2.2,0,14,15,6,2,0,0,Walk-in,1
+RW-200177,Riverside,22,9,Monthly,0,Premium,79,0,0,0,0.8,0,9,7,7,3,0,0,Walk-in,0
+RW-200178,Downtown,31,47,Annual,6,Basic,24,0,0,0,2.4,1,9,12,1,1,0,0,Walk-in,0
+RW-200179,Downtown,34,3,Monthly,0,Plus,49,0,0,0,16.5,0,13,6,7,4,0,0,Walk-in,0
+RW-200180,Riverside,25,5,Annual,1,Plus,44,1,0,0,2.6,0,5,4,1,0,0,0,Online ad,0
+RW-200181,Northgate,34,39,Monthly,0,Plus,49,0,1,0,1.2,0,1,7,10,1,0,0,Walk-in,0
+RW-200182,Downtown,73,13,Monthly,0,Premium,69,1,1,1,2.3,1,10,14,1,9,0,0,Online ad,0
+RW-200183,Hillcrest,32,71,Monthly,0,Plus,49,0,0,0,8.3,0,6,12,2,3,0,0,Walk-in,0
+RW-200184,Riverside,35,25,Monthly,0,Basic,29,0,0,0,21.8,0,5,5,2,0,0,0,Friend,0
+RW-200185,Northgate,25,52,Annual,8,Basic,24,0,0,0,5.1,0,9,9,7,0,0,0,Online ad,0
+RW-200186,Northgate,46,8,Monthly,0,Basic,29,0,0,0,1.5,1,3,4,7,0,1,0,Walk-in,0
+RW-200187,Westfield,37,2,Annual,9,Basic,24,0,0,0,1.8,1,6,4,6,0,0,0,Online ad,0
+RW-200188,Downtown,35,14,Monthly,0,Premium,79,0,0,0,4.1,0,6,15,3,0,2,1,Walk-in,1
+RW-200189,Northgate,40,38,Monthly,0,Plus,49,0,0,0,6.5,0,26,11,3,2,0,0,Walk-in,0
+RW-200190,Downtown,21,5,Annual,9,Basic,24,0,0,0,1.4,0,4,9,2,4,0,0,Friend,0
+RW-200191,Westfield,37,4,Monthly,0,Plus,49,0,0,0,2.5,1,5,3,11,5,1,0,Online ad,1
+RW-200192,Westfield,31,29,Annual,9,Plus,34,1,1,0,10.9,1,12,10,5,5,0,0,Walk-in,0
+RW-200193,Riverside,24,10,Annual,5,Basic,14,1,0,0,5.4,1,5,3,5,1,0,0,Walk-in,0
+RW-200194,Riverside,58,18,Annual,4,Plus,44,0,0,0,7.5,1,1,6,5,1,0,0,Online ad,2
+RW-200195,Northgate,19,19,Annual,1,Basic,19,1,0,1,11.9,1,4,9,1,3,1,0,Corporate,0
+RW-200196,Downtown,25,10,Annual,2,Basic,24,0,1,0,5.7,1,9,6,9,3,2,0,Friend,0
+RW-200197,Downtown,34,12,Annual,11,Plus,44,0,0,0,17.6,0,4,1,6,0,0,1,Friend,0
+RW-200198,Riverside,21,27,Monthly,0,Plus,39,1,0,0,16.5,1,19,17,4,0,0,0,Walk-in,0
+RW-200199,Northgate,37,8,Annual,10,Premium,74,0,0,0,5.7,1,3,4,5,0,0,0,Online ad,0
+RW-200200,Lakeview,40,25,Monthly,0,Basic,29,1,1,0,12.1,1,8,14,7,5,1,1,Online ad,0
+RW-200201,Lakeview,39,60,Annual,0,Plus,44,0,0,0,2.9,0,4,2,11,0,0,0,Friend,0
+RW-200202,Lakeview,56,55,Annual,10,Basic,24,0,0,0,1.5,1,13,6,7,9,0,0,Walk-in,1
+RW-200203,Hillcrest,47,43,Monthly,0,Basic,29,0,0,0,10.0,0,1,3,6,1,0,0,Online ad,0
+RW-200204,Downtown,35,79,Monthly,0,Basic,29,0,0,0,1.2,1,1,10,2,0,1,0,Friend,0
+RW-200205,Lakeview,22,26,Monthly,0,Basic,29,0,0,0,11.4,1,1,18,0,1,0,1,Online ad,0
+RW-200206,Downtown,28,24,Annual,1,Basic,24,0,0,0,4.8,1,8,12,3,1,0,1,Friend,0
+RW-200207,Riverside,31,1,Annual,2,Basic,24,1,0,0,4.9,1,12,0,7,6,0,0,Friend,2
+RW-200208,Lakeview,39,10,Monthly,0,Premium,79,0,0,1,6.0,0,5,8,9,1,0,0,Walk-in,0
+RW-200209,Downtown,35,11,Annual,4,Plus,44,0,0,0,40.0,1,3,3,13,3,0,0,Walk-in,0
+RW-200210,Riverside,28,14,Monthly,0,Plus,49,0,0,0,5.8,0,0,3,37,0,0,0,Online ad,0
+RW-200211,Downtown,34,37,Monthly,0,Plus,49,0,1,0,4.2,1,3,6,2,1,0,1,Walk-in,0
+RW-200212,Westfield,22,9,Monthly,0,Plus,49,0,0,0,2.2,0,0,10,101,0,0,0,Walk-in,0
+RW-200213,Riverside,49,3,Monthly,0,Premium,69,1,0,0,4.4,1,11,10,4,1,0,0,Friend,0
+RW-200214,Hillcrest,26,9,Annual,11,Basic,24,0,0,0,11.1,1,12,8,6,4,0,0,Walk-in,0
+RW-200215,Lakeview,27,23,Monthly,0,Basic,29,0,0,0,3.2,1,0,7,36,0,0,0,Online ad,1
+RW-200216,Northgate,44,10,Annual,5,Basic,24,1,0,0,2.6,1,9,17,9,5,1,1,Online ad,0
+RW-200217,Riverside,44,9,Annual,2,Basic,14,1,0,0,7.9,0,4,9,0,0,1,0,Walk-in,0
+RW-200218,Westfield,45,15,Monthly,0,Basic,29,0,0,0,4.6,0,3,3,10,0,0,0,Friend,0
+RW-200219,Westfield,28,48,Monthly,0,Basic,29,0,1,0,1.0,1,9,5,1,6,2,1,Walk-in,0
+RW-200220,Westfield,44,7,Monthly,0,Premium,79,1,0,0,4.0,0,6,5,8,6,0,0,Online ad,0
+RW-200221,Hillcrest,34,9,Monthly,0,Plus,39,1,0,0,3.3,0,23,15,1,7,1,0,Online ad,0
+RW-200222,Riverside,22,25,Annual,10,Plus,44,0,0,0,9.2,1,6,4,5,2,0,0,Online ad,0
+RW-200223,Lakeview,57,25,Monthly,0,Basic,29,0,0,0,1.7,1,4,5,7,0,0,0,Online ad,0
+RW-200224,Lakeview,35,59,Annual,10,Plus,44,0,0,1,12.6,0,5,7,10,2,0,0,Online ad,1
+RW-200225,Northgate,39,24,Annual,9,Basic,24,0,0,0,5.1,0,8,4,2,2,0,0,Online ad,0
+RW-200226,Lakeview,37,14,Monthly,0,Basic,29,0,0,0,3.0,0,15,11,4,0,0,0,Corporate,0
+RW-200227,Lakeview,21,4,Monthly,0,Basic,29,0,0,0,3.0,0,6,2,4,2,0,0,Friend,0
+RW-200228,Riverside,27,70,Annual,7,Basic,24,0,1,0,0.8,1,7,6,9,0,1,0,Online ad,0
+RW-200229,Westfield,27,4,Monthly,0,Plus,49,0,0,1,4.2,1,2,4,7,0,0,1,Friend,0
+RW-200230,Lakeview,30,29,Annual,9,Basic,19,1,1,0,4.1,0,17,25,0,0,0,0,Online ad,0
+RW-200231,Westfield,39,51,Monthly,0,Premium,79,0,1,0,3.4,0,12,6,3,2,0,0,Online ad,0
+RW-200232,Westfield,67,10,Annual,2,Plus,44,0,0,1,1.4,0,4,11,2,1,0,1,Online ad,1
+RW-200233,Westfield,24,4,Annual,11,Plus,44,0,1,0,6.3,0,7,9,1,1,0,0,Walk-in,0
+RW-200234,Northgate,40,6,Annual,7,Plus,44,0,0,0,8.2,0,7,2,5,0,0,0,Corporate,1
+RW-200235,Downtown,35,3,Annual,10,Plus,44,0,1,0,4.1,1,15,10,6,0,0,0,Friend,0
+RW-200236,Westfield,67,15,Monthly,0,Basic,29,0,0,0,10.1,1,18,15,3,6,0,0,Corporate,1
+RW-200237,Westfield,20,10,Monthly,0,Basic,19,1,0,0,3.8,1,0,0,67,0,0,0,Online ad,0
+RW-200238,Northgate,37,42,Monthly,0,Plus,49,0,0,0,1.8,0,18,12,5,1,0,1,Online ad,0
+RW-200239,Riverside,22,8,Monthly,0,Basic,29,0,0,0,3.4,1,1,3,7,0,0,0,Friend,0
+RW-200240,Hillcrest,54,31,Annual,4,Plus,44,0,0,0,3.5,1,7,9,5,0,0,0,Friend,0
+RW-200241,Riverside,48,6,Monthly,0,Plus,49,0,0,0,1.8,1,9,7,8,0,0,1,Online ad,0
+RW-200242,Northgate,21,77,Monthly,0,Basic,29,0,0,0,3.3,0,14,12,3,7,0,0,Online ad,0
+RW-200243,Riverside,31,40,Annual,6,Basic,24,0,0,0,3.5,0,7,10,8,2,1,0,Friend,0
+RW-200244,Riverside,22,6,Monthly,0,Basic,29,0,0,0,10.5,0,3,4,11,1,0,0,Online ad,0
+RW-200245,Northgate,48,63,Monthly,0,Basic,29,0,0,0,6.1,1,9,8,1,0,0,0,Walk-in,0
+RW-200246,Westfield,35,43,Monthly,0,Basic,29,0,0,1,22.6,1,6,5,2,1,1,0,Walk-in,0
+RW-200247,Downtown,51,8,Annual,9,Plus,34,1,0,0,8.4,0,7,5,5,2,1,0,Online ad,0
+RW-200248,Hillcrest,50,23,Monthly,0,Premium,69,1,0,1,11.6,1,4,5,0,0,0,0,Online ad,0
+RW-200249,Westfield,24,38,Annual,3,Plus,44,0,0,0,13.8,0,13,8,8,0,0,1,Friend,0
+RW-200250,Downtown,32,10,Monthly,0,Basic,29,0,0,0,2.4,0,0,9,51,0,0,1,Online ad,0
+RW-200251,Downtown,28,13,Annual,4,Plus,44,0,0,0,4.6,1,20,15,3,4,0,0,Walk-in,0
+RW-200252,Downtown,43,76,Annual,1,Plus,44,0,0,0,4.8,1,5,14,6,0,1,0,Friend,0
+RW-200253,Northgate,31,46,Annual,2,Plus,39,1,0,1,15.2,0,3,5,6,0,0,1,Online ad,0
+RW-200254,Riverside,27,15,Annual,8,Plus,44,0,0,0,2.5,1,6,7,8,1,0,0,Online ad,0
+RW-200255,Westfield,31,13,Monthly,0,Plus,49,0,0,0,3.9,0,3,6,0,1,0,0,Walk-in,1
+RW-200256,Hillcrest,62,58,Monthly,0,Basic,29,0,0,0,19.2,0,4,6,1,3,0,0,Walk-in,0
+RW-200257,Lakeview,40,11,Annual,7,Basic,24,0,1,0,22.6,0,3,4,4,0,0,0,Friend,0
+RW-200258,Hillcrest,25,13,Monthly,0,Plus,49,0,1,0,2.5,1,6,7,2,2,3,0,Online ad,0
+RW-200259,Downtown,22,8,Monthly,0,Premium,79,0,0,0,1.6,1,0,6,56,0,0,0,Walk-in,0
+RW-200260,Lakeview,37,2,Monthly,0,Basic,29,0,0,0,6.4,1,5,5,2,0,1,0,Online ad,0
+RW-200261,Riverside,40,43,Annual,2,Premium,74,0,1,0,2.9,0,19,16,1,11,0,0,Friend,0
+RW-200262,Riverside,35,24,Monthly,0,Basic,24,1,1,0,12.4,1,7,8,4,6,0,0,Online ad,0
+RW-200263,Hillcrest,75,9,Annual,4,Basic,24,0,1,0,2.9,0,3,0,3,0,0,0,Corporate,0
+RW-200264,Westfield,44,3,Monthly,0,Premium,79,0,1,1,13.9,0,1,1,18,1,1,0,Corporate,0
+RW-200265,Hillcrest,46,3,Monthly,0,Premium,79,0,1,0,3.2,0,14,5,5,0,0,0,Friend,1
+RW-200266,Westfield,45,1,Annual,3,Premium,74,0,1,0,1.8,0,14,0,5,7,0,0,Online ad,0
+RW-200267,Westfield,30,17,Annual,5,Plus,39,1,0,0,2.7,1,10,10,1,2,0,0,Online ad,1
+RW-200268,Northgate,42,27,Monthly,0,Basic,29,0,0,0,17.8,1,9,7,7,4,1,0,Friend,0
+RW-200269,Northgate,32,30,Annual,6,Basic,24,0,0,0,11.5,1,25,23,5,3,0,1,Corporate,0
+RW-200270,Northgate,62,8,Monthly,0,Basic,19,1,0,0,4.4,1,10,9,4,2,1,0,Walk-in,0
+RW-200271,Northgate,23,17,Monthly,0,Basic,29,1,0,0,1.8,0,7,8,4,3,0,1,Friend,0
+RW-200272,Lakeview,24,84,Monthly,0,Premium,79,1,0,0,4.4,1,6,9,5,1,1,1,Walk-in,0
+RW-200273,Northgate,33,11,Monthly,0,Premium,79,0,0,0,2.6,0,9,7,5,0,0,0,Online ad,0
+RW-200274,Downtown,30,7,Monthly,0,Basic,29,0,1,0,1.9,1,14,12,5,5,1,0,Friend,1
+RW-200275,Lakeview,37,39,Monthly,0,Plus,49,0,0,0,9.3,1,13,9,6,4,0,1,Walk-in,0
+RW-200276,Lakeview,40,8,Monthly,0,Premium,79,0,1,0,8.3,1,13,11,3,0,1,1,Online ad,0
+RW-200277,Riverside,39,24,Annual,5,Plus,44,0,0,0,6.6,0,10,4,4,0,0,0,Online ad,0
+RW-200278,Hillcrest,25,41,Monthly,0,Basic,29,0,1,0,2.6,0,8,9,2,0,0,1,Online ad,0
+RW-200279,Westfield,61,5,Monthly,0,Basic,24,1,0,0,5.6,0,1,9,6,1,0,0,Online ad,0
+RW-200280,Riverside,32,4,Annual,0,Premium,74,0,0,0,5.4,0,8,15,9,1,0,0,Online ad,1
+RW-200281,Northgate,26,21,Annual,9,Basic,19,1,0,0,6.8,0,11,7,7,4,0,0,Walk-in,0
+RW-200282,Lakeview,28,6,Annual,5,Plus,39,1,0,0,1.5,0,10,6,8,0,1,1,Walk-in,0
+RW-200283,Hillcrest,59,22,Monthly,0,Premium,79,0,1,1,7.9,1,8,10,5,2,0,0,Corporate,0
+RW-200284,Riverside,24,22,Monthly,0,Basic,29,0,0,0,5.9,0,12,15,5,1,1,0,Online ad,0
+RW-200285,Lakeview,42,12,Annual,9,Basic,19,1,0,1,9.3,1,9,3,1,0,1,1,Friend,0
+RW-200286,Riverside,47,29,Annual,10,Basic,24,0,0,0,1.9,0,2,4,14,0,0,0,Friend,0
+RW-200287,Riverside,22,27,Monthly,0,Premium,79,0,0,1,12.7,0,7,8,7,0,1,0,Online ad,0
+RW-200288,Hillcrest,38,11,Monthly,0,Plus,49,0,1,0,9.5,1,5,5,11,2,0,0,Online ad,0
+RW-200289,Riverside,39,19,Annual,6,Basic,24,0,0,0,2.1,0,15,11,6,0,0,0,Friend,0
+RW-200290,Lakeview,31,2,Annual,0,Plus,44,0,0,1,17.3,1,1,2,16,0,0,0,Walk-in,0
+RW-200291,Hillcrest,38,64,Monthly,0,Basic,29,0,0,0,5.5,1,4,14,3,0,1,1,Corporate,0
+RW-200292,Hillcrest,25,45,Annual,5,Basic,19,1,0,1,5.0,0,0,1,31,0,0,0,Walk-in,0
+RW-200293,Hillcrest,35,23,Monthly,0,Plus,49,0,0,0,5.2,0,28,28,3,2,0,0,Walk-in,0
+RW-200294,Westfield,50,6,Annual,8,Premium,74,0,1,0,17.0,1,9,8,3,4,0,1,Walk-in,0
+RW-200295,Hillcrest,24,25,Annual,6,Plus,44,0,0,0,2.2,0,8,11,3,0,0,0,Online ad,0
+RW-200296,Westfield,32,11,Monthly,0,Premium,79,0,1,1,11.9,1,7,10,9,0,0,0,Corporate,0
+RW-200297,Hillcrest,56,44,Monthly,0,Plus,44,1,0,0,2.8,0,11,13,2,2,1,1,Walk-in,0
+RW-200298,Westfield,36,21,Annual,1,Basic,24,0,0,1,8.6,1,12,17,0,0,0,1,Walk-in,0
+RW-200299,Northgate,24,6,Monthly,0,Basic,29,0,0,0,2.0,1,2,8,12,0,0,0,Online ad,0
+RW-200300,Northgate,42,27,Annual,4,Plus,44,0,0,1,4.3,1,9,6,9,1,0,0,Corporate,0
+RW-200301,Westfield,41,21,Annual,9,Basic,19,1,0,1,5.7,1,5,3,0,1,0,0,Friend,0
+RW-200302,Westfield,59,6,Annual,7,Premium,74,0,1,0,8.5,1,11,13,3,3,0,0,Walk-in,0
+RW-200303,Westfield,29,8,Monthly,0,Plus,49,0,0,0,5.1,1,0,5,63,0,0,0,Online ad,0
+RW-200304,Lakeview,39,8,Monthly,0,Basic,29,0,0,0,5.1,0,5,3,3,2,0,1,Online ad,0
+RW-200305,Riverside,35,4,Monthly,0,Plus,49,0,0,0,7.4,1,0,13,41,0,0,0,Online ad,0
+RW-200306,Downtown,29,11,Annual,10,Basic,24,0,0,0,6.6,1,5,13,11,0,0,0,Online ad,0
+RW-200307,Westfield,42,2,Monthly,0,Basic,29,0,0,0,3.3,1,8,3,5,0,0,0,Online ad,0
+RW-200308,Northgate,36,12,Monthly,0,Basic,29,0,0,0,4.8,1,11,10,4,6,0,0,Walk-in,0
+RW-200309,Westfield,34,17,Monthly,0,Plus,49,0,0,0,2.6,0,2,2,2,0,0,0,Corporate,0
+RW-200310,Downtown,20,9,Monthly,0,Plus,49,0,0,0,11.3,0,3,2,10,0,0,0,Walk-in,0
+RW-200311,Lakeview,34,64,Monthly,0,Basic,29,0,0,0,7.8,1,11,12,0,1,1,0,Online ad,0
+RW-200312,Downtown,51,20,Monthly,0,Plus,49,1,1,0,4.4,0,11,9,8,6,0,0,Online ad,0
+RW-200313,Hillcrest,36,37,Annual,4,Plus,44,0,0,0,5.8,1,11,15,0,0,0,0,Online ad,0
+RW-200314,Northgate,30,1,Annual,6,Premium,74,0,0,0,12.0,0,8,0,7,1,0,0,Online ad,1
+RW-200315,Hillcrest,29,19,Annual,8,Premium,74,0,0,0,3.6,0,28,21,3,1,1,0,Online ad,1
+RW-200316,Riverside,33,38,Monthly,0,Basic,29,0,0,0,2.4,0,8,2,3,5,1,1,Online ad,0
+RW-200317,Downtown,53,22,Monthly,0,Basic,29,0,1,0,4.0,1,14,17,0,0,0,0,Walk-in,1
+RW-200318,Westfield,44,14,Annual,9,Premium,74,0,1,0,9.7,1,7,16,6,0,0,0,Online ad,0
+RW-200319,Lakeview,26,42,Monthly,0,Premium,79,0,0,0,14.3,0,22,18,2,10,1,0,Friend,1
+RW-200320,Downtown,29,12,Monthly,0,Premium,79,0,1,0,5.0,1,21,19,1,2,0,0,Corporate,0
+RW-200321,Westfield,37,22,Monthly,0,Basic,29,0,0,0,1.2,1,12,10,6,6,0,1,Walk-in,0
+RW-200322,Lakeview,23,1,Annual,7,Basic,14,1,1,0,13.7,0,1,0,9,0,1,0,Online ad,0
+RW-200323,Hillcrest,31,11,Monthly,0,Plus,49,0,0,0,5.4,1,6,12,11,3,1,0,Friend,0
+RW-200324,Downtown,42,16,Monthly,0,Plus,49,0,1,0,2.4,1,0,13,44,0,0,0,Online ad,0
+RW-200325,Riverside,38,2,Annual,2,Basic,24,0,0,0,6.6,1,9,7,2,0,0,0,Friend,0
+RW-200326,Downtown,43,12,Monthly,0,Plus,49,0,1,0,1.2,1,7,6,6,1,0,0,Walk-in,0
+RW-200327,Hillcrest,33,51,Monthly,0,Premium,79,1,0,0,9.4,0,2,10,7,0,0,0,Online ad,0
+RW-200328,Downtown,36,26,Monthly,0,Basic,29,0,0,0,15.3,1,0,2,120,0,0,0,Walk-in,0
+RW-200329,Downtown,38,14,Monthly,0,Plus,49,0,0,0,13.4,1,2,3,10,0,0,0,Walk-in,0
+RW-200330,Downtown,32,4,Annual,1,Plus,44,0,1,0,9.7,1,1,5,18,0,0,0,Walk-in,0
+RW-200331,Hillcrest,39,17,Monthly,0,Basic,29,0,0,0,22.8,1,25,13,5,12,1,0,Corporate,0
+RW-200332,Northgate,41,3,Annual,2,Plus,44,0,0,0,2.3,1,6,21,6,0,0,0,Corporate,0
+RW-200333,Westfield,33,6,Monthly,0,Basic,19,1,1,0,1.8,0,12,12,1,7,0,1,Walk-in,0
+RW-200334,Riverside,32,2,Monthly,0,Plus,44,1,0,0,5.7,1,14,11,0,1,0,0,Friend,0
+RW-200335,Westfield,33,49,Annual,3,Basic,24,0,0,0,3.3,1,28,16,3,1,0,0,Friend,0
+RW-200336,Riverside,28,7,Annual,8,Plus,44,1,0,0,5.6,1,5,3,3,4,0,0,Friend,1
+RW-200337,Northgate,25,10,Monthly,0,Plus,49,0,1,0,7.5,1,9,3,2,0,0,0,Friend,0
+RW-200338,Downtown,25,20,Monthly,0,Plus,49,0,1,0,5.2,0,10,6,0,0,0,0,Friend,0
+RW-200339,Downtown,24,11,Annual,1,Plus,44,0,1,0,5.4,0,0,6,68,0,0,0,Online ad,0
+RW-200340,Northgate,28,1,Annual,2,Basic,24,0,1,0,24.8,0,0,0,42,0,1,0,Friend,1
+RW-200341,Riverside,50,30,Annual,10,Basic,24,0,0,0,6.7,0,4,5,2,2,0,0,Walk-in,0
+RW-200342,Downtown,24,36,Annual,7,Basic,24,0,1,0,4.0,1,4,5,0,0,0,0,Friend,0
+RW-200343,Northgate,43,21,Annual,3,Basic,19,1,0,0,6.1,1,9,4,1,0,0,0,Online ad,0
+RW-200344,Downtown,39,25,Annual,4,Plus,44,0,0,0,6.9,0,1,5,4,0,0,0,Online ad,0
+RW-200345,Lakeview,38,3,Annual,9,Basic,24,0,0,1,2.4,1,13,19,0,0,0,0,Online ad,0
+RW-200346,Northgate,30,45,Monthly,0,Plus,49,0,0,0,6.5,1,11,2,4,1,0,0,Walk-in,1
+RW-200347,Lakeview,22,39,Annual,2,Premium,64,1,0,0,5.5,1,15,11,2,3,0,0,Friend,0
+RW-200348,Northgate,22,17,Monthly,0,Basic,29,0,0,0,10.7,1,22,10,3,8,0,1,Walk-in,0
+RW-200349,Westfield,41,46,Monthly,0,Basic,29,0,1,0,32.1,1,3,3,8,4,0,0,Online ad,0
+RW-200350,Lakeview,37,8,Monthly,0,Plus,49,0,0,0,8.7,0,14,11,1,9,0,0,Walk-in,0
+RW-200351,Northgate,65,8,Annual,5,Basic,24,0,1,0,9.2,1,6,15,3,3,0,0,Online ad,1
+RW-200352,Westfield,36,38,Monthly,0,Basic,29,0,1,0,3.9,1,14,13,4,10,1,0,Corporate,0
+RW-200353,Downtown,29,12,Monthly,0,Basic,29,0,0,0,6.5,0,3,4,2,0,0,0,Online ad,0
+RW-200354,Downtown,56,24,Monthly,0,Basic,29,0,1,0,8.8,0,4,6,9,0,0,0,Online ad,2
+RW-200355,Hillcrest,20,11,Annual,11,Basic,24,0,0,1,13.3,0,13,21,2,10,0,0,Online ad,0
+RW-200356,Hillcrest,49,5,Annual,9,Plus,44,1,0,0,2.4,1,3,4,2,3,1,0,Online ad,0
+RW-200357,Northgate,27,8,Annual,2,Basic,24,0,1,0,2.4,0,0,12,40,0,0,0,Friend,0
+RW-200358,Downtown,47,83,Annual,5,Plus,44,0,0,0,6.0,1,6,5,6,5,0,0,Online ad,0
+RW-200359,Westfield,22,13,Annual,0,Plus,34,1,0,0,10.5,0,5,9,4,1,0,0,Friend,0
+RW-200360,Downtown,38,1,Monthly,0,Plus,49,0,0,0,5.1,0,6,0,11,0,1,1,Friend,0
+RW-200361,Riverside,27,21,Monthly,0,Basic,29,0,0,0,4.0,1,14,18,3,6,0,0,Online ad,0
+RW-200362,Northgate,48,54,Monthly,0,Plus,49,0,0,0,13.5,0,4,7,5,1,1,0,Online ad,0
+RW-200363,Westfield,47,17,Monthly,0,Plus,49,0,0,0,6.0,1,4,6,0,1,1,0,Walk-in,0
+RW-200364,Downtown,42,20,Monthly,0,Plus,49,1,0,0,2.6,0,5,5,6,4,1,1,Friend,0
+RW-200365,Northgate,28,26,Annual,2,Plus,44,1,1,0,6.8,1,7,5,1,0,0,1,Online ad,0
+RW-200366,Westfield,28,35,Annual,8,Premium,74,1,0,0,4.2,0,0,2,39,0,0,1,Online ad,0
+RW-200367,Riverside,44,17,Monthly,0,Plus,49,0,0,0,2.3,1,15,17,5,9,1,0,Online ad,0
+RW-200368,Northgate,59,69,Annual,4,Plus,44,0,0,0,3.2,1,10,5,5,1,1,1,Friend,0
+RW-200369,Downtown,41,23,Monthly,0,Premium,79,0,0,0,1.8,0,6,5,2,0,0,0,Online ad,0
+RW-200370,Lakeview,58,10,Annual,4,Plus,44,0,1,0,5.6,1,17,6,0,10,1,0,Friend,0
+RW-200371,Riverside,40,51,Monthly,0,Basic,29,0,0,0,11.1,1,4,11,5,1,0,0,Corporate,0
+RW-200372,Lakeview,41,27,Monthly,0,Premium,79,0,0,0,2.8,1,28,28,3,8,0,0,Online ad,0
+RW-200373,Riverside,49,15,Monthly,0,Plus,49,0,0,0,4.2,1,17,12,4,0,0,0,Online ad,1
+RW-200374,Lakeview,32,7,Annual,10,Basic,24,0,0,0,4.0,1,7,4,4,0,0,0,Friend,0
+RW-200375,Westfield,46,6,Annual,11,Plus,44,0,0,0,8.5,0,2,1,12,2,1,0,Friend,0
+RW-200376,Downtown,24,18,Monthly,0,Premium,74,1,1,0,2.1,1,3,5,2,0,0,0,Online ad,0
+RW-200377,Downtown,30,39,Annual,2,Basic,24,0,0,0,6.9,0,1,5,1,0,0,0,Online ad,1
+RW-200378,Downtown,42,27,Annual,9,Basic,24,0,0,0,6.8,1,0,9,54,0,0,1,Corporate,0
+RW-200379,Lakeview,42,6,Annual,3,Plus,44,0,0,0,11.8,1,4,3,8,2,0,0,Online ad,0
+RW-200380,Northgate,71,3,Monthly,0,Premium,79,0,0,0,4.0,1,8,10,7,0,0,0,Online ad,0
+RW-200381,Hillcrest,24,18,Annual,9,Plus,34,1,0,0,12.6,0,13,11,0,5,1,1,Friend,0
+RW-200382,Riverside,33,28,Monthly,0,Premium,79,0,1,1,6.6,1,16,12,0,5,0,0,Online ad,0
+RW-200383,Westfield,38,12,Annual,2,Plus,44,0,0,0,3.7,1,12,7,4,0,0,0,Walk-in,0
+RW-200384,Riverside,25,51,Monthly,0,Basic,24,1,0,0,15.9,0,1,2,6,0,0,0,Online ad,0
+RW-200385,Westfield,23,6,Annual,7,Premium,74,0,0,0,2.5,1,0,1,51,0,0,0,Walk-in,0
+RW-200386,Lakeview,69,55,Monthly,0,Basic,29,0,0,0,5.9,1,14,28,1,7,2,0,Online ad,0
+RW-200387,Northgate,40,17,Monthly,0,Basic,29,0,0,0,6.0,0,4,6,13,0,1,0,Online ad,1
+RW-200388,Northgate,29,35,Annual,3,Premium,74,1,0,1,4.8,1,0,11,44,0,0,1,Friend,0
+RW-200389,Downtown,68,43,Monthly,0,Plus,49,0,0,0,3.4,1,8,10,1,4,0,1,Walk-in,0
+RW-200390,Hillcrest,28,3,Annual,4,Basic,24,1,0,0,10.6,0,2,7,10,1,0,1,Friend,0
+RW-200391,Northgate,33,14,Annual,9,Plus,44,1,0,0,6.2,0,2,2,0,0,1,1,Walk-in,0
+RW-200392,Riverside,22,1,Monthly,0,Premium,79,0,0,0,4.2,1,4,0,13,0,0,0,Friend,0
+RW-200393,Hillcrest,45,18,Monthly,0,Plus,49,1,0,0,5.5,1,26,18,2,1,0,0,Walk-in,0
+RW-200394,Lakeview,57,71,Monthly,0,Plus,49,0,0,0,5.3,0,4,13,6,1,0,0,Online ad,0
+RW-200395,Northgate,23,25,Annual,3,Basic,24,0,0,0,17.9,0,4,5,1,0,0,0,Online ad,0
+RW-200396,Northgate,43,48,Annual,10,Plus,44,0,0,0,4.6,1,6,20,7,3,1,0,Corporate,0
+RW-200397,Hillcrest,31,10,Annual,8,Basic,24,0,1,0,8.8,1,5,5,8,2,0,0,Online ad,0
+RW-200398,Northgate,30,19,Monthly,0,Premium,79,0,0,1,3.8,1,7,2,8,0,0,0,Walk-in,0
+RW-200399,Hillcrest,52,34,Monthly,0,Premium,79,0,0,1,2.2,1,16,4,2,9,0,1,Online ad,0
+RW-200400,Downtown,26,28,Monthly,0,Plus,49,0,0,0,2.7,0,21,14,6,13,0,1,Walk-in,1
+RW-200401,Downtown,48,13,Monthly,0,Basic,29,0,0,0,5.3,1,3,12,4,3,0,0,Walk-in,0
+RW-200402,Westfield,32,11,Annual,7,Basic,24,0,0,1,5.8,1,10,15,9,5,0,0,Online ad,0
+RW-200403,Lakeview,22,42,Monthly,0,Basic,29,0,0,0,4.8,1,11,9,7,1,1,0,Corporate,0
+RW-200404,Downtown,48,17,Monthly,0,Premium,74,1,0,1,4.6,0,13,12,6,0,0,0,Walk-in,0
+RW-200405,Northgate,30,31,Monthly,0,Plus,49,0,0,1,2.3,0,23,27,0,0,0,0,Friend,1
+RW-200406,Northgate,36,41,Monthly,0,Basic,29,0,0,0,5.2,1,5,4,0,0,1,0,Online ad,1
+RW-200407,Riverside,64,5,Annual,4,Plus,44,0,1,1,8.8,1,6,3,5,1,0,0,Friend,0
+RW-200408,Downtown,21,52,Monthly,0,Basic,29,0,0,0,8.6,1,17,18,1,12,0,0,Walk-in,0
+RW-200409,Riverside,47,1,Annual,7,Premium,74,0,0,1,3.7,1,6,0,9,0,0,0,Online ad,0
+RW-200410,Northgate,37,27,Monthly,0,Basic,29,0,0,0,2.3,1,28,28,0,1,0,0,Friend,0
+RW-200411,Downtown,30,60,Monthly,0,Plus,49,1,0,0,3.0,1,5,11,3,0,0,0,Walk-in,0
+RW-200412,Hillcrest,20,33,Monthly,0,Basic,29,0,0,0,2.0,1,21,23,2,5,0,1,Online ad,0
+RW-200413,Northgate,45,3,Annual,6,Basic,24,0,0,0,6.3,1,17,8,4,0,1,0,Walk-in,0
+RW-200414,Northgate,22,2,Monthly,0,Basic,29,0,1,0,6.5,0,3,7,13,0,0,0,Online ad,1
+RW-200415,Lakeview,31,10,Monthly,0,Plus,49,0,0,0,15.2,0,5,6,3,0,0,0,Walk-in,0
+RW-200416,Northgate,29,78,Monthly,0,Plus,49,0,0,0,3.5,1,13,11,5,1,1,1,Walk-in,0
+RW-200417,Lakeview,24,26,Monthly,0,Plus,49,0,0,0,1.8,1,26,22,2,1,0,0,Online ad,0
+RW-200418,Westfield,59,50,Monthly,0,Plus,49,0,1,0,4.0,0,25,28,4,4,0,0,Online ad,1
+RW-200419,Hillcrest,74,4,Monthly,0,Basic,19,1,1,0,5.3,0,5,6,10,1,0,0,Online ad,0
+RW-200420,Hillcrest,41,10,Annual,11,Basic,24,0,0,0,4.2,1,0,3,43,0,1,0,Walk-in,0
+RW-200421,Northgate,35,12,Annual,10,Basic,24,0,1,0,1.9,1,5,15,11,3,0,0,Online ad,1
+RW-200422,Downtown,36,73,Annual,6,Basic,24,0,0,0,4.6,0,9,26,8,0,1,0,Walk-in,0
+RW-200423,Hillcrest,27,51,Monthly,0,Plus,49,0,0,0,2.6,1,20,25,6,1,0,1,Corporate,0
+RW-200424,Riverside,38,21,Monthly,0,Plus,49,0,0,0,0.8,1,10,13,8,2,0,1,Friend,0
+RW-200425,Northgate,30,1,Monthly,0,Basic,29,0,0,0,7.1,0,8,0,6,0,0,0,Walk-in,0
+RW-200426,Downtown,26,2,Monthly,0,Plus,49,0,0,0,7.0,1,6,7,3,2,0,1,Online ad,0
+RW-200427,Westfield,32,8,Annual,8,Basic,24,0,0,0,3.1,1,4,27,11,0,1,0,Walk-in,1
+RW-200428,Riverside,29,37,Annual,6,Basic,24,0,0,0,20.0,1,6,6,6,1,2,0,Walk-in,0
+RW-200429,Downtown,30,27,Monthly,0,Premium,79,0,0,0,4.9,1,13,11,1,4,0,0,Walk-in,0
+RW-200430,Riverside,39,2,Annual,10,Plus,44,0,0,0,5.5,0,2,6,7,0,0,0,Friend,0
+RW-200431,Lakeview,24,6,Monthly,0,Basic,29,0,1,0,5.3,1,8,8,9,1,1,0,Walk-in,0
+RW-200432,Hillcrest,40,8,Annual,10,Basic,24,0,0,0,6.4,1,4,10,0,1,0,0,Online ad,0
+RW-200433,Northgate,34,60,Monthly,0,Plus,49,0,0,0,19.2,1,9,8,3,0,0,0,Walk-in,0
+RW-200434,Northgate,31,21,Annual,11,Plus,44,0,0,0,6.6,0,5,10,0,3,0,0,Walk-in,0
+RW-200435,Downtown,21,14,Monthly,0,Basic,29,0,0,0,5.3,0,6,17,10,0,0,0,Walk-in,0
+RW-200436,Northgate,55,5,Monthly,0,Basic,29,1,0,0,5.4,1,7,11,4,0,0,0,Friend,0
+RW-200437,Downtown,78,18,Annual,4,Premium,74,0,0,0,1.3,1,10,13,3,3,0,0,Walk-in,0
+RW-200438,Westfield,21,7,Monthly,0,Plus,49,1,0,0,8.0,1,12,14,7,0,0,0,Walk-in,0
+RW-200439,Northgate,28,83,Annual,9,Premium,69,1,1,1,6.7,0,4,6,13,0,0,0,Corporate,0
+RW-200440,Hillcrest,33,62,Annual,0,Plus,44,0,0,0,7.6,1,3,7,14,0,0,0,Friend,0
+RW-200441,Downtown,37,10,Annual,0,Plus,44,0,0,0,4.3,1,1,15,18,0,0,0,Friend,0
+RW-200442,Downtown,37,14,Monthly,0,Basic,29,0,0,0,4.3,1,0,9,33,0,0,0,Online ad,0
+RW-200443,Riverside,42,32,Annual,6,Basic,24,0,1,0,2.6,1,10,8,1,0,0,1,Online ad,1
+RW-200444,Riverside,27,7,Annual,10,Premium,74,0,0,0,11.8,0,6,9,1,0,0,0,Friend,0
+RW-200445,Northgate,24,55,Annual,4,Basic,24,0,0,0,4.3,0,12,20,7,11,0,1,Walk-in,1
+RW-200446,Downtown,33,5,Monthly,0,Premium,79,0,0,0,8.4,0,7,8,7,1,0,0,Online ad,0
+RW-200447,Northgate,29,24,Monthly,0,Basic,29,0,0,0,2.8,1,11,8,8,2,0,0,Friend,1
+RW-200448,Northgate,29,5,Monthly,0,Plus,39,1,0,0,8.0,1,0,7,33,0,0,0,Friend,0
+RW-200449,Lakeview,35,8,Annual,0,Basic,24,0,0,0,10.1,1,5,10,8,5,0,0,Walk-in,0
+RW-200450,Westfield,47,3,Annual,4,Basic,24,0,0,0,4.0,0,6,9,9,0,0,0,Walk-in,0
+RW-200451,Lakeview,25,7,Monthly,0,Basic,24,1,0,0,7.7,0,6,4,8,2,1,0,Friend,1
+RW-200452,Riverside,27,73,Monthly,0,Plus,49,0,1,0,3.4,1,14,19,5,5,0,0,Online ad,0
+RW-200453,Riverside,28,55,Monthly,0,Basic,29,0,0,0,2.0,1,12,16,6,8,1,0,Friend,0
+RW-200454,Riverside,20,90,Annual,2,Basic,24,0,0,0,5.0,1,0,9,31,0,0,1,Walk-in,0
+RW-200455,Northgate,41,2,Monthly,0,Basic,29,0,0,0,7.7,1,0,4,79,0,0,0,Friend,0
+RW-200456,Riverside,43,35,Monthly,0,Premium,79,0,0,0,3.2,1,26,28,4,1,0,1,Walk-in,0
+RW-200457,Riverside,33,81,Annual,0,Plus,44,0,0,0,2.7,1,7,28,1,5,0,0,Walk-in,0
+RW-200458,Lakeview,57,9,Monthly,0,Premium,79,1,0,0,2.8,0,8,4,8,5,0,0,Friend,0
+RW-200459,Downtown,33,41,Annual,5,Basic,14,1,0,0,1.8,1,5,7,7,1,0,0,Online ad,0
+RW-200460,Hillcrest,42,56,Annual,0,Basic,24,0,0,0,2.3,0,3,1,11,0,0,0,Corporate,0
+RW-200461,Northgate,28,8,Annual,7,Basic,24,1,1,0,8.3,1,3,3,4,0,0,1,Walk-in,0
+RW-200462,Northgate,27,7,Monthly,0,Plus,49,0,0,0,6.5,1,10,6,8,1,0,0,Walk-in,0
+RW-200463,Hillcrest,28,16,Monthly,0,Basic,29,0,0,0,5.0,1,4,16,1,0,0,0,Online ad,0
+RW-200464,Riverside,55,32,Monthly,0,Premium,69,1,0,0,1.9,1,3,3,4,0,0,0,Walk-in,1
+RW-200465,Hillcrest,32,6,Annual,10,Plus,44,0,0,0,3.0,0,4,8,7,0,1,1,Walk-in,0
+RW-200466,Westfield,25,26,Annual,11,Plus,34,1,1,1,2.3,1,8,3,1,5,0,0,Friend,0
+RW-200467,Northgate,30,86,Monthly,0,Premium,74,1,1,0,5.9,0,7,7,5,0,0,0,Friend,0
+RW-200468,Westfield,66,3,Annual,5,Basic,24,0,0,0,6.9,1,12,17,4,2,0,0,Friend,0
+RW-200469,Downtown,33,17,Annual,5,Premium,74,0,0,1,4.1,0,16,12,3,1,0,0,Walk-in,0
+RW-200470,Northgate,48,4,Monthly,0,Basic,29,0,1,0,17.1,0,4,6,13,0,0,0,Online ad,0
+RW-200471,Westfield,36,8,Monthly,0,Plus,49,0,0,0,4.6,1,4,9,11,0,0,0,Friend,0
+RW-200472,Lakeview,34,7,Annual,7,Plus,44,0,0,0,8.7,0,28,25,2,2,0,1,Corporate,0
+RW-200473,Northgate,38,55,Monthly,0,Basic,29,0,0,0,3.4,0,4,1,4,0,0,0,Online ad,0
+RW-200474,Downtown,53,62,Annual,8,Premium,74,0,0,0,1.2,1,2,13,9,1,0,0,Walk-in,0
+RW-200475,Northgate,19,43,Monthly,0,Basic,29,0,0,0,4.6,1,12,11,0,0,1,1,Friend,0
+RW-200476,Hillcrest,38,22,Monthly,0,Premium,79,1,0,1,40.0,0,4,6,13,2,1,0,Friend,1
+RW-200477,Riverside,37,12,Annual,10,Plus,44,0,0,0,2.6,1,2,2,1,0,0,1,Friend,0
+RW-200478,Downtown,41,81,Monthly,0,Basic,24,1,1,0,4.0,0,28,20,4,3,0,1,Online ad,0
+RW-200479,Lakeview,53,4,Monthly,0,Plus,49,0,1,0,2.2,0,6,14,7,0,0,0,Online ad,0
+RW-200480,Westfield,30,52,Monthly,0,Basic,29,0,0,0,4.1,1,10,17,6,2,0,0,Friend,1
+RW-200481,Westfield,33,18,Annual,10,Basic,24,0,0,0,5.1,0,18,27,5,0,1,0,Walk-in,0
+RW-200482,Lakeview,24,55,Annual,6,Basic,24,0,0,0,3.4,1,16,20,6,1,1,0,Walk-in,0
+RW-200483,Hillcrest,50,91,Annual,6,Basic,24,0,0,0,3.5,1,5,11,11,0,0,0,Walk-in,1
+RW-200484,Hillcrest,45,7,Monthly,0,Plus,39,1,0,0,6.4,1,2,0,10,0,0,0,Friend,0
+RW-200485,Lakeview,26,7,Monthly,0,Basic,29,1,0,0,1.6,1,0,8,34,0,0,0,Online ad,0
+RW-200486,Hillcrest,68,28,Annual,7,Plus,44,0,0,0,2.7,1,19,14,6,1,0,0,Walk-in,0
+RW-200487,Downtown,61,26,Monthly,0,Premium,79,0,0,0,3.0,0,20,11,5,3,2,0,Friend,0
+RW-200488,Westfield,34,4,Annual,8,Premium,74,0,0,0,2.0,0,11,17,3,3,0,0,Online ad,0
+RW-200489,Lakeview,30,13,Monthly,0,Plus,49,0,0,0,1.4,1,27,21,4,12,2,0,Online ad,0
+RW-200490,Downtown,34,5,Annual,5,Premium,74,0,0,1,40.0,1,0,3,35,0,0,0,Online ad,0
+RW-200491,Northgate,29,29,Monthly,0,Plus,49,0,0,0,3.3,0,5,6,8,5,1,0,Online ad,0
+RW-200492,Riverside,34,35,Annual,9,Basic,24,0,1,1,7.1,1,8,8,5,3,0,0,Online ad,0
+RW-200493,Riverside,32,38,Annual,9,Premium,74,0,0,0,1.9,1,8,9,4,3,1,0,Corporate,1
+RW-200494,Downtown,28,46,Monthly,0,Plus,49,0,0,0,4.8,1,18,17,5,7,0,0,Online ad,0
+RW-200495,Downtown,28,5,Monthly,0,Premium,74,1,1,0,10.2,1,3,6,6,0,1,0,Online ad,0
+RW-200496,Northgate,36,5,Monthly,0,Premium,69,1,0,0,27.9,1,1,9,9,0,0,0,Online ad,1
+RW-200497,Downtown,38,6,Monthly,0,Basic,29,0,0,0,4.2,1,6,5,6,0,0,0,Walk-in,0
+RW-200498,Northgate,44,13,Monthly,0,Basic,29,0,0,0,9.1,0,0,7,93,0,0,0,Friend,1
+RW-200499,Lakeview,34,3,Monthly,0,Premium,79,0,0,0,5.5,1,4,5,1,2,0,0,Walk-in,0
+RW-200500,Riverside,37,6,Monthly,0,Plus,49,0,1,0,1.4,0,10,4,1,6,0,0,Friend,0
+RW-200501,Downtown,49,26,Annual,8,Plus,44,0,0,0,5.2,1,6,3,8,3,0,0,Online ad,0
+RW-200502,Northgate,47,12,Monthly,0,Basic,29,0,1,0,5.6,0,5,1,12,5,0,0,Walk-in,0
+RW-200503,Riverside,25,59,Monthly,0,Plus,49,0,0,1,9.5,1,2,7,8,0,0,0,Walk-in,1
+RW-200504,Westfield,40,7,Annual,9,Premium,74,1,0,1,1.9,0,8,14,3,3,0,0,Online ad,1
+RW-200505,Lakeview,33,17,Annual,6,Plus,34,1,0,0,5.0,1,7,11,4,0,0,0,Friend,0
+RW-200506,Northgate,35,5,Monthly,0,Plus,49,0,0,0,10.7,1,6,7,3,0,0,0,Walk-in,0
+RW-200507,Downtown,24,47,Monthly,0,Premium,79,0,0,0,10.2,1,3,10,4,2,0,1,Walk-in,0
+RW-200508,Northgate,42,18,Annual,4,Premium,64,1,1,0,2.6,1,17,17,5,7,0,0,Friend,1
+RW-200509,Riverside,41,47,Annual,6,Basic,24,0,0,0,6.0,1,0,9,31,0,1,0,Online ad,0
+RW-200510,Riverside,44,12,Annual,11,Plus,44,0,1,0,4.1,0,19,15,4,0,1,1,Online ad,0
+RW-200511,Riverside,35,34,Monthly,0,Basic,29,0,1,0,8.7,1,10,11,5,1,0,0,Walk-in,0
+RW-200512,Northgate,52,11,Annual,4,Plus,44,0,0,0,2.2,0,8,6,1,0,0,1,Online ad,0
+RW-200513,Downtown,36,6,Annual,0,Plus,44,0,1,0,4.6,0,6,5,9,3,0,0,Friend,0
+RW-200514,Hillcrest,47,8,Annual,10,Plus,44,0,1,0,5.7,1,4,4,8,1,1,0,Friend,0
+RW-200515,Northgate,23,52,Annual,5,Plus,34,1,0,0,4.7,1,19,23,1,1,0,0,Walk-in,0
+RW-200516,Hillcrest,28,8,Monthly,0,Plus,49,0,1,0,4.0,0,17,15,1,2,0,0,Online ad,1
+RW-200517,Riverside,75,33,Monthly,0,Plus,39,1,0,0,2.8,0,14,8,4,1,0,1,Online ad,0
+RW-200518,Riverside,35,9,Monthly,0,Plus,49,0,0,0,4.1,0,3,5,11,0,1,1,Online ad,1
+RW-200519,Northgate,22,14,Annual,11,Premium,74,0,0,1,8.9,0,14,7,2,2,0,1,Friend,0
+RW-200520,Riverside,36,30,Monthly,0,Basic,19,1,0,0,15.8,0,6,4,6,0,1,0,Online ad,0
+RW-200521,Northgate,48,120,Monthly,0,Plus,44,1,0,0,2.3,1,9,10,4,2,0,0,Friend,0
+RW-200522,Westfield,53,10,Monthly,0,Basic,29,0,0,0,11.7,0,1,3,11,0,1,0,Corporate,0
+RW-200523,Hillcrest,36,12,Monthly,0,Basic,29,0,0,0,5.8,1,4,6,2,0,0,0,Online ad,0
+RW-200524,Westfield,36,8,Monthly,0,Basic,29,0,0,0,8.0,1,19,18,3,2,0,0,Walk-in,0
+RW-200525,Northgate,23,87,Monthly,0,Plus,49,0,0,0,4.9,0,5,5,0,0,0,0,Online ad,0
+RW-200526,Downtown,38,15,Monthly,0,Plus,49,0,1,0,7.4,1,6,11,1,4,0,1,Friend,0
+RW-200527,Hillcrest,39,11,Monthly,0,Plus,49,0,1,1,7.6,1,12,16,5,2,0,0,Online ad,0
+RW-200528,Westfield,35,25,Monthly,0,Basic,29,0,0,0,8.6,0,3,4,14,2,0,0,Online ad,0
+RW-200529,Northgate,40,32,Annual,2,Premium,64,1,0,1,1.4,1,9,6,1,2,0,1,Corporate,0
+RW-200530,Northgate,27,26,Monthly,0,Premium,74,1,0,1,4.4,0,15,14,3,3,0,0,Friend,0
+RW-200531,Hillcrest,34,11,Monthly,0,Premium,79,1,0,1,3.8,1,7,6,10,0,1,1,Friend,0
+RW-200532,Downtown,22,9,Monthly,0,Basic,29,0,0,0,4.2,0,11,11,5,0,0,0,Friend,0
+RW-200533,Hillcrest,64,2,Monthly,0,Plus,49,0,0,0,1.8,1,15,7,2,0,0,0,Walk-in,1
+RW-200534,Northgate,31,70,Monthly,0,Premium,79,0,0,1,11.6,0,0,6,91,0,0,0,Friend,0
+RW-200535,Lakeview,23,20,Annual,9,Plus,44,0,0,0,15.0,1,13,10,2,0,2,1,Walk-in,0
+RW-200536,Riverside,29,9,Monthly,0,Plus,39,1,0,1,7.0,1,8,6,5,0,0,1,Walk-in,1
+RW-200537,Downtown,34,27,Monthly,0,Plus,39,1,0,0,2.0,0,12,17,7,4,1,0,Corporate,0
+RW-200538,Lakeview,42,28,Annual,0,Basic,24,0,0,0,3.7,1,13,14,1,0,0,1,Walk-in,1
+RW-200539,Northgate,30,4,Monthly,0,Plus,49,0,0,0,3.6,1,1,1,17,0,0,1,Online ad,0
+RW-200540,Westfield,35,1,Monthly,0,Plus,49,0,0,0,9.4,1,5,0,10,3,0,1,Friend,0
+RW-200541,Riverside,24,8,Monthly,0,Plus,44,1,1,0,3.6,1,7,11,6,1,0,0,Walk-in,1
+RW-200542,Riverside,26,13,Annual,7,Basic,24,1,0,0,5.8,1,4,4,13,1,0,0,Online ad,0
+RW-200543,Downtown,36,3,Monthly,0,Basic,24,1,0,0,4.6,1,12,7,0,3,0,0,Online ad,0
+RW-200544,Hillcrest,26,3,Annual,1,Premium,74,0,0,0,1.2,0,7,7,5,1,1,0,Online ad,1
+RW-200545,Northgate,37,74,Annual,7,Basic,19,1,0,0,2.2,0,0,6,48,0,0,0,Friend,1
+RW-200546,Northgate,64,12,Annual,2,Premium,69,1,0,0,2.3,1,1,2,6,0,1,0,Online ad,1
+RW-200547,Lakeview,42,11,Monthly,0,Premium,79,0,0,1,11.9,1,1,9,11,1,1,1,Walk-in,0
+RW-200548,Downtown,41,19,Annual,10,Plus,44,0,0,0,10.0,1,6,12,8,2,0,0,Online ad,1
+RW-200549,Downtown,30,64,Monthly,0,Basic,29,1,0,0,3.6,1,0,1,48,0,1,0,Corporate,0
+RW-200550,Northgate,28,25,Monthly,0,Basic,29,0,0,0,7.4,0,2,2,13,1,1,0,Walk-in,0
+RW-200551,Riverside,26,37,Monthly,0,Premium,79,1,0,1,3.3,1,9,9,5,0,0,0,Online ad,0
+RW-200552,Downtown,25,20,Monthly,0,Basic,19,1,1,0,9.1,0,11,22,2,7,0,0,Online ad,0
+RW-200553,Hillcrest,23,35,Monthly,0,Basic,29,0,0,0,4.0,1,9,6,8,7,0,1,Corporate,0
+RW-200554,Downtown,35,46,Monthly,0,Plus,49,0,0,0,3.8,0,8,9,9,1,0,0,Walk-in,0
+RW-200555,Riverside,44,8,Monthly,0,Plus,49,0,0,0,3.7,1,1,6,1,0,0,0,Online ad,1
+RW-200556,Riverside,19,67,Monthly,0,Basic,29,0,0,0,11.8,1,2,8,1,0,0,0,Walk-in,1
+RW-200557,Downtown,29,9,Monthly,0,Plus,49,0,0,0,1.4,1,2,2,12,0,2,0,Friend,1
+RW-200558,Lakeview,42,17,Monthly,0,Basic,29,0,1,1,6.8,1,11,13,5,0,0,0,Friend,0
+RW-200559,Lakeview,36,28,Monthly,0,Premium,79,0,0,0,3.0,1,3,3,7,0,0,0,Friend,0
+RW-200560,Downtown,45,16,Annual,10,Basic,24,0,1,1,8.0,0,19,18,1,5,0,1,Online ad,0
+RW-200561,Downtown,22,10,Annual,9,Basic,24,0,0,0,0.7,1,7,5,10,1,0,1,Online ad,1
+RW-200562,Hillcrest,44,56,Monthly,0,Basic,29,0,0,0,4.7,1,15,10,3,0,0,0,Friend,0
+RW-200563,Hillcrest,35,26,Annual,4,Basic,19,1,0,0,6.7,0,3,9,0,0,2,0,Walk-in,0
+RW-200564,Hillcrest,39,5,Annual,10,Basic,24,0,0,0,11.0,1,7,7,1,1,0,1,Online ad,0
+RW-200565,Downtown,48,11,Monthly,0,Premium,74,1,0,0,1.5,0,1,8,17,1,0,0,Corporate,0
+RW-200566,Riverside,78,14,Annual,1,Plus,44,0,1,0,0.7,0,6,5,4,1,0,0,Walk-in,0
+RW-200567,Northgate,27,11,Annual,2,Premium,74,1,0,0,2.8,1,11,19,6,0,0,0,Walk-in,0
+RW-200568,Northgate,30,26,Annual,10,Basic,24,0,1,0,3.1,0,5,4,3,1,0,0,Walk-in,0
+RW-200569,Downtown,78,47,Annual,9,Basic,24,0,1,0,6.3,1,5,8,7,0,0,0,Corporate,0
+RW-200570,Lakeview,32,37,Annual,3,Plus,44,0,1,0,5.0,1,9,14,2,0,1,0,Corporate,0
+RW-200571,Northgate,20,13,Monthly,0,Basic,29,0,0,0,7.6,1,9,15,7,1,0,0,Online ad,0
+RW-200572,Downtown,35,22,Annual,9,Basic,14,1,0,0,8.3,1,4,3,2,3,0,0,Online ad,0
+RW-200573,Downtown,33,49,Monthly,0,Plus,49,0,0,0,3.2,1,14,6,4,3,0,0,Friend,0
+RW-200574,Lakeview,26,38,Annual,6,Plus,44,0,0,0,3.6,1,4,1,9,0,0,0,Walk-in,0
+RW-200575,Westfield,23,23,Monthly,0,Premium,74,1,1,1,6.4,0,13,9,6,0,1,0,Online ad,0
+RW-200576,Northgate,27,4,Annual,0,Plus,39,1,0,0,2.8,0,8,12,3,2,0,0,Online ad,0
+RW-200577,Downtown,32,58,Annual,3,Plus,44,0,0,0,15.0,0,3,1,2,1,0,0,Walk-in,0
+RW-200578,Northgate,27,22,Monthly,0,Plus,49,0,0,0,3.1,1,11,7,2,6,0,1,Online ad,0
+RW-200579,Westfield,40,9,Monthly,0,Basic,19,1,0,0,7.1,0,4,12,3,0,2,0,Online ad,1
+RW-200580,Lakeview,36,22,Monthly,0,Plus,44,1,0,0,21.0,1,6,6,9,1,0,1,Online ad,0
+RW-200581,Northgate,49,45,Annual,8,Basic,24,0,0,0,5.0,0,28,28,1,11,0,1,Friend,1
+RW-200582,Northgate,33,13,Monthly,0,Basic,29,0,0,0,3.2,0,22,12,5,2,1,0,Online ad,0
+RW-200583,Northgate,31,36,Annual,7,Basic,24,0,1,0,13.0,1,15,9,4,0,0,0,Walk-in,0
+RW-200584,Downtown,50,33,Monthly,0,Basic,24,1,0,0,3.0,0,12,28,1,0,0,1,Friend,0
+RW-200585,Downtown,31,5,Monthly,0,Premium,79,0,0,0,8.9,1,1,3,4,0,0,0,Walk-in,0
+RW-200586,Riverside,52,6,Annual,4,Plus,44,0,0,0,7.0,1,6,7,6,2,0,0,Online ad,0
+RW-200587,Lakeview,58,8,Monthly,0,Plus,49,0,0,0,5.0,1,13,9,6,10,0,1,Walk-in,0
+RW-200588,Hillcrest,37,9,Monthly,0,Plus,49,0,0,0,4.2,0,1,7,0,1,0,0,Walk-in,0
+RW-200589,Riverside,35,18,Annual,8,Basic,24,0,0,0,2.9,0,13,7,3,0,0,0,Walk-in,0
+RW-200590,Westfield,35,12,Annual,7,Plus,44,0,0,0,1.9,1,3,11,2,3,0,1,Online ad,0
+RW-200591,Riverside,46,12,Monthly,0,Premium,79,0,0,0,3.6,0,9,12,7,0,0,0,Corporate,0
+RW-200592,Westfield,34,51,Monthly,0,Plus,49,0,1,0,3.7,1,21,12,5,7,0,0,Friend,0
+RW-200593,Westfield,26,35,Annual,11,Plus,44,0,0,0,5.6,0,8,10,1,2,0,0,Online ad,0
+RW-200594,Downtown,46,20,Monthly,0,Premium,79,0,0,1,13.5,1,4,16,12,0,2,0,Friend,0
+RW-200595,Lakeview,32,22,Annual,3,Premium,74,0,0,1,8.4,1,7,5,9,5,0,0,Online ad,0
+RW-200596,Lakeview,31,12,Annual,0,Plus,44,0,0,0,6.9,0,0,15,63,0,1,0,Friend,0
+RW-200597,Northgate,61,8,Monthly,0,Basic,29,0,0,1,6.6,0,10,4,8,1,0,1,Friend,0
+RW-200598,Riverside,31,1,Monthly,0,Premium,69,1,0,0,6.9,1,8,0,5,3,1,0,Friend,0
+RW-200599,Lakeview,30,81,Monthly,0,Plus,39,1,0,0,2.4,1,11,6,3,1,0,0,Corporate,0
+RW-200600,Riverside,23,16,Monthly,0,Plus,49,0,1,0,18.3,1,7,5,10,0,0,1,Walk-in,0
+RW-200601,Westfield,20,12,Monthly,0,Basic,29,0,1,0,2.2,1,6,8,11,1,0,0,Online ad,0
+RW-200602,Hillcrest,33,10,Monthly,0,Basic,29,0,0,0,13.1,1,8,23,6,0,0,0,Walk-in,0
+RW-200603,Riverside,21,101,Monthly,0,Plus,49,0,0,0,3.3,0,5,2,2,0,0,0,Walk-in,0
+RW-200604,Lakeview,33,4,Monthly,0,Plus,49,0,0,1,6.4,0,1,6,18,0,0,0,Friend,0
+RW-200605,Riverside,44,13,Monthly,0,Basic,29,0,0,0,4.6,1,9,7,7,0,0,0,Friend,1
+RW-200606,Hillcrest,36,7,Monthly,0,Plus,39,1,0,0,29.9,1,8,5,8,0,1,0,Walk-in,0
+RW-200607,Westfield,40,23,Monthly,0,Basic,29,0,0,0,4.5,1,17,22,4,0,0,1,Corporate,1
+RW-200608,Northgate,36,10,Monthly,0,Plus,44,1,0,0,9.3,1,15,13,6,5,0,0,Online ad,0
+RW-200609,Westfield,27,29,Monthly,0,Premium,79,1,0,0,1.6,1,8,11,1,0,0,1,Walk-in,0
+RW-200610,Lakeview,33,3,Monthly,0,Plus,49,0,0,1,4.5,1,28,28,1,15,0,0,Walk-in,0
+RW-200611,Northgate,46,7,Annual,8,Basic,24,0,0,0,1.5,1,8,2,2,0,0,0,Walk-in,0
+RW-200612,Lakeview,36,25,Monthly,0,Plus,49,0,0,0,8.2,1,4,10,12,0,0,0,Corporate,0
+RW-200613,Downtown,24,23,Annual,9,Basic,24,0,0,1,5.6,0,1,21,17,1,0,1,Friend,0
+RW-200614,Northgate,28,52,Annual,10,Premium,69,1,1,0,1.4,1,15,12,2,3,0,0,Online ad,0
+RW-200615,Lakeview,39,63,Annual,9,Plus,44,0,0,0,12.4,1,26,12,4,9,1,0,Online ad,0
+RW-200616,Westfield,27,19,Annual,8,Premium,74,0,0,0,1.8,1,14,7,5,8,0,0,Online ad,0
+RW-200617,Northgate,31,18,Monthly,0,Basic,29,0,0,0,6.6,0,23,18,2,8,0,0,Walk-in,0
+RW-200618,Downtown,35,11,Annual,3,Basic,24,0,0,0,2.1,1,25,11,1,1,1,0,Online ad,0
+RW-200619,Hillcrest,27,6,Monthly,0,Plus,49,0,0,0,2.9,1,0,7,87,0,0,1,Online ad,0
+RW-200620,Northgate,40,44,Annual,0,Plus,44,0,0,0,3.2,1,19,18,5,7,0,1,Walk-in,0
+RW-200621,Downtown,30,10,Annual,2,Premium,74,0,0,1,2.7,1,17,12,6,8,0,0,Online ad,0
+RW-200622,Hillcrest,48,14,Annual,11,Plus,44,0,0,0,3.7,0,7,10,4,6,0,0,Corporate,0
+RW-200623,Lakeview,24,7,Monthly,0,Plus,49,0,0,0,7.4,1,6,9,11,2,1,0,Walk-in,0
+RW-200624,Hillcrest,37,6,Annual,4,Basic,24,0,0,0,3.9,1,0,1,35,0,0,1,Friend,0
+RW-200625,Downtown,25,7,Monthly,0,Plus,49,0,0,0,5.9,1,5,10,8,0,0,0,Online ad,1
+RW-200626,Westfield,44,3,Monthly,0,Plus,39,1,0,0,9.0,1,6,2,8,0,1,0,Walk-in,0
+RW-200627,Downtown,40,23,Annual,11,Basic,19,1,0,0,17.2,1,4,2,4,0,0,1,Friend,0
+RW-200628,Northgate,27,9,Monthly,0,Basic,29,0,0,0,11.1,0,0,2,41,0,0,1,Online ad,0
+RW-200629,Lakeview,68,106,Monthly,0,Plus,49,0,0,0,3.5,0,7,8,7,0,0,0,Walk-in,0
+RW-200630,Northgate,25,6,Annual,7,Plus,44,0,0,0,5.1,1,2,8,3,1,0,0,Walk-in,0
+RW-200631,Westfield,33,50,Monthly,0,Basic,29,1,0,0,6.1,0,9,9,7,0,0,1,Walk-in,0
+RW-200632,Northgate,40,8,Monthly,0,Basic,19,1,0,0,7.4,0,5,5,10,3,0,0,Walk-in,0
+RW-200633,Northgate,25,24,Monthly,0,Basic,29,0,1,0,6.7,1,15,7,6,0,0,0,Walk-in,0
+RW-200634,Riverside,67,15,Annual,1,Basic,24,0,0,0,10.5,0,6,4,10,1,1,0,Online ad,0
+RW-200635,Downtown,35,11,Annual,1,Premium,74,0,1,1,1.4,1,1,16,7,3,0,0,Online ad,0
+RW-200636,Downtown,53,2,Annual,3,Plus,44,0,0,0,3.3,1,6,11,1,0,0,1,Walk-in,0
+RW-200637,Riverside,29,4,Annual,5,Basic,24,0,0,0,9.6,1,7,9,5,5,0,1,Online ad,0
+RW-200638,Westfield,27,83,Annual,7,Plus,44,0,1,0,2.1,0,7,8,3,0,0,1,Online ad,0
+RW-200639,Hillcrest,73,4,Monthly,0,Premium,79,0,0,0,2.6,0,11,13,5,3,0,0,Friend,1
+RW-200640,Northgate,44,76,Monthly,0,Plus,49,0,0,0,14.4,0,4,6,8,1,0,0,Online ad,1
+RW-200641,Downtown,28,73,Monthly,0,Basic,29,0,0,0,6.8,0,0,6,40,0,0,0,Online ad,0
+RW-200642,Riverside,23,6,Annual,3,Premium,74,0,0,0,5.6,0,5,8,1,0,0,1,Walk-in,1
+RW-200643,Downtown,29,2,Monthly,0,Plus,49,0,0,0,10.7,0,3,5,10,1,0,0,Friend,0
+RW-200644,Downtown,39,19,Annual,11,Plus,44,0,0,0,2.6,1,1,13,12,0,0,1,Friend,0
+RW-200645,Hillcrest,37,24,Monthly,0,Plus,49,0,0,0,10.9,1,13,8,4,5,1,0,Walk-in,0
+RW-200646,Westfield,19,28,Monthly,0,Plus,39,1,0,0,2.2,1,13,9,4,9,0,0,Online ad,0
+RW-200647,Northgate,25,50,Monthly,0,Plus,49,0,0,0,5.5,0,6,2,3,0,0,0,Online ad,0
+RW-200648,Downtown,29,7,Annual,0,Plus,44,0,1,0,3.0,1,10,2,6,5,0,0,Online ad,0
+RW-200649,Westfield,33,70,Monthly,0,Basic,29,0,1,0,2.7,1,4,12,7,4,0,0,Online ad,0
+RW-200650,Hillcrest,28,2,Monthly,0,Plus,49,0,0,1,6.3,0,3,4,4,0,0,0,Friend,2
+RW-200651,Riverside,37,34,Monthly,0,Basic,29,0,0,0,15.7,1,11,4,1,1,0,0,Friend,0
+RW-200652,Lakeview,31,3,Annual,1,Premium,74,0,0,0,3.8,1,28,17,3,13,0,0,Walk-in,1
+RW-200653,Downtown,26,1,Annual,2,Plus,44,0,1,0,11.6,0,5,0,2,1,0,1,Online ad,0
+RW-200654,Downtown,34,11,Annual,6,Plus,44,0,0,0,5.7,1,10,23,8,1,0,0,Friend,0
+RW-200655,Riverside,28,47,Monthly,0,Plus,49,0,0,0,9.0,1,16,24,2,8,0,1,Online ad,0
+RW-200656,Westfield,32,38,Monthly,0,Basic,29,0,1,0,2.5,0,6,4,5,0,0,0,Online ad,0
+RW-200657,Downtown,49,11,Annual,3,Basic,24,0,0,1,8.8,1,4,2,3,1,0,0,Walk-in,0
+RW-200658,Northgate,29,7,Annual,8,Plus,34,1,0,1,7.1,1,8,6,8,0,0,1,Friend,0
+RW-200659,Westfield,34,9,Monthly,0,Plus,39,1,0,0,8.0,1,3,3,6,2,0,0,Corporate,0
+RW-200660,Riverside,32,7,Annual,7,Plus,44,0,0,1,3.6,0,6,11,4,0,0,1,Online ad,0
+RW-200661,Northgate,27,19,Annual,4,Plus,39,1,1,0,8.4,1,1,9,11,1,0,1,Walk-in,0
+RW-200662,Northgate,28,9,Monthly,0,Basic,29,0,1,0,6.6,1,1,6,6,1,0,0,Walk-in,0
+RW-200663,Westfield,46,21,Monthly,0,Basic,29,0,0,0,5.6,1,9,12,3,1,0,1,Friend,0
+RW-200664,Downtown,35,10,Monthly,0,Basic,29,1,1,0,3.9,1,4,2,3,1,1,0,Walk-in,0
+RW-200665,Westfield,33,11,Monthly,0,Plus,49,0,1,1,2.8,1,21,22,4,1,0,0,Online ad,0
+RW-200666,Riverside,38,14,Monthly,0,Premium,74,1,0,0,6.7,0,4,3,3,2,0,1,Online ad,0
+RW-200667,Riverside,29,6,Annual,9,Plus,39,1,0,0,3.3,1,12,9,2,1,0,0,Walk-in,0
+RW-200668,Lakeview,52,9,Monthly,0,Plus,49,0,0,0,16.1,1,4,3,5,0,1,0,Walk-in,0
+RW-200669,Riverside,37,6,Monthly,0,Plus,49,0,0,0,4.3,0,9,7,8,0,0,0,Friend,0
+RW-200670,Westfield,67,19,Monthly,0,Plus,49,0,0,0,7.2,0,1,2,4,0,0,0,Corporate,0
+RW-200671,Lakeview,31,5,Monthly,0,Plus,49,0,0,1,2.0,0,20,11,0,11,0,0,Friend,0
+RW-200672,Lakeview,32,18,Monthly,0,Premium,69,1,0,0,6.6,0,0,6,32,0,0,1,Walk-in,0
+RW-200673,Northgate,28,39,Monthly,0,Basic,29,0,1,0,2.8,1,28,28,1,11,0,0,Online ad,0
+RW-200674,Hillcrest,22,25,Annual,2,Premium,74,0,0,0,4.3,0,7,4,10,1,1,0,Friend,0
+RW-200675,Westfield,47,26,Monthly,0,Premium,79,0,0,0,5.3,1,6,10,0,7,0,0,Corporate,0
+RW-200676,Hillcrest,22,23,Annual,11,Basic,24,1,0,1,4.0,1,5,16,6,0,0,0,Corporate,1
+RW-200677,Hillcrest,41,18,Monthly,0,Basic,24,1,1,0,2.1,0,1,10,1,1,0,0,Online ad,0
+RW-200678,Riverside,30,12,Annual,2,Basic,24,0,0,0,2.1,1,5,8,12,3,0,0,Walk-in,1
+RW-200679,Riverside,33,6,Monthly,0,Plus,49,0,0,0,10.6,1,0,4,83,0,0,0,Walk-in,0
+RW-200680,Northgate,55,93,Annual,8,Plus,39,1,0,0,6.8,0,18,20,6,0,2,1,Online ad,0
+RW-200681,Northgate,37,26,Annual,11,Basic,14,1,0,0,11.2,1,28,28,4,1,0,0,Walk-in,0
+RW-200682,Westfield,43,24,Annual,10,Basic,24,0,1,0,3.6,1,7,5,1,0,0,0,Online ad,0
+RW-200683,Riverside,56,7,Monthly,0,Premium,79,0,0,0,4.6,0,7,7,4,1,0,1,Walk-in,0
+RW-200684,Lakeview,21,87,Annual,3,Plus,44,0,0,0,2.0,0,0,1,76,0,1,0,Walk-in,0
+RW-200685,Northgate,46,25,Annual,8,Premium,69,1,1,0,5.6,0,7,13,1,4,0,0,Friend,0
+RW-200686,Downtown,25,94,Monthly,0,Plus,44,1,1,0,7.1,1,4,6,3,2,0,1,Walk-in,0
+RW-200687,Lakeview,47,49,Monthly,0,Plus,44,1,0,0,5.7,1,4,8,2,1,0,0,Friend,0
+RW-200688,Downtown,35,5,Monthly,0,Plus,49,0,0,0,6.4,0,4,5,8,0,0,0,Online ad,0
+RW-200689,Riverside,25,2,Monthly,0,Basic,29,0,0,0,7.4,1,4,1,9,0,0,0,Friend,0
+RW-200690,Westfield,38,22,Monthly,0,Basic,29,0,0,1,2.5,1,13,17,6,13,0,0,Walk-in,0
+RW-200691,Hillcrest,29,2,Annual,8,Basic,24,0,0,0,2.6,1,7,7,7,1,0,0,Walk-in,0
+RW-200692,Westfield,48,38,Annual,2,Basic,14,1,1,0,2.5,0,6,7,11,2,0,1,Online ad,0
+RW-200693,Riverside,41,17,Annual,5,Plus,44,0,0,0,11.3,1,4,4,8,0,0,0,Online ad,1
+RW-200694,Northgate,36,16,Monthly,0,Basic,24,1,0,0,2.2,0,7,12,1,0,0,0,Friend,0
+RW-200695,Northgate,31,35,Annual,1,Basic,24,0,1,0,3.1,1,12,7,3,9,0,0,Online ad,1
+RW-200696,Westfield,50,18,Annual,2,Basic,24,0,0,0,5.6,1,4,4,11,1,0,0,Walk-in,0
+RW-200697,Northgate,33,26,Annual,5,Basic,24,1,0,0,10.9,1,6,10,7,1,0,0,Online ad,0
+RW-200698,Hillcrest,23,1,Monthly,0,Premium,74,1,0,0,2.2,1,15,0,6,9,0,1,Online ad,2
+RW-200699,Lakeview,40,10,Monthly,0,Basic,29,0,1,0,2.2,1,8,9,2,1,0,0,Online ad,0
+RW-200700,Northgate,35,31,Monthly,0,Plus,49,0,0,1,11.4,1,12,9,0,0,0,1,Online ad,0
+RW-200701,Northgate,48,3,Monthly,0,Basic,29,0,0,0,3.7,0,0,8,31,0,0,0,Walk-in,0
+RW-200702,Downtown,39,19,Monthly,0,Basic,29,0,0,0,2.0,1,5,6,2,2,0,0,Online ad,1
+RW-200703,Westfield,49,23,Monthly,0,Basic,29,0,0,0,13.0,1,3,8,11,0,0,1,Friend,0
+RW-200704,Riverside,23,3,Annual,9,Plus,44,0,0,0,2.6,0,6,9,8,0,1,0,Corporate,0
+RW-200705,Hillcrest,27,45,Annual,3,Basic,24,0,0,0,3.2,1,5,9,6,0,0,0,Friend,0
+RW-200706,Northgate,41,8,Monthly,0,Basic,29,0,1,0,2.0,0,2,4,8,0,0,0,Friend,0
+RW-200707,Westfield,25,60,Monthly,0,Premium,79,0,1,0,0.9,0,9,7,3,3,0,0,Friend,0
+RW-200708,Riverside,24,3,Monthly,0,Plus,49,0,0,0,19.7,0,6,1,3,2,0,0,Online ad,0
+RW-200709,Westfield,57,24,Monthly,0,Basic,29,0,0,0,3.5,1,10,22,8,7,0,0,Online ad,0
+RW-200710,Lakeview,36,84,Monthly,0,Plus,49,0,0,0,2.7,0,16,15,5,1,0,0,Walk-in,0
+RW-200711,Hillcrest,24,4,Monthly,0,Plus,49,0,1,0,5.7,1,4,2,4,0,0,0,Walk-in,0
+RW-200712,Lakeview,45,21,Monthly,0,Premium,79,0,0,1,8.7,1,10,6,4,1,0,0,Online ad,1
+RW-200713,Northgate,40,20,Monthly,0,Basic,29,0,0,0,7.4,1,5,5,10,1,2,1,Friend,0
+RW-200714,Northgate,38,6,Monthly,0,Basic,29,0,0,0,4.2,1,12,19,7,3,0,0,Walk-in,0
+RW-200715,Downtown,39,16,Monthly,0,Premium,79,0,0,1,4.4,0,11,10,7,1,0,1,Walk-in,0
+RW-200716,Lakeview,23,51,Monthly,0,Basic,29,0,1,0,12.1,0,6,6,9,0,0,0,Walk-in,1
+RW-200717,Hillcrest,45,14,Monthly,0,Basic,29,0,0,0,3.8,1,12,5,6,10,0,0,Friend,0
+RW-200718,Northgate,31,26,Monthly,0,Plus,49,0,1,0,3.5,0,2,7,1,1,0,0,Friend,0
+RW-200719,Hillcrest,26,18,Annual,10,Basic,24,0,0,0,8.2,0,2,16,10,0,1,0,Online ad,0
+RW-200720,Riverside,21,7,Monthly,0,Basic,29,0,1,0,3.8,0,9,9,3,0,0,0,Online ad,0
+RW-200721,Northgate,35,36,Annual,4,Plus,44,0,0,0,7.5,0,21,14,0,7,0,1,Walk-in,0
+RW-200722,Riverside,25,15,Annual,5,Plus,44,0,0,0,5.0,0,19,10,6,6,0,0,Walk-in,2
+RW-200723,Westfield,66,10,Annual,6,Basic,24,0,1,1,5.2,0,4,10,8,4,0,1,Friend,0
+RW-200724,Hillcrest,32,3,Monthly,0,Plus,49,0,0,0,6.1,1,4,5,9,0,1,0,Online ad,1
+RW-200725,Hillcrest,24,8,Annual,5,Premium,74,0,1,0,0.7,0,19,20,4,0,0,0,Online ad,0
+RW-200726,Hillcrest,21,4,Annual,2,Basic,14,1,0,0,40.0,0,4,3,13,0,0,0,Friend,0
+RW-200727,Northgate,49,50,Monthly,0,Plus,49,0,0,0,1.3,1,2,5,4,0,0,0,Walk-in,0
+RW-200728,Downtown,26,25,Annual,9,Plus,44,0,0,0,7.8,1,12,8,4,4,0,0,Walk-in,0
+RW-200729,Westfield,22,82,Annual,4,Plus,44,0,0,0,1.6,0,12,4,6,0,0,0,Friend,0
+RW-200730,Lakeview,35,22,Annual,8,Basic,24,0,0,0,8.0,1,8,7,5,1,0,1,Walk-in,0
+RW-200731,Downtown,20,13,Monthly,0,Basic,29,0,0,0,10.4,1,3,15,4,2,0,0,Online ad,0
+RW-200732,Lakeview,50,13,Monthly,0,Basic,24,1,0,0,10.8,0,15,19,2,9,0,0,Walk-in,0
+RW-200733,Lakeview,36,11,Annual,7,Plus,44,0,0,0,4.3,1,4,3,0,1,0,0,Online ad,0
+RW-200734,Riverside,45,46,Monthly,0,Plus,49,0,0,0,5.0,0,8,9,6,1,2,1,Friend,1
+RW-200735,Westfield,27,37,Monthly,0,Premium,79,0,0,0,5.8,0,6,7,4,5,1,0,Friend,0
+RW-200736,Hillcrest,35,28,Annual,6,Plus,44,0,0,0,4.8,0,6,6,4,0,1,0,Friend,0
+RW-200737,Riverside,30,18,Annual,2,Basic,24,0,0,0,3.1,0,3,5,4,0,0,0,Friend,0
+RW-200738,Riverside,40,23,Monthly,0,Basic,29,0,1,0,3.5,0,1,3,20,0,0,1,Online ad,1
+RW-200739,Downtown,41,1,Monthly,0,Plus,49,0,0,0,6.3,0,13,0,8,8,0,0,Online ad,0
+RW-200740,Downtown,34,1,Annual,8,Plus,44,1,1,0,7.4,0,2,0,9,0,1,0,Corporate,0
+RW-200741,Riverside,40,13,Monthly,0,Plus,49,0,0,0,2.2,0,2,4,5,0,0,0,Walk-in,1
+RW-200742,Downtown,31,33,Annual,5,Basic,24,0,0,0,5.1,0,4,4,12,0,1,1,Walk-in,0
+RW-200743,Northgate,34,7,Monthly,0,Basic,29,0,0,0,2.7,1,1,4,3,0,0,1,Walk-in,0
+RW-200744,Downtown,43,5,Monthly,0,Plus,39,1,1,0,9.1,1,7,4,10,2,0,1,Online ad,1
+RW-200745,Downtown,48,2,Monthly,0,Plus,49,0,0,0,9.2,1,22,14,4,7,0,0,Walk-in,0
+RW-200746,Lakeview,40,2,Monthly,0,Plus,49,0,1,0,3.7,1,3,5,4,0,1,0,Walk-in,0
+RW-200747,Northgate,25,68,Annual,9,Basic,24,0,0,1,11.3,0,1,13,6,0,0,0,Online ad,0
+RW-200748,Hillcrest,28,15,Monthly,0,Basic,29,1,0,0,1.5,1,10,9,6,1,0,0,Online ad,1
+RW-200749,Hillcrest,47,21,Monthly,0,Basic,29,0,1,0,1.6,1,11,12,8,0,0,0,Walk-in,0
+RW-200750,Downtown,27,39,Annual,9,Premium,74,1,0,0,7.7,0,15,10,3,0,0,1,Friend,0
+RW-200751,Riverside,38,13,Monthly,0,Basic,29,0,0,0,5.2,1,8,9,1,0,0,0,Walk-in,0
+RW-200752,Riverside,36,14,Annual,0,Plus,39,1,1,0,5.2,1,8,6,5,2,0,0,Friend,0
+RW-200753,Downtown,43,44,Monthly,0,Basic,29,0,0,0,9.3,1,13,8,5,2,0,1,Walk-in,0
+RW-200754,Lakeview,19,26,Monthly,0,Plus,49,0,0,0,3.6,1,17,14,4,1,0,0,Online ad,0
+RW-200755,Downtown,40,5,Monthly,0,Premium,79,0,1,1,7.5,1,8,11,2,4,2,0,Online ad,0
+RW-200756,Northgate,41,17,Monthly,0,Plus,49,0,0,0,8.2,0,6,10,5,0,1,0,Online ad,1
+RW-200757,Westfield,47,25,Monthly,0,Basic,29,0,0,0,8.3,0,13,19,5,6,0,1,Friend,0
+RW-200758,Downtown,37,34,Annual,9,Basic,24,0,1,0,5.9,0,3,12,8,0,0,0,Online ad,0
+RW-200759,Westfield,37,39,Monthly,0,Plus,49,0,0,0,8.8,1,11,8,0,1,0,0,Walk-in,0
+RW-200760,Westfield,23,3,Annual,3,Basic,24,0,0,0,5.3,1,13,9,6,1,2,0,Online ad,0
+RW-200761,Northgate,21,114,Monthly,0,Plus,49,0,1,0,1.8,0,2,3,2,0,0,0,Walk-in,0
+RW-200762,Westfield,36,3,Annual,11,Basic,24,0,0,0,15.1,0,9,5,5,4,0,1,Friend,0
+RW-200763,Northgate,47,7,Annual,6,Plus,44,0,1,0,1.1,1,6,6,4,1,1,1,Corporate,0
+RW-200764,Hillcrest,34,13,Annual,8,Premium,74,1,0,0,7.1,0,12,7,4,6,1,0,Walk-in,0
+RW-200765,Lakeview,36,8,Annual,3,Plus,39,1,0,0,3.3,1,5,5,5,3,0,0,Walk-in,0
+RW-200766,Downtown,39,6,Monthly,0,Plus,49,0,0,0,10.2,0,4,5,11,2,0,1,Online ad,0
+RW-200767,Downtown,50,63,Monthly,0,Plus,49,0,1,0,2.8,0,13,11,4,0,1,1,Online ad,0
+RW-200768,Riverside,22,4,Annual,0,Premium,74,0,0,0,4.5,1,10,6,5,0,0,0,Walk-in,0
+RW-200769,Lakeview,68,4,Monthly,0,Plus,49,0,0,1,3.3,0,0,4,42,0,0,0,Friend,0
+RW-200770,Downtown,30,16,Monthly,0,Plus,49,0,0,0,2.4,0,6,4,5,1,0,0,Friend,0
+RW-200771,Downtown,24,48,Monthly,0,Premium,79,0,0,0,2.3,0,4,6,12,0,0,0,Walk-in,0
+RW-200772,Westfield,38,18,Annual,7,Plus,44,0,0,0,4.0,0,6,6,0,1,1,0,Online ad,0
+RW-200773,Lakeview,28,120,Monthly,0,Plus,49,0,0,0,3.4,1,13,7,1,1,0,0,Walk-in,0
+RW-200774,Lakeview,29,22,Annual,3,Plus,44,0,0,0,17.4,1,1,8,16,0,0,0,Walk-in,0
+RW-200775,Lakeview,29,9,Annual,11,Plus,44,0,0,0,4.5,1,3,15,2,0,0,1,Walk-in,0
+RW-200776,Lakeview,30,5,Annual,8,Basic,24,0,1,0,7.4,1,6,13,11,1,0,0,Friend,0
+RW-200777,Riverside,39,19,Annual,6,Plus,44,0,0,0,5.5,0,19,9,4,7,0,1,Friend,0
+RW-200778,Northgate,21,12,Annual,0,Plus,39,1,0,0,5.6,0,8,8,9,1,0,0,Online ad,0
+RW-200779,Northgate,35,30,Annual,6,Premium,74,0,1,0,4.3,1,1,5,13,0,0,0,Online ad,0
+RW-200780,Northgate,40,30,Annual,11,Basic,24,0,0,0,8.2,0,5,8,3,2,0,1,Online ad,0
+RW-200781,Downtown,29,21,Annual,6,Basic,24,0,0,0,12.5,1,16,28,4,7,1,0,Walk-in,0
+RW-200782,Hillcrest,18,3,Monthly,0,Basic,24,1,0,0,3.2,1,0,1,45,0,0,0,Corporate,0
+RW-200783,Riverside,31,3,Annual,10,Premium,74,0,0,1,2.3,1,7,9,4,3,0,0,Online ad,0
+RW-200784,Downtown,27,2,Annual,3,Premium,64,1,0,1,6.1,1,24,27,1,4,0,0,Online ad,1
+RW-200785,Hillcrest,57,12,Monthly,0,Premium,79,0,1,1,6.5,0,13,9,2,4,0,0,Friend,0
+RW-200786,Lakeview,45,15,Monthly,0,Plus,39,1,0,0,7.3,0,6,10,9,5,0,1,Walk-in,0
+RW-200787,Northgate,27,29,Annual,10,Basic,24,0,0,0,1.8,1,6,13,2,1,0,0,Online ad,2
+RW-200788,Northgate,24,5,Annual,3,Basic,24,0,0,0,4.1,1,4,4,10,1,0,1,Friend,0
+RW-200789,Riverside,42,9,Monthly,0,Basic,29,0,1,0,1.9,1,13,13,2,4,0,0,Online ad,0
+RW-200790,Northgate,26,1,Annual,6,Basic,14,1,0,0,4.7,0,2,0,16,0,0,0,Friend,0
+RW-200791,Riverside,42,77,Monthly,0,Basic,24,1,0,0,4.8,0,5,3,1,2,0,0,Corporate,0
+RW-200792,Downtown,31,20,Annual,2,Premium,74,0,1,0,4.9,0,12,8,3,6,0,0,Walk-in,0
+RW-200793,Hillcrest,33,51,Monthly,0,Basic,24,1,0,0,4.1,1,5,10,3,0,0,0,Walk-in,0
+RW-200794,Downtown,47,13,Monthly,0,Premium,79,0,0,1,4.9,1,13,13,3,2,0,1,Walk-in,0
+RW-200795,Downtown,32,20,Monthly,0,Premium,74,1,0,0,7.9,0,5,4,6,1,0,0,Online ad,0
+RW-200796,Northgate,52,10,Annual,2,Basic,24,0,0,1,2.8,1,8,18,4,1,0,1,Friend,0
+RW-200797,Northgate,27,27,Annual,4,Plus,44,0,0,0,1.5,1,0,10,35,0,0,0,Friend,1
+RW-200798,Northgate,35,2,Monthly,0,Premium,79,1,0,0,4.6,1,21,10,0,10,0,0,Walk-in,0
+RW-200799,Hillcrest,30,12,Annual,8,Premium,74,0,0,0,4.6,1,1,6,20,0,0,0,Corporate,2
+RW-200800,Downtown,28,72,Annual,7,Basic,24,1,0,0,3.1,0,2,6,1,0,1,0,Friend,0
+RW-200801,Westfield,32,16,Monthly,0,Plus,49,0,0,0,3.9,0,14,17,6,2,1,0,Online ad,0
+RW-200802,Riverside,27,1,Annual,6,Plus,44,0,0,0,3.3,0,12,0,5,7,0,0,Online ad,0
+RW-200803,Northgate,53,24,Annual,10,Basic,24,0,0,0,3.9,1,28,28,4,1,1,0,Walk-in,0
+RW-200804,Riverside,24,34,Monthly,0,Basic,29,0,0,0,1.7,0,4,7,5,2,0,0,Friend,0
+RW-200805,Lakeview,29,13,Monthly,0,Plus,49,0,1,1,7.8,1,2,13,9,1,0,0,Online ad,0
+RW-200806,Riverside,27,45,Annual,9,Plus,44,0,0,0,6.0,1,15,5,5,6,0,0,Online ad,1
+RW-200807,Westfield,32,24,Annual,9,Premium,74,0,1,0,2.7,0,7,14,0,1,0,0,Friend,1
+RW-200808,Riverside,23,20,Monthly,0,Basic,29,0,0,0,3.2,1,24,28,5,2,0,0,Friend,0
+RW-200809,Northgate,36,9,Annual,9,Basic,24,1,0,0,5.2,1,19,12,3,0,0,0,Online ad,0
+RW-200810,Downtown,28,21,Annual,4,Plus,44,0,0,0,4.7,1,2,6,5,0,1,0,Friend,3
+RW-200811,Northgate,27,1,Monthly,0,Plus,49,0,0,0,23.1,0,5,0,2,1,0,0,Walk-in,0
+RW-200812,Riverside,21,3,Annual,8,Basic,24,0,0,0,3.7,1,9,9,6,7,0,0,Online ad,0
+RW-200813,Lakeview,37,38,Annual,3,Premium,69,1,0,0,12.6,0,9,16,4,6,0,0,Walk-in,0
+RW-200814,Westfield,27,2,Monthly,0,Basic,29,0,0,0,6.2,1,1,8,6,1,0,0,Walk-in,1
+RW-200815,Westfield,33,56,Annual,10,Plus,44,1,0,0,7.3,0,3,14,14,1,0,0,Online ad,0
+RW-200816,Westfield,64,35,Annual,5,Plus,39,1,0,0,6.2,1,6,11,0,1,0,0,Online ad,0
+RW-200817,Downtown,27,54,Monthly,0,Basic,29,0,0,0,9.6,1,3,7,6,0,0,1,Online ad,0
+RW-200818,Downtown,32,3,Monthly,0,Basic,29,0,0,0,2.0,1,7,10,9,0,1,0,Online ad,0
+RW-200819,Northgate,32,20,Monthly,0,Plus,49,0,0,0,14.4,1,0,13,81,0,1,0,Walk-in,0
+RW-200820,Northgate,48,23,Monthly,0,Premium,74,1,1,1,3.0,1,12,11,3,5,1,0,Corporate,1
+RW-200821,Hillcrest,58,17,Annual,10,Basic,24,0,0,0,5.8,1,2,1,6,0,0,0,Online ad,0
+RW-200822,Westfield,29,21,Annual,10,Plus,44,0,0,0,3.5,0,2,6,5,1,1,0,Online ad,1
+RW-200823,Riverside,24,12,Annual,4,Basic,24,0,0,0,7.0,0,1,5,21,0,0,0,Friend,0
+RW-200824,Downtown,78,11,Monthly,0,Basic,29,0,0,0,1.0,1,7,13,8,3,0,0,Online ad,0
+RW-200825,Riverside,63,10,Monthly,0,Basic,29,0,0,0,4.7,0,5,9,11,2,0,0,Online ad,0
+RW-200826,Northgate,69,61,Annual,8,Premium,74,1,1,0,2.7,1,0,5,32,0,0,0,Online ad,0
+RW-200827,Northgate,25,53,Monthly,0,Plus,49,0,0,0,4.1,1,1,0,10,0,0,0,Corporate,0
+RW-200828,Riverside,21,3,Annual,6,Basic,24,0,1,0,2.7,0,2,7,5,0,0,0,Online ad,0
+RW-200829,Lakeview,37,3,Monthly,0,Basic,29,1,0,0,2.6,1,5,26,2,2,1,0,Online ad,0
+RW-200830,Hillcrest,40,51,Monthly,0,Plus,49,0,0,1,21.2,1,0,6,66,0,0,1,Walk-in,0
+RW-200831,Riverside,33,40,Annual,0,Basic,24,0,0,0,1.7,0,4,11,2,0,1,0,Online ad,0
+RW-200832,Downtown,21,4,Monthly,0,Basic,29,0,0,0,5.3,1,21,23,1,1,0,0,Friend,0
+RW-200833,Lakeview,32,3,Monthly,0,Plus,49,0,1,0,5.7,1,3,7,2,7,0,1,Online ad,0
+RW-200834,Westfield,40,8,Monthly,0,Premium,74,1,0,0,7.4,0,8,15,2,0,0,1,Walk-in,1
+RW-200835,Northgate,29,12,Monthly,0,Plus,44,1,0,0,4.8,0,5,6,4,3,0,0,Friend,0
+RW-200836,Westfield,55,29,Monthly,0,Plus,49,0,0,0,2.0,0,4,14,6,0,0,0,Online ad,0
+RW-200837,Riverside,42,26,Monthly,0,Basic,29,0,0,0,5.3,1,7,7,2,4,1,0,Walk-in,0
+RW-200838,Lakeview,55,2,Annual,3,Basic,24,0,0,0,4.2,0,7,0,6,0,0,0,Walk-in,0
+RW-200839,Lakeview,37,22,Monthly,0,Basic,29,0,0,0,2.1,1,8,3,5,6,1,0,Walk-in,0
+RW-200840,Riverside,31,35,Annual,5,Basic,24,0,0,0,5.1,1,6,18,6,0,0,1,Online ad,0
+RW-200841,Lakeview,26,62,Annual,0,Basic,24,0,0,0,7.0,0,26,28,3,0,1,0,Friend,0
+RW-200842,Riverside,34,18,Monthly,0,Basic,29,0,1,0,3.9,0,12,5,2,3,0,1,Walk-in,0
+RW-200843,Hillcrest,31,6,Monthly,0,Basic,29,0,0,0,13.3,1,2,7,5,1,1,0,Online ad,0
+RW-200844,Northgate,37,47,Annual,11,Basic,24,0,0,0,3.1,1,7,3,4,3,1,1,Online ad,1
+RW-200845,Lakeview,33,37,Monthly,0,Plus,49,0,0,0,5.1,1,14,9,6,6,0,0,Corporate,0
+RW-200846,Lakeview,51,30,Monthly,0,Basic,24,1,1,0,2.5,0,0,7,36,0,0,0,Walk-in,0
+RW-200847,Northgate,42,86,Monthly,0,Basic,29,1,0,0,13.9,1,2,14,2,0,1,0,Online ad,0
+RW-200848,Riverside,51,1,Monthly,0,Premium,74,1,0,0,10.5,0,6,0,2,2,1,0,Walk-in,0
+RW-200849,Northgate,34,12,Annual,10,Plus,44,0,0,0,5.1,1,9,10,1,7,0,0,Walk-in,0
+RW-200850,Westfield,47,79,Annual,10,Basic,24,0,0,0,10.9,0,10,10,2,0,0,0,Walk-in,0
+RW-200851,Northgate,38,4,Annual,5,Basic,24,0,0,0,11.4,1,7,5,10,1,0,1,Online ad,0
+RW-200852,Downtown,26,5,Monthly,0,Basic,29,0,1,0,4.4,1,3,8,0,1,0,1,Online ad,0
+RW-200853,Lakeview,56,12,Monthly,0,Basic,29,0,0,0,7.0,1,14,11,2,1,0,1,Walk-in,1
+RW-200854,Hillcrest,30,13,Annual,7,Plus,44,0,1,0,4.7,1,12,11,1,0,1,0,Online ad,0
+RW-200855,Hillcrest,45,17,Monthly,0,Basic,29,1,0,1,3.1,1,16,16,0,1,0,1,Friend,1
+RW-200856,Lakeview,41,4,Annual,10,Basic,24,1,0,0,1.7,0,1,2,16,2,0,0,Walk-in,0
+RW-200857,Northgate,32,47,Monthly,0,Plus,49,0,0,0,10.7,1,6,8,8,3,0,1,Friend,0
+RW-200858,Hillcrest,19,33,Monthly,0,Basic,29,0,0,0,3.9,0,14,10,7,1,0,0,Walk-in,0
+RW-200859,Westfield,26,36,Annual,10,Basic,24,0,0,0,4.8,0,1,1,21,1,0,0,Walk-in,0
+RW-200860,Lakeview,31,3,Monthly,0,Plus,49,0,0,0,2.5,0,4,17,7,0,1,0,Walk-in,0
+RW-200861,Riverside,28,10,Annual,2,Plus,44,0,0,0,1.9,0,6,6,11,1,0,0,Walk-in,0
+RW-200862,Riverside,23,3,Monthly,0,Plus,44,1,1,0,3.3,1,11,10,0,0,1,0,Online ad,0
+RW-200863,Lakeview,31,19,Monthly,0,Plus,49,1,0,0,4.2,0,6,4,11,4,0,1,Corporate,0
+RW-200864,Lakeview,41,53,Monthly,0,Basic,29,0,0,0,9.2,1,18,14,2,2,0,1,Online ad,0
+RW-200865,Lakeview,39,22,Annual,7,Basic,24,0,0,0,6.1,0,9,11,3,0,0,0,Friend,0
+RW-200866,Northgate,40,3,Monthly,0,Plus,49,0,0,0,7.4,1,15,17,5,5,0,0,Friend,0
+RW-200867,Downtown,36,32,Annual,10,Basic,24,1,0,0,6.0,0,5,2,2,0,0,0,Corporate,0
+RW-200868,Northgate,30,28,Monthly,0,Plus,49,0,0,0,20.0,0,7,6,2,3,1,0,Online ad,0
+RW-200869,Hillcrest,38,16,Annual,10,Premium,74,0,0,0,2.5,1,13,10,7,2,0,0,Online ad,0
+RW-200870,Riverside,61,10,Monthly,0,Plus,49,0,0,0,2.8,1,7,12,6,0,0,0,Walk-in,0
+RW-200871,Hillcrest,36,31,Monthly,0,Premium,69,1,0,0,3.4,1,5,12,5,0,0,0,Online ad,0
+RW-200872,Hillcrest,29,2,Monthly,0,Basic,29,0,0,0,8.4,1,3,9,14,1,0,0,Online ad,0
+RW-200873,Westfield,41,70,Annual,5,Plus,39,1,0,0,6.2,1,1,8,1,0,1,0,Friend,0
+RW-200874,Westfield,46,22,Annual,5,Plus,44,0,0,0,3.5,0,2,6,13,0,0,0,Online ad,0
+RW-200875,Northgate,52,16,Monthly,0,Plus,44,1,1,0,2.8,1,25,15,3,8,0,0,Online ad,0
+RW-200876,Downtown,23,68,Annual,0,Plus,44,0,0,0,4.1,1,11,2,5,1,1,0,Walk-in,0
+RW-200877,Hillcrest,23,74,Monthly,0,Basic,29,0,0,0,3.0,0,3,3,6,0,0,1,Online ad,0
+RW-200878,Riverside,28,21,Monthly,0,Plus,39,1,0,0,2.7,1,1,9,16,0,2,0,Friend,0
+RW-200879,Lakeview,35,48,Annual,2,Plus,44,0,1,0,5.0,1,6,14,6,2,0,0,Online ad,0
+RW-200880,Riverside,25,14,Monthly,0,Plus,49,0,0,0,2.6,1,11,15,3,3,1,0,Walk-in,0
+RW-200881,Hillcrest,26,21,Annual,11,Basic,24,0,0,0,0.8,1,3,13,4,0,0,0,Online ad,0
+RW-200882,Northgate,41,46,Annual,2,Basic,24,0,1,0,5.3,0,16,22,1,2,2,0,Online ad,0
+RW-200883,Westfield,36,23,Annual,5,Basic,24,0,1,0,9.0,1,1,6,1,0,0,0,Corporate,0
+RW-200884,Downtown,25,38,Monthly,0,Premium,79,0,0,1,4.4,0,7,1,4,0,0,0,Walk-in,0
+RW-200885,Northgate,25,100,Annual,4,Plus,44,0,0,0,3.6,0,1,10,4,0,0,0,Walk-in,0
+RW-200886,Lakeview,36,7,Monthly,0,Plus,49,0,0,0,7.3,1,16,13,6,1,0,0,Walk-in,0
+RW-200887,Downtown,32,12,Monthly,0,Plus,49,0,0,0,1.7,1,10,11,1,5,0,0,Walk-in,0
+RW-200888,Riverside,26,22,Annual,2,Premium,74,0,0,1,5.3,1,3,15,13,3,1,1,Walk-in,0
+RW-200889,Northgate,26,57,Annual,5,Basic,24,0,0,0,1.6,1,26,27,2,11,0,0,Friend,0
+RW-200890,Westfield,34,21,Annual,8,Plus,44,0,0,0,9.2,1,5,14,1,0,0,0,Online ad,0
+RW-200891,Downtown,37,3,Annual,9,Basic,24,0,0,0,12.4,1,4,6,4,2,0,0,Online ad,0
+RW-200892,Hillcrest,35,32,Annual,9,Premium,74,0,0,0,1.2,1,18,23,6,7,1,1,Walk-in,0
+RW-200893,Downtown,33,3,Annual,11,Premium,74,0,0,0,2.0,0,19,12,5,2,0,0,Online ad,0
+RW-200894,Riverside,28,2,Monthly,0,Plus,49,0,0,0,3.5,0,12,10,3,2,1,0,Online ad,0
+RW-200895,Hillcrest,23,36,Annual,2,Premium,69,1,0,0,14.0,1,8,28,6,5,1,0,Walk-in,0
+RW-200896,Northgate,19,9,Monthly,0,Plus,49,0,0,0,2.8,0,15,22,6,0,1,0,Online ad,0
+RW-200897,Riverside,30,5,Monthly,0,Basic,29,0,0,0,9.5,0,10,11,0,1,0,0,Friend,1
+RW-200898,Hillcrest,32,2,Monthly,0,Basic,29,0,0,0,18.4,0,2,6,7,0,0,0,Online ad,0
+RW-200899,Riverside,32,2,Monthly,0,Plus,49,0,0,0,3.6,1,4,3,2,0,1,0,Friend,0
+RW-200900,Northgate,27,16,Annual,1,Plus,39,1,0,0,2.3,0,5,7,10,0,0,1,Corporate,0
+RW-200901,Riverside,38,5,Monthly,0,Basic,29,0,1,0,8.9,1,14,18,5,0,0,0,Friend,0
+RW-200902,Hillcrest,25,7,Annual,1,Plus,44,0,0,0,4.8,1,6,7,3,2,0,0,Online ad,0
+RW-200903,Northgate,22,16,Annual,6,Plus,44,1,0,0,2.5,1,5,4,9,2,0,0,Walk-in,0
+RW-200904,Downtown,28,11,Annual,5,Basic,24,0,0,0,2.2,1,0,10,42,0,0,0,Friend,1
+RW-200905,Riverside,35,11,Monthly,0,Premium,79,0,0,0,8.4,1,5,6,5,0,0,0,Corporate,0
+RW-200906,Riverside,37,10,Monthly,0,Basic,19,1,0,0,16.7,0,8,8,0,7,0,0,Online ad,0
+RW-200907,Downtown,27,13,Annual,4,Premium,74,0,0,0,2.3,1,10,7,0,0,0,0,Corporate,0
+RW-200908,Riverside,39,26,Monthly,0,Plus,39,1,0,0,5.6,1,9,7,2,2,0,0,Friend,0
+RW-200909,Riverside,26,14,Monthly,0,Basic,29,0,0,0,4.5,0,9,9,2,1,1,1,Walk-in,0
+RW-200910,Downtown,42,66,Monthly,0,Premium,79,0,0,1,6.9,1,8,5,6,0,0,0,Friend,1
+RW-200911,Westfield,25,4,Monthly,0,Premium,74,1,1,0,10.5,0,1,1,6,0,0,1,Online ad,0
+RW-200912,Riverside,78,8,Monthly,0,Premium,69,1,1,1,4.1,1,7,10,4,3,0,0,Friend,0
+RW-200913,Downtown,27,3,Monthly,0,Basic,29,0,0,0,5.3,0,11,12,2,4,0,1,Walk-in,0
+RW-200914,Northgate,78,4,Monthly,0,Premium,79,0,0,1,4.2,1,11,23,2,2,0,0,Walk-in,0
+RW-200915,Hillcrest,25,10,Annual,10,Plus,44,0,0,0,1.5,1,12,14,8,0,0,0,Corporate,0
+RW-200916,Hillcrest,42,21,Monthly,0,Plus,49,0,0,0,6.5,0,1,3,14,1,0,0,Walk-in,0
+RW-200917,Downtown,25,25,Annual,11,Basic,14,1,0,0,11.4,1,0,7,41,0,1,0,Walk-in,1
+RW-200918,Downtown,37,24,Annual,9,Plus,44,0,0,0,4.6,1,2,4,11,2,0,1,Walk-in,0
+RW-200919,Northgate,67,15,Annual,0,Premium,74,0,0,0,9.1,0,4,2,2,0,0,0,Online ad,0
+RW-200920,Hillcrest,46,35,Monthly,0,Plus,49,0,0,0,2.2,1,3,5,2,0,0,0,Walk-in,0
+RW-200921,Riverside,25,12,Annual,9,Plus,44,0,0,0,13.8,1,2,1,1,2,2,1,Corporate,1
+RW-200922,Riverside,35,8,Monthly,0,Plus,49,0,0,0,9.9,0,13,9,4,3,0,0,Online ad,0
+RW-200923,Northgate,33,4,Annual,2,Plus,44,0,1,0,8.4,0,13,14,1,0,1,0,Online ad,0
+RW-200924,Northgate,31,18,Monthly,0,Plus,49,0,1,0,3.6,0,12,7,7,0,1,0,Walk-in,0
+RW-200925,Riverside,43,42,Monthly,0,Basic,19,1,1,0,5.2,0,14,7,7,8,0,0,Online ad,1
+RW-200926,Westfield,55,91,Monthly,0,Premium,79,0,0,1,17.4,1,5,6,12,0,0,0,Walk-in,0
+RW-200927,Lakeview,64,40,Annual,0,Plus,44,0,0,0,2.3,1,4,10,0,2,0,0,Online ad,0
+RW-200928,Lakeview,30,4,Annual,5,Basic,24,1,0,0,7.0,0,11,16,5,8,0,0,Online ad,0
+RW-200929,Northgate,41,48,Monthly,0,Basic,29,0,1,1,8.4,1,21,27,0,1,0,1,Walk-in,0
+RW-200930,Westfield,35,26,Monthly,0,Plus,39,1,0,0,10.0,1,12,8,1,0,0,0,Corporate,1
+RW-200931,Westfield,31,27,Monthly,0,Basic,29,0,0,0,10.8,1,2,10,2,0,0,0,Online ad,1
+RW-200932,Downtown,51,17,Monthly,0,Basic,29,1,1,0,1.5,1,22,12,3,2,1,0,Corporate,1
+RW-200933,Riverside,69,21,Monthly,0,Plus,44,1,0,0,6.6,1,15,19,6,0,0,0,Online ad,1
+RW-200934,Riverside,31,4,Annual,5,Plus,44,0,1,0,16.5,0,3,4,2,0,0,0,Walk-in,0
+RW-200935,Northgate,23,28,Monthly,0,Premium,79,0,0,1,3.3,0,19,22,1,6,0,0,Friend,1
+RW-200936,Downtown,39,3,Annual,8,Plus,39,1,1,0,3.1,1,3,8,8,0,0,0,Online ad,0
+RW-200937,Westfield,30,40,Monthly,0,Basic,29,0,0,0,6.0,0,12,14,7,2,0,1,Online ad,0
+RW-200938,Downtown,26,10,Annual,5,Plus,44,1,1,0,7.0,0,7,7,5,1,0,1,Walk-in,1
+RW-200939,Downtown,43,27,Monthly,0,Plus,44,1,1,0,9.5,0,5,5,11,2,1,0,Online ad,0
+RW-200940,Lakeview,45,33,Monthly,0,Plus,49,0,0,0,4.8,1,14,15,7,1,0,1,Corporate,0
+RW-200941,Westfield,44,18,Monthly,0,Premium,79,0,0,1,3.6,0,13,15,5,5,0,1,Online ad,0
+RW-200942,Riverside,41,16,Annual,9,Plus,44,0,1,0,2.4,1,3,1,12,0,1,0,Friend,0
+RW-200943,Lakeview,37,17,Monthly,0,Basic,29,0,0,0,2.9,0,1,0,1,0,1,0,Walk-in,0
+RW-200944,Northgate,24,25,Monthly,0,Plus,49,0,0,0,7.8,1,4,7,12,0,0,1,Walk-in,0
+RW-200945,Lakeview,37,27,Monthly,0,Basic,29,0,0,0,15.0,1,6,6,1,0,0,0,Online ad,1
+RW-200946,Westfield,33,20,Monthly,0,Plus,49,0,0,0,3.1,1,2,5,16,0,0,0,Friend,0
+RW-200947,Hillcrest,38,98,Annual,10,Basic,24,0,0,0,5.4,0,7,4,3,0,0,0,Online ad,0
+RW-200948,Lakeview,28,16,Monthly,0,Plus,49,0,0,0,3.0,0,2,4,10,0,0,1,Corporate,1
+RW-200949,Riverside,27,13,Annual,5,Plus,44,0,0,0,4.8,1,1,0,6,0,0,0,Friend,0
+RW-200950,Lakeview,60,60,Monthly,0,Premium,79,0,0,0,4.9,1,23,12,6,0,0,0,Online ad,0
+RW-200951,Northgate,64,9,Annual,9,Basic,24,0,0,0,3.9,1,11,7,3,0,0,0,Friend,0
+RW-200952,Downtown,48,58,Annual,6,Basic,24,0,0,0,2.2,0,1,4,21,0,1,0,Walk-in,0
+RW-200953,Riverside,52,4,Annual,11,Plus,44,0,0,0,4.0,1,5,10,10,3,0,0,Corporate,0
+RW-200954,Hillcrest,32,4,Monthly,0,Premium,79,0,1,0,2.0,1,7,13,3,2,0,0,Friend,0
+RW-200955,Riverside,24,7,Monthly,0,Basic,29,0,0,0,3.9,1,2,9,10,0,0,0,Walk-in,0
+RW-200956,Westfield,31,13,Monthly,0,Plus,49,0,0,1,3.2,0,7,4,7,1,2,1,Online ad,0
+RW-200957,Westfield,23,48,Annual,2,Basic,19,1,1,0,6.0,0,8,3,9,4,0,0,Online ad,1
+RW-200958,Hillcrest,44,10,Annual,2,Plus,39,1,0,0,4.1,0,7,11,6,4,0,1,Online ad,0
+RW-200959,Riverside,39,16,Monthly,0,Basic,29,0,0,0,3.4,0,22,16,4,1,0,0,Friend,0
+RW-200960,Riverside,48,26,Annual,10,Basic,24,0,0,0,6.7,1,18,14,6,2,0,0,Online ad,0
+RW-200961,Downtown,29,15,Monthly,0,Plus,39,1,0,0,7.4,0,1,15,14,0,0,1,Walk-in,0
+RW-200962,Riverside,31,8,Monthly,0,Plus,49,0,1,0,2.7,0,4,1,5,0,1,0,Friend,0
+RW-200963,Northgate,27,11,Monthly,0,Basic,29,1,0,0,3.5,0,8,4,1,1,1,0,Online ad,0
+RW-200964,Downtown,29,19,Annual,3,Basic,24,0,0,0,3.2,1,9,7,2,0,0,0,Friend,0
+RW-200965,Hillcrest,78,25,Monthly,0,Basic,29,1,0,0,4.5,0,11,1,0,6,0,0,Online ad,1
+RW-200966,Lakeview,47,95,Monthly,0,Premium,79,0,0,0,7.6,0,10,7,5,2,0,1,Walk-in,0
+RW-200967,Downtown,42,19,Monthly,0,Plus,49,0,0,0,4.3,1,12,3,1,7,0,0,Online ad,1
+RW-200968,Westfield,38,6,Monthly,0,Basic,19,1,0,0,5.6,0,7,8,1,0,0,0,Walk-in,0
+RW-200969,Northgate,23,10,Annual,0,Basic,24,0,0,0,2.1,1,7,8,7,0,0,0,Online ad,0
+RW-200970,Northgate,42,16,Annual,10,Basic,19,1,0,0,5.7,1,10,19,8,4,1,0,Corporate,0
+RW-200971,Northgate,33,36,Annual,10,Basic,14,1,0,0,2.7,0,1,10,18,0,0,0,Walk-in,0
+RW-200972,Northgate,56,31,Annual,7,Premium,74,0,0,0,4.0,1,2,6,13,0,0,0,Online ad,1
+RW-200973,Lakeview,24,22,Monthly,0,Plus,49,0,0,0,3.1,1,15,8,2,0,0,0,Online ad,0
+RW-200974,Northgate,46,68,Annual,8,Plus,44,0,0,0,9.2,1,3,2,8,1,1,0,Online ad,0
+RW-200975,Northgate,22,12,Annual,7,Basic,24,0,1,0,9.8,0,4,8,6,2,0,0,Friend,0
+RW-200976,Riverside,46,2,Annual,4,Basic,24,0,0,0,2.8,1,22,13,4,15,1,1,Online ad,0
+RW-200977,Northgate,46,41,Monthly,0,Premium,79,0,0,1,3.8,0,13,11,1,8,1,0,Online ad,0
+RW-200978,Westfield,42,21,Annual,6,Plus,44,0,1,0,7.5,0,0,2,62,0,0,1,Friend,0
+RW-200979,Hillcrest,42,13,Monthly,0,Plus,49,0,1,0,1.3,1,9,6,4,1,0,0,Online ad,0
+RW-200980,Riverside,25,42,Monthly,0,Basic,29,0,0,0,2.2,1,24,28,5,0,0,0,Corporate,0
+RW-200981,Riverside,26,26,Annual,7,Basic,24,0,1,0,10.9,1,6,1,3,4,0,0,Online ad,0
+RW-200982,Hillcrest,24,11,Annual,2,Basic,24,1,1,0,3.1,1,9,9,4,3,2,0,Online ad,2
+RW-200983,Downtown,42,13,Annual,7,Basic,24,1,0,0,2.4,1,16,24,6,14,0,0,Online ad,1
+RW-200984,Downtown,32,11,Monthly,0,Basic,29,0,1,0,5.3,0,13,4,2,1,0,0,Walk-in,0
+RW-200985,Riverside,73,56,Monthly,0,Basic,29,0,0,0,5.3,0,2,6,14,0,0,0,Friend,0
+RW-200986,Downtown,31,6,Annual,7,Plus,44,0,0,0,8.7,0,5,4,11,3,1,0,Walk-in,1
+RW-200987,Riverside,30,35,Annual,6,Basic,24,0,0,0,4.8,0,6,8,2,4,3,0,Walk-in,0
+RW-200988,Downtown,35,16,Monthly,0,Plus,49,0,0,0,1.7,1,17,16,6,1,0,0,Friend,0
+RW-200989,Northgate,21,86,Annual,1,Basic,24,0,0,0,5.9,0,6,7,8,0,0,0,Online ad,0
+RW-200990,Riverside,42,5,Monthly,0,Premium,79,0,0,0,1.8,0,4,3,13,4,0,0,Friend,0
+RW-200991,Downtown,29,11,Monthly,0,Basic,29,0,0,0,3.7,1,9,9,5,0,1,1,Walk-in,0
+RW-200992,Northgate,25,9,Monthly,0,Plus,49,0,1,0,9.3,0,4,14,3,3,0,0,Online ad,0
+RW-200993,Northgate,24,78,Monthly,0,Basic,29,0,0,0,7.3,0,1,2,13,0,0,0,Friend,1
+RW-200994,Downtown,24,24,Monthly,0,Plus,49,0,1,0,13.1,0,7,7,10,0,0,0,Online ad,0
+RW-200995,Downtown,27,13,Annual,0,Plus,44,0,0,0,4.3,1,7,3,4,0,0,0,Walk-in,1
+RW-200996,Hillcrest,26,30,Monthly,0,Basic,29,0,0,0,0.9,0,0,11,37,0,0,0,Walk-in,1
+RW-200997,Northgate,41,3,Monthly,0,Basic,29,0,0,0,3.1,1,28,28,1,17,0,0,Friend,0
+RW-200998,Riverside,38,11,Annual,4,Basic,19,1,1,0,1.7,1,19,7,5,2,0,0,Friend,0
+RW-200999,Westfield,39,50,Monthly,0,Premium,79,0,1,0,5.1,0,20,9,3,2,0,0,Corporate,1
+RW-201000,Riverside,29,22,Monthly,0,Plus,44,1,0,0,5.5,0,4,15,3,0,0,0,Walk-in,0
+RW-201001,Hillcrest,56,31,Monthly,0,Basic,29,0,0,0,6.1,0,6,3,11,0,0,0,Walk-in,0
+RW-201002,Riverside,52,46,Annual,5,Plus,34,1,0,0,1.5,0,13,16,5,2,0,0,Walk-in,0
+RW-201003,Westfield,22,3,Monthly,0,Basic,29,0,1,0,4.0,1,12,14,5,4,0,0,Online ad,0
+RW-201004,Downtown,31,42,Monthly,0,Plus,49,0,0,0,2.5,1,1,5,0,0,0,1,Online ad,0
+RW-201005,Northgate,20,3,Annual,1,Plus,44,0,0,0,3.5,0,5,5,9,1,1,0,Online ad,1
+RW-201006,Northgate,78,47,Monthly,0,Basic,24,1,0,0,2.9,1,12,5,6,7,0,0,Online ad,0
+RW-201007,Northgate,33,9,Monthly,0,Plus,49,0,0,0,4.4,1,5,9,5,0,0,0,Online ad,1
+RW-201008,Downtown,24,10,Monthly,0,Plus,49,0,0,0,2.7,1,8,10,9,1,0,0,Online ad,0
+RW-201009,Lakeview,33,3,Monthly,0,Plus,49,0,0,0,3.4,0,8,7,4,0,0,1,Friend,0
+RW-201010,Lakeview,65,2,Monthly,0,Premium,79,0,0,0,2.5,0,8,6,10,1,0,0,Walk-in,0
+RW-201011,Riverside,42,28,Monthly,0,Basic,29,0,0,0,11.9,0,3,3,10,0,0,0,Online ad,1
+RW-201012,Riverside,29,44,Monthly,0,Basic,29,1,0,1,1.8,1,14,19,2,5,0,0,Online ad,0
+RW-201013,Westfield,41,16,Annual,6,Premium,74,0,0,0,4.0,0,5,5,11,2,0,0,Walk-in,0
+RW-201014,Hillcrest,24,8,Monthly,0,Basic,29,0,0,0,4.2,0,14,5,4,4,1,0,Friend,0
+RW-201015,Downtown,41,21,Monthly,0,Basic,29,0,0,0,2.9,0,0,7,38,0,1,0,Friend,0
+RW-201016,Hillcrest,25,56,Monthly,0,Plus,39,1,0,0,18.4,1,21,14,1,1,0,0,Walk-in,0
+RW-201017,Northgate,58,24,Annual,1,Basic,24,0,0,0,25.1,0,2,2,14,0,1,0,Online ad,0
+RW-201018,Northgate,29,31,Annual,6,Basic,24,0,0,0,4.8,1,15,12,4,1,1,0,Online ad,0
+RW-201019,Westfield,25,25,Annual,8,Basic,24,0,0,0,29.0,1,0,8,60,0,0,0,Online ad,0
+RW-201020,Westfield,49,117,Monthly,0,Plus,49,0,0,0,3.9,0,11,19,1,1,0,0,Online ad,0
+RW-201021,Northgate,30,14,Annual,3,Basic,24,0,0,0,3.9,0,7,6,9,2,0,0,Walk-in,0
+RW-201022,Westfield,30,9,Annual,3,Basic,24,0,0,0,2.3,1,17,13,3,0,0,0,Walk-in,0
+RW-201023,Northgate,65,32,Monthly,0,Plus,49,0,0,0,10.6,1,2,5,9,1,2,0,Online ad,0
+RW-201024,Westfield,27,26,Annual,11,Plus,44,0,0,1,5.3,0,6,10,9,0,1,0,Online ad,0
+RW-201025,Riverside,22,3,Monthly,0,Basic,29,0,0,0,5.8,1,1,6,19,0,0,0,Corporate,0
+RW-201026,Hillcrest,34,8,Annual,6,Plus,44,0,1,0,6.4,0,3,14,6,2,1,1,Online ad,1
+RW-201027,Westfield,55,22,Annual,7,Premium,69,1,0,1,2.9,1,19,28,2,1,1,0,Walk-in,0
+RW-201028,Northgate,29,7,Monthly,0,Plus,49,0,0,0,3.3,1,3,1,2,3,0,1,Online ad,0
+RW-201029,Riverside,52,5,Annual,0,Plus,44,0,0,1,10.5,0,8,9,7,1,0,1,Online ad,0
+RW-201030,Northgate,25,5,Monthly,0,Basic,29,0,0,0,10.9,1,9,10,8,1,0,0,Walk-in,0
+RW-201031,Northgate,50,36,Annual,1,Basic,24,0,0,0,5.3,1,11,19,1,0,1,1,Walk-in,0
+RW-201032,Downtown,25,5,Monthly,0,Plus,49,1,0,0,11.7,0,7,2,7,0,0,1,Online ad,0
+RW-201033,Northgate,25,42,Monthly,0,Plus,49,0,1,0,5.9,0,12,4,1,1,0,0,Friend,0
+RW-201034,Northgate,23,9,Annual,4,Plus,44,0,0,0,24.8,0,4,4,6,0,0,1,Online ad,2
+RW-201035,Hillcrest,35,37,Monthly,0,Basic,29,0,0,0,6.0,1,10,9,5,7,0,0,Walk-in,0
+RW-201036,Northgate,30,6,Monthly,0,Plus,49,0,0,0,5.3,1,19,20,2,12,0,1,Online ad,0
+RW-201037,Downtown,32,28,Annual,10,Plus,44,0,0,0,3.4,0,1,7,11,0,0,0,Online ad,0
+RW-201038,Riverside,32,8,Annual,6,Basic,24,0,0,0,4.3,1,5,8,11,0,0,0,Corporate,1
+RW-201039,Lakeview,31,53,Monthly,0,Basic,29,0,0,0,5.8,0,7,13,1,0,2,0,Online ad,0
+RW-201040,Riverside,29,22,Monthly,0,Basic,24,1,0,1,14.6,1,4,9,4,0,0,0,Friend,1
+RW-201041,Downtown,68,20,Annual,6,Plus,44,0,1,0,7.1,0,2,3,8,1,0,0,Walk-in,0
+RW-201042,Hillcrest,29,31,Monthly,0,Basic,19,1,0,0,2.6,1,4,11,10,0,1,0,Online ad,0
+RW-201043,Westfield,32,49,Annual,5,Plus,44,0,0,0,9.3,1,3,5,11,0,0,0,Walk-in,0
+RW-201044,Northgate,23,31,Annual,1,Premium,74,0,0,0,2.0,1,9,3,3,2,0,0,Walk-in,0
+RW-201045,Westfield,35,9,Monthly,0,Premium,79,0,0,0,4.7,1,16,12,0,12,0,1,Online ad,0
+RW-201046,Riverside,57,23,Monthly,0,Plus,49,0,0,0,2.8,1,16,18,1,1,0,0,Friend,0
+RW-201047,Hillcrest,23,11,Monthly,0,Basic,29,0,0,0,3.1,1,7,5,0,1,0,1,Online ad,0
+RW-201048,Westfield,19,5,Annual,4,Basic,19,1,1,0,3.5,1,3,2,14,0,1,0,Friend,0
+RW-201049,Northgate,23,22,Monthly,0,Premium,79,1,1,1,5.3,1,5,9,8,1,0,0,Online ad,0
+RW-201050,Riverside,32,11,Annual,8,Basic,24,0,0,0,3.3,1,6,11,9,0,0,0,Walk-in,0
+RW-201051,Northgate,20,12,Annual,2,Plus,44,0,0,0,5.0,0,8,14,0,2,0,0,Online ad,0
+RW-201052,Riverside,56,18,Annual,7,Plus,44,0,1,0,2.1,1,9,12,1,0,0,0,Corporate,0
+RW-201053,Downtown,26,15,Monthly,0,Plus,49,0,0,0,7.7,0,2,4,17,1,0,0,Friend,1
+RW-201054,Riverside,32,14,Monthly,0,Premium,79,0,0,1,3.6,1,4,20,4,1,0,0,Corporate,1
+RW-201055,Downtown,33,11,Monthly,0,Basic,29,0,0,0,1.8,1,15,9,3,1,1,0,Walk-in,0
+RW-201056,Riverside,29,33,Monthly,0,Premium,79,0,0,0,2.3,0,10,10,6,0,0,0,Friend,0
+RW-201057,Northgate,35,19,Monthly,0,Basic,29,0,1,0,1.0,1,3,6,14,2,0,0,Online ad,0
+RW-201058,Northgate,41,46,Annual,10,Premium,74,0,0,0,3.8,1,5,6,4,0,0,1,Friend,0
+RW-201059,Riverside,25,6,Annual,6,Plus,39,1,0,0,3.5,1,14,10,5,6,0,0,Friend,0
+RW-201060,Westfield,37,58,Monthly,0,Plus,49,0,0,0,13.8,1,7,8,0,2,0,1,Online ad,0
+RW-201061,Riverside,37,23,Monthly,0,Basic,29,0,0,0,7.5,0,1,8,18,1,1,0,Online ad,1
+RW-201062,Riverside,26,18,Annual,4,Premium,74,0,1,0,2.3,1,19,17,2,16,1,0,Online ad,0
+RW-201063,Hillcrest,26,2,Monthly,0,Premium,79,0,1,1,26.3,0,0,3,71,0,0,1,Friend,0
+RW-201064,Northgate,56,13,Monthly,0,Basic,29,0,1,0,7.4,0,5,5,10,0,0,0,Friend,0
+RW-201065,Riverside,43,7,Annual,4,Premium,74,0,0,1,6.0,1,5,4,10,0,1,1,Online ad,0
+RW-201066,Downtown,38,4,Annual,9,Premium,69,1,0,0,4.9,1,8,10,5,0,1,0,Online ad,0
+RW-201067,Riverside,21,7,Monthly,0,Plus,49,0,0,0,5.8,0,0,2,64,0,0,0,Friend,0
+RW-201068,Downtown,23,102,Annual,8,Plus,44,0,1,0,2.6,1,1,0,4,0,0,0,Friend,0
+RW-201069,Northgate,61,2,Monthly,0,Premium,79,1,1,1,5.9,1,4,3,4,0,1,0,Walk-in,0
+RW-201070,Downtown,26,10,Annual,3,Plus,44,0,0,0,2.0,1,9,13,3,0,2,1,Online ad,0
+RW-201071,Westfield,40,5,Monthly,0,Premium,69,1,0,0,7.7,1,10,11,4,1,1,0,Corporate,0
+RW-201072,Lakeview,34,27,Annual,9,Basic,24,0,1,1,1.1,1,8,13,6,3,0,1,Walk-in,0
+RW-201073,Downtown,40,17,Monthly,0,Plus,49,0,0,0,2.4,1,2,22,14,2,0,0,Online ad,1
+RW-201074,Lakeview,37,14,Monthly,0,Plus,49,0,0,0,10.5,1,4,8,4,0,0,0,Walk-in,0
+RW-201075,Downtown,52,19,Annual,5,Plus,44,0,1,0,24.9,1,8,9,1,1,1,0,Friend,0
+RW-201076,Westfield,29,11,Monthly,0,Plus,49,0,0,0,2.0,1,5,10,11,0,0,0,Friend,1
+RW-201077,Downtown,45,5,Annual,6,Plus,44,0,0,0,5.6,0,5,5,5,0,0,0,Friend,0
+RW-201078,Lakeview,36,8,Monthly,0,Basic,29,0,0,1,4.4,0,13,14,7,5,0,0,Online ad,0
+RW-201079,Hillcrest,33,2,Monthly,0,Basic,29,0,0,0,3.0,0,2,7,12,0,0,0,Friend,0
+RW-201080,Hillcrest,37,10,Monthly,0,Plus,49,0,1,0,14.5,1,0,8,42,0,0,0,Corporate,0
+RW-201081,Northgate,35,5,Annual,0,Plus,34,1,0,1,2.0,0,28,27,1,10,0,1,Friend,0
+RW-201082,Northgate,29,10,Annual,11,Premium,69,1,0,1,7.3,0,5,14,4,0,0,1,Friend,0
+RW-201083,Riverside,71,17,Monthly,0,Premium,79,0,0,0,4.4,1,19,12,1,1,0,0,Online ad,0
+RW-201084,Hillcrest,44,7,Annual,2,Plus,44,0,0,0,19.2,0,2,2,7,0,0,1,Friend,0
+RW-201085,Hillcrest,32,16,Monthly,0,Premium,74,1,0,0,1.6,0,6,13,11,0,0,1,Walk-in,0
+RW-201086,Hillcrest,24,2,Monthly,0,Basic,29,0,0,1,6.9,1,6,5,1,1,0,0,Walk-in,0
+RW-201087,Lakeview,26,3,Annual,0,Basic,24,0,0,0,12.0,1,11,4,0,0,0,0,Friend,0
+RW-201088,Hillcrest,24,22,Monthly,0,Basic,29,0,1,0,4.6,1,1,5,8,0,0,1,Online ad,0
+RW-201089,Riverside,31,48,Monthly,0,Plus,49,0,1,0,7.7,0,12,25,7,0,0,0,Online ad,0
+RW-201090,Riverside,59,2,Annual,9,Basic,24,0,0,0,7.5,0,6,5,1,7,1,0,Walk-in,0
+RW-201091,Westfield,27,20,Monthly,0,Basic,29,0,0,0,2.2,1,12,10,1,9,1,1,Walk-in,0
+RW-201092,Downtown,19,8,Monthly,0,Plus,49,0,0,0,5.7,1,6,5,5,0,0,1,Corporate,0
+RW-201093,Westfield,20,42,Monthly,0,Plus,49,0,0,1,8.1,1,4,6,8,2,0,0,Friend,0
+RW-201094,Westfield,25,38,Monthly,0,Basic,29,0,0,0,8.2,1,5,7,3,0,1,1,Online ad,1
+RW-201095,Lakeview,26,11,Monthly,0,Premium,79,0,0,0,4.9,0,1,11,12,1,0,0,Walk-in,0
+RW-201096,Lakeview,44,11,Monthly,0,Plus,49,0,0,0,6.1,1,6,16,11,0,0,1,Walk-in,0
+RW-201097,Riverside,31,5,Monthly,0,Premium,79,0,0,1,3.0,0,3,10,8,0,0,0,Friend,0
+RW-201098,Downtown,36,80,Monthly,0,Premium,74,1,0,1,2.0,0,12,9,1,5,0,0,Friend,0
+RW-201099,Downtown,24,30,Annual,0,Basic,24,0,0,0,3.6,1,9,16,5,4,1,0,Online ad,0
+RW-201100,Hillcrest,41,18,Monthly,0,Basic,29,0,0,0,5.8,0,11,8,4,5,0,0,Online ad,0
+RW-201101,Downtown,37,9,Annual,9,Basic,24,0,0,0,4.1,0,7,9,10,0,2,1,Online ad,0
+RW-201102,Lakeview,27,10,Annual,2,Basic,14,1,0,0,4.9,0,12,11,7,3,0,0,Online ad,0
+RW-201103,Downtown,28,8,Monthly,0,Premium,69,1,0,1,6.9,1,7,7,2,0,0,0,Walk-in,0
+RW-201104,Northgate,24,4,Monthly,0,Premium,79,0,0,0,2.3,0,11,11,8,5,0,0,Walk-in,1
+RW-201105,Westfield,28,65,Annual,2,Basic,24,0,1,0,7.6,1,17,12,6,1,0,0,Online ad,0
+RW-201106,Northgate,30,33,Annual,0,Premium,74,1,0,0,5.1,1,26,18,1,0,0,1,Online ad,0
+RW-201107,Hillcrest,40,55,Monthly,0,Basic,29,0,0,0,2.6,0,7,7,3,1,0,0,Online ad,0
+RW-201108,Downtown,54,4,Annual,6,Plus,34,1,1,0,11.2,1,13,17,7,0,0,0,Online ad,0
+RW-201109,Lakeview,33,2,Annual,6,Plus,44,0,0,0,4.9,0,6,3,4,0,0,0,Walk-in,0
+RW-201110,Riverside,31,49,Annual,5,Plus,44,0,1,0,2.4,1,26,27,0,1,0,0,Walk-in,0
+RW-201111,Riverside,30,9,Monthly,0,Plus,49,0,0,0,2.6,1,6,12,11,0,0,0,Corporate,0
+RW-201112,Northgate,29,13,Annual,4,Basic,24,1,0,0,19.7,0,6,3,5,0,0,0,Walk-in,1
+RW-201113,Northgate,40,44,Monthly,0,Basic,29,0,0,0,3.4,0,1,3,2,0,0,1,Walk-in,0
+RW-201114,Riverside,33,60,Monthly,0,Basic,29,0,0,0,6.8,1,13,7,2,3,1,1,Online ad,1
+RW-201115,Downtown,25,2,Monthly,0,Plus,49,0,0,0,1.9,0,3,6,6,2,1,0,Walk-in,0
+RW-201116,Northgate,35,25,Annual,11,Basic,24,0,0,0,12.4,0,1,13,13,0,0,0,Friend,0
+RW-201117,Riverside,27,37,Annual,5,Basic,24,0,0,0,3.8,0,0,10,34,0,0,0,Walk-in,0
+RW-201118,Downtown,24,6,Annual,8,Basic,24,0,0,1,13.9,1,7,3,8,2,1,0,Friend,0
+RW-201119,Hillcrest,21,65,Monthly,0,Plus,49,0,0,0,5.0,0,7,5,7,1,0,0,Walk-in,0
+RW-201120,Hillcrest,32,22,Annual,6,Premium,74,0,0,1,23.2,1,28,28,0,2,1,0,Online ad,0
+RW-201121,Riverside,20,8,Annual,4,Plus,44,1,0,0,14.4,1,6,5,4,2,1,0,Online ad,1
+RW-201122,Riverside,39,15,Annual,6,Basic,24,1,0,0,4.2,1,5,21,2,3,0,0,Online ad,0
+RW-201123,Lakeview,40,5,Annual,7,Basic,24,0,1,0,3.3,0,7,25,2,0,1,0,Online ad,0
+RW-201124,Westfield,39,15,Monthly,0,Basic,29,0,0,0,5.3,1,4,5,11,0,0,0,Friend,0
+RW-201125,Northgate,21,19,Monthly,0,Basic,29,0,0,0,17.2,1,6,4,8,2,0,0,Online ad,0
+RW-201126,Westfield,33,8,Annual,2,Premium,74,1,0,0,2.8,0,5,12,9,3,2,0,Walk-in,0
+RW-201127,Northgate,40,92,Annual,5,Basic,24,0,0,0,3.5,0,6,15,5,1,0,0,Online ad,0
+RW-201128,Hillcrest,35,36,Monthly,0,Basic,29,1,0,0,1.8,1,21,15,6,5,0,1,Online ad,0
+RW-201129,Lakeview,64,2,Monthly,0,Plus,39,1,0,0,16.6,1,13,14,6,1,1,0,Online ad,0
+RW-201130,Riverside,61,15,Monthly,0,Premium,79,0,0,0,3.1,1,4,16,3,0,0,0,Walk-in,0
+RW-201131,Riverside,27,13,Monthly,0,Premium,79,1,0,0,24.3,0,8,8,1,3,0,0,Online ad,0
+RW-201132,Downtown,26,3,Annual,2,Basic,24,0,0,0,5.0,0,7,9,7,0,0,1,Friend,0
+RW-201133,Lakeview,24,25,Monthly,0,Basic,29,1,0,1,5.0,1,13,15,0,8,1,1,Friend,0
+RW-201134,Downtown,41,24,Monthly,0,Basic,29,1,0,0,2.9,0,7,18,2,3,0,1,Friend,0
+RW-201135,Lakeview,32,33,Annual,0,Plus,44,0,0,0,5.0,0,16,16,6,0,1,0,Corporate,1
+RW-201136,Downtown,31,8,Annual,8,Basic,24,1,0,0,9.7,0,6,6,9,0,0,1,Walk-in,1
+RW-201137,Northgate,18,92,Annual,5,Plus,44,0,0,0,16.7,1,8,7,1,0,0,0,Walk-in,0
+RW-201138,Northgate,46,8,Annual,0,Plus,39,1,0,0,5.5,1,4,7,9,2,0,0,Walk-in,0
+RW-201139,Riverside,27,9,Monthly,0,Basic,29,0,1,0,5.1,1,20,17,4,1,0,0,Online ad,0
+RW-201140,Riverside,28,39,Annual,1,Plus,44,0,0,0,4.2,1,2,6,9,0,0,0,Friend,0
+RW-201141,Riverside,26,44,Annual,1,Basic,14,1,0,0,3.3,1,3,8,12,0,0,0,Corporate,0
+RW-201142,Hillcrest,31,43,Annual,0,Plus,44,1,0,0,11.1,0,11,5,6,0,0,1,Online ad,0
+RW-201143,Hillcrest,37,36,Monthly,0,Premium,79,0,0,1,7.4,1,7,6,6,1,0,0,Walk-in,0
+RW-201144,Westfield,73,31,Monthly,0,Premium,79,0,1,0,8.4,0,10,8,9,1,0,0,Online ad,0
+RW-201145,Westfield,41,5,Monthly,0,Premium,69,1,0,1,11.5,0,6,4,5,2,0,1,Online ad,0
+RW-201146,Westfield,28,10,Annual,5,Basic,14,1,1,0,3.1,0,4,5,8,0,0,1,Friend,0
+RW-201147,Lakeview,73,17,Monthly,0,Plus,49,0,1,0,3.2,0,11,7,1,1,1,1,Walk-in,0
+RW-201148,Lakeview,41,16,Monthly,0,Plus,49,0,0,0,5.1,0,6,6,11,5,0,1,Friend,0
+RW-201149,Lakeview,61,37,Annual,4,Basic,19,1,0,0,6.2,1,14,11,6,3,0,1,Corporate,0
+RW-201150,Downtown,25,17,Monthly,0,Basic,29,0,0,0,6.5,1,5,10,7,2,0,0,Friend,0
+RW-201151,Hillcrest,50,9,Monthly,0,Basic,29,0,0,0,3.0,1,12,15,4,4,0,0,Corporate,0
+RW-201152,Lakeview,34,3,Annual,9,Premium,74,0,0,0,6.3,0,2,9,5,0,0,0,Online ad,0
+RW-201153,Northgate,40,67,Annual,10,Premium,74,0,0,0,2.4,1,4,17,8,0,0,0,Walk-in,0
+RW-201154,Northgate,32,19,Monthly,0,Basic,29,0,0,0,4.6,1,6,12,2,4,0,0,Online ad,1
+RW-201155,Downtown,62,22,Annual,6,Plus,44,1,1,0,7.8,1,3,7,4,0,1,1,Friend,0
+RW-201156,Lakeview,40,34,Annual,7,Basic,24,0,0,0,2.6,0,10,10,3,0,0,0,Friend,1
+RW-201157,Riverside,45,1,Monthly,0,Premium,79,0,0,0,4.7,0,2,0,8,0,0,1,Walk-in,0
+RW-201158,Hillcrest,21,8,Monthly,0,Plus,49,0,0,0,4.8,1,1,4,4,0,0,0,Walk-in,0
+RW-201159,Northgate,54,110,Annual,6,Plus,44,0,0,0,5.7,1,12,6,6,3,0,1,Online ad,0
+RW-201160,Westfield,36,8,Annual,10,Basic,24,0,0,0,3.5,1,9,10,9,4,0,0,Online ad,0
+RW-201161,Downtown,20,13,Annual,7,Premium,74,0,0,1,7.0,0,8,12,4,4,0,0,Online ad,0
+RW-201162,Northgate,29,13,Monthly,0,Premium,79,0,0,0,7.7,1,9,7,8,7,1,0,Friend,1
+RW-201163,Downtown,31,14,Monthly,0,Plus,49,0,0,0,8.9,0,4,6,4,4,1,1,Corporate,0
+RW-201164,Westfield,20,8,Monthly,0,Basic,29,0,0,0,3.0,1,4,3,9,1,0,0,Online ad,0
+RW-201165,Riverside,30,38,Annual,11,Plus,44,0,0,0,2.4,1,11,12,0,1,0,0,Online ad,1
+RW-201166,Lakeview,21,19,Monthly,0,Plus,49,1,0,0,7.9,0,7,11,2,3,2,0,Walk-in,0
+RW-201167,Northgate,23,41,Monthly,0,Premium,79,0,0,1,1.8,1,23,19,0,3,0,0,Friend,1
+RW-201168,Riverside,53,20,Monthly,0,Plus,49,1,1,0,2.3,1,1,13,18,0,0,0,Walk-in,1
+RW-201169,Downtown,36,14,Monthly,0,Plus,49,0,0,0,0.8,1,8,6,9,0,0,1,Friend,0
+RW-201170,Downtown,42,16,Monthly,0,Basic,29,0,0,0,2.5,0,4,5,7,3,0,0,Friend,0
+RW-201171,Riverside,38,47,Monthly,0,Basic,29,0,0,0,6.3,1,0,13,48,0,0,1,Friend,0
+RW-201172,Downtown,25,36,Monthly,0,Basic,29,0,0,0,18.7,0,5,12,9,0,0,0,Friend,0
+RW-201173,Hillcrest,24,29,Annual,0,Basic,24,0,0,0,7.0,1,11,7,8,6,0,1,Friend,0
+RW-201174,Hillcrest,48,16,Monthly,0,Premium,79,0,1,0,15.6,0,4,4,7,0,0,0,Friend,0
+RW-201175,Downtown,36,13,Annual,0,Plus,39,1,0,0,11.3,1,3,8,2,0,0,0,Friend,0
+RW-201176,Northgate,43,5,Annual,2,Premium,74,0,0,0,5.6,0,2,9,8,0,0,0,Online ad,1
+RW-201177,Riverside,27,14,Annual,11,Plus,44,0,0,0,0.9,0,13,10,7,0,0,0,Corporate,0
+RW-201178,Lakeview,50,3,Monthly,0,Basic,29,0,0,0,6.3,1,6,12,5,0,1,0,Online ad,0
+RW-201179,Riverside,40,7,Monthly,0,Plus,49,0,0,0,5.0,1,14,6,4,1,0,0,Walk-in,0
+RW-201180,Northgate,38,1,Annual,7,Basic,24,0,0,0,16.4,0,7,0,7,5,2,0,Walk-in,1
+RW-201181,Hillcrest,34,44,Monthly,0,Plus,49,0,0,1,7.5,1,16,16,2,12,0,0,Online ad,0
+RW-201182,Northgate,23,24,Monthly,0,Basic,29,0,0,0,1.4,1,5,20,5,1,0,0,Walk-in,1
+RW-201183,Northgate,29,35,Annual,4,Basic,19,1,0,0,8.2,1,4,7,8,3,0,1,Online ad,1
+RW-201184,Lakeview,59,38,Monthly,0,Plus,49,0,0,0,1.8,0,6,8,4,1,1,0,Online ad,0
+RW-201185,Downtown,32,84,Annual,9,Premium,74,0,0,1,6.3,0,5,12,1,0,1,1,Friend,1
+RW-201186,Northgate,27,2,Monthly,0,Basic,29,0,1,0,3.6,0,1,8,11,0,0,1,Online ad,1
+RW-201187,Downtown,40,7,Annual,0,Plus,44,0,0,0,3.5,0,5,5,8,2,1,0,Online ad,0
+RW-201188,Northgate,42,5,Annual,11,Plus,44,0,0,0,7.8,0,2,8,0,1,0,0,Friend,0
+RW-201189,Riverside,31,25,Monthly,0,Basic,29,0,0,0,9.7,1,3,1,4,0,0,1,Friend,0
+RW-201190,Westfield,51,15,Monthly,0,Premium,79,0,0,0,5.1,1,9,16,4,2,0,0,Friend,0
+RW-201191,Westfield,43,17,Annual,0,Basic,24,0,0,0,2.9,0,3,7,12,1,0,0,Walk-in,0
+RW-201192,Hillcrest,46,11,Monthly,0,Basic,29,0,0,1,4.2,1,0,6,44,0,1,0,Online ad,0
+RW-201193,Downtown,53,15,Annual,11,Plus,44,0,0,1,3.2,1,18,8,3,9,1,1,Online ad,0
+RW-201194,Downtown,18,22,Annual,11,Basic,24,1,0,0,1.0,0,5,2,11,2,0,1,Walk-in,1
+RW-201195,Downtown,31,23,Annual,1,Basic,24,1,0,0,11.5,0,12,7,5,0,0,0,Friend,1
+RW-201196,Hillcrest,37,13,Monthly,0,Basic,29,0,1,0,9.4,1,12,4,3,0,0,0,Walk-in,0
+RW-201197,Northgate,58,33,Monthly,0,Plus,44,1,0,0,11.8,1,9,10,2,0,0,1,Online ad,0
+RW-201198,Downtown,32,13,Monthly,0,Plus,49,0,1,0,13.4,1,17,13,2,9,0,0,Online ad,2
+RW-201199,Riverside,28,4,Annual,3,Premium,74,0,0,0,2.2,1,15,15,4,1,0,1,Walk-in,0
+RW-201200,Westfield,57,2,Monthly,0,Plus,49,0,0,0,3.4,1,4,15,7,0,0,1,Friend,0
