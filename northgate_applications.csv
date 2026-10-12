@@ -1,0 +1,201 @@
+application_id,credit_score,annual_income,debt_to_income,months_employed,loan_amount,term_months,loan_purpose,prior_delinquencies,open_credit_lines,home_status,member_years,application_channel
+NG-290001,737,47100,0.124,21,12700,60,Auto,0,10,Rent,1.6,Online
+NG-290002,603,104000,0.127,54,42100,60,Medical,1,10,Own,2.9,Branch
+NG-290003,715,55500,0.221,26,8000,36,Major purchase,0,4,Mortgage,1.7,Branch
+NG-290004,835,23200,0.275,55,10300,36,Debt consolidation,0,4,Mortgage,17.3,Online
+NG-290005,728,95800,0.209,40,32300,60,Medical,0,7,Own,9.3,Phone
+NG-290006,727,67400,0.201,35,19500,36,Debt consolidation,0,3,Rent,0.2,Online
+NG-290007,747,39900,0.24,47,5100,60,Other,0,8,Rent,4.2,Online
+NG-290008,691,55000,0.178,110,16700,60,Home improvement,0,3,Mortgage,10.9,Phone
+NG-290009,770,21800,0.492,18,3100,60,Debt consolidation,2,7,Mortgage,4.2,Online
+NG-290010,715,57500,0.278,47,7000,60,Debt consolidation,0,6,Rent,3.0,Branch
+NG-290011,744,42400,0.157,145,11200,36,Major purchase,0,6,Mortgage,1.4,Online
+NG-290012,647,95800,0.162,23,43000,60,Home improvement,0,4,Rent,4.0,Online
+NG-290013,586,45000,0.29,32,15000,60,Debt consolidation,0,4,Rent,4.1,Online
+NG-290014,649,49900,0.413,48,6200,36,Debt consolidation,3,5,Rent,13.2,Branch
+NG-290015,607,80900,0.286,110,33700,36,Debt consolidation,0,11,Rent,5.9,Online
+NG-290016,719,112300,0.121,56,39300,36,Debt consolidation,0,3,Rent,6.3,Online
+NG-290017,681,50600,0.169,96,6000,60,Debt consolidation,0,8,Rent,3.1,Branch
+NG-290018,765,92300,0.374,21,24000,36,Debt consolidation,3,3,Mortgage,5.2,Online
+NG-290019,815,56600,0.385,103,17300,60,Home improvement,0,7,Own,3.7,Branch
+NG-290020,692,95300,0.245,38,16700,36,Home improvement,0,5,Rent,10.2,Online
+NG-290021,674,46600,0.105,44,10600,36,Debt consolidation,1,5,Rent,5.8,Phone
+NG-290022,657,92900,0.226,69,11100,60,Auto,0,6,Mortgage,7.3,Online
+NG-290023,683,37400,0.412,54,2600,36,Debt consolidation,0,5,Rent,4.2,Branch
+NG-290024,679,45600,0.21,26,20000,60,Home improvement,2,6,Rent,4.4,Phone
+NG-290025,661,53900,0.118,63,9300,36,Home improvement,0,7,Rent,12.8,Branch
+NG-290026,599,64600,0.248,100,6600,60,Auto,0,5,Rent,4.1,Phone
+NG-290027,580,46500,0.173,33,3100,60,Major purchase,0,5,Mortgage,0.2,Branch
+NG-290028,689,104200,0.27,152,5700,60,Debt consolidation,0,11,Own,1.3,Online
+NG-290029,680,78500,0.316,23,6500,60,Other,1,10,Rent,3.6,Branch
+NG-290030,678,45000,0.325,191,9900,36,Debt consolidation,0,8,Mortgage,3.0,Phone
+NG-290031,740,27600,0.222,9,11000,60,Debt consolidation,0,6,Mortgage,2.1,Phone
+NG-290032,613,74000,0.239,163,25300,60,Home improvement,0,11,Mortgage,6.7,Online
+NG-290033,691,38700,0.411,26,14100,36,Other,2,4,Rent,1.6,Branch
+NG-290034,805,83500,0.322,40,35800,60,Debt consolidation,0,7,Rent,4.7,Branch
+NG-290035,680,48500,0.222,18,18700,36,Debt consolidation,1,9,Mortgage,3.5,Branch
+NG-290036,682,74200,0.453,54,14700,36,Major purchase,0,8,Mortgage,6.3,Branch
+NG-290037,725,87500,0.053,105,15300,36,Debt consolidation,1,5,Rent,12.8,Online
+NG-290038,611,45100,0.32,54,13300,36,Auto,0,3,Mortgage,4.8,Branch
+NG-290039,705,49200,0.432,63,9000,36,Major purchase,1,4,Rent,0.7,Phone
+NG-290040,747,37400,0.111,62,4300,36,Debt consolidation,0,8,Rent,0.8,Branch
+NG-290041,785,67400,0.173,61,24000,60,Other,2,5,Rent,6.4,Phone
+NG-290042,726,36500,0.206,79,8500,36,Home improvement,0,11,Rent,2.0,Phone
+NG-290043,643,53000,0.476,38,20200,36,Auto,0,6,Rent,7.1,Phone
+NG-290044,713,51900,0.442,68,18700,36,Other,1,5,Rent,2.9,Online
+NG-290045,677,71900,0.404,7,4700,36,Home improvement,1,6,Mortgage,5.0,Branch
+NG-290046,720,72900,0.348,48,21100,36,Home improvement,3,9,Rent,10.1,Online
+NG-290047,654,45000,0.384,73,4900,36,Home improvement,0,5,Mortgage,1.6,Online
+NG-290048,654,64500,0.227,8,28900,60,Home improvement,0,7,Mortgage,0.5,Branch
+NG-290049,670,77800,0.289,107,33600,60,Debt consolidation,0,10,Own,7.2,Branch
+NG-290050,717,79400,0.317,204,24200,60,Auto,0,5,Mortgage,2.4,Branch
+NG-290051,638,53800,0.207,10,13800,60,Auto,0,11,Mortgage,4.7,Branch
+NG-290052,665,96500,0.221,81,30300,36,Debt consolidation,0,6,Rent,9.0,Online
+NG-290053,701,86700,0.118,70,13900,36,Major purchase,1,5,Mortgage,7.2,Branch
+NG-290054,656,69600,0.11,58,8200,36,Auto,0,9,Mortgage,12.1,Online
+NG-290055,770,39300,0.339,114,11900,60,Auto,1,8,Rent,23.9,Branch
+NG-290056,724,78100,0.36,32,26600,60,Debt consolidation,0,5,Rent,0.9,Phone
+NG-290057,570,126200,0.232,28,23300,60,Debt consolidation,0,5,Rent,2.9,Online
+NG-290058,647,62500,0.408,171,5000,60,Debt consolidation,4,9,Rent,1.4,Online
+NG-290059,698,40400,0.483,12,13900,36,Auto,0,4,Rent,7.2,Branch
+NG-290060,701,39900,0.234,72,13300,60,Other,0,9,Mortgage,0.1,Online
+NG-290061,733,36000,0.283,9,13100,60,Debt consolidation,1,7,Own,0.7,Branch
+NG-290062,791,64000,0.246,250,6700,36,Auto,0,12,Rent,3.4,Online
+NG-290063,633,61500,0.166,31,27500,36,Auto,0,4,Rent,4.6,Online
+NG-290064,641,82400,0.285,86,9100,60,Debt consolidation,1,7,Rent,10.8,Branch
+NG-290065,629,66600,0.303,77,16500,36,Auto,0,7,Own,2.0,Branch
+NG-290066,680,99400,0.192,8,39700,36,Medical,0,3,Mortgage,14.5,Branch
+NG-290067,600,25400,0.494,145,3700,36,Other,0,4,Mortgage,2.6,Online
+NG-290068,709,86900,0.364,46,32800,60,Debt consolidation,0,8,Mortgage,5.1,Online
+NG-290069,635,66100,0.345,23,8800,36,Home improvement,3,10,Mortgage,8.3,Online
+NG-290070,664,68700,0.228,50,21400,60,Debt consolidation,0,8,Rent,9.4,Online
+NG-290071,732,81800,0.487,31,28300,36,Debt consolidation,1,4,Own,12.0,Online
+NG-290072,643,81000,0.453,20,7500,60,Other,2,6,Mortgage,2.3,Online
+NG-290073,658,142900,0.252,62,38000,60,Debt consolidation,0,9,Mortgage,1.5,Phone
+NG-290074,763,84000,0.402,59,31300,60,Auto,2,7,Mortgage,1.8,Branch
+NG-290075,760,62500,0.434,59,10800,60,Debt consolidation,0,4,Mortgage,5.8,Online
+NG-290076,705,31200,0.169,153,7900,60,Auto,0,7,Rent,0.0,Online
+NG-290077,735,117200,0.377,35,35900,36,Debt consolidation,0,10,Rent,4.0,Phone
+NG-290078,801,63000,0.126,53,24500,36,Home improvement,0,8,Rent,2.7,Online
+NG-290079,763,37700,0.24,29,7900,36,Other,0,4,Mortgage,3.9,Branch
+NG-290080,733,73100,0.042,37,13800,60,Other,4,5,Rent,5.4,Branch
+NG-290081,680,73200,0.32,53,31800,60,Debt consolidation,0,6,Mortgage,2.7,Phone
+NG-290082,691,61300,0.148,0,19400,36,Debt consolidation,0,4,Rent,5.6,Online
+NG-290083,639,54700,0.335,101,18500,36,Other,0,5,Mortgage,4.8,Phone
+NG-290084,674,61900,0.18,30,9100,60,Other,1,12,Mortgage,2.6,Branch
+NG-290085,718,44400,0.105,51,8300,60,Debt consolidation,0,8,Own,2.3,Online
+NG-290086,597,69100,0.169,78,28800,60,Medical,0,13,Rent,4.5,Branch
+NG-290087,687,184500,0.22,118,45000,36,Other,0,7,Own,8.0,Online
+NG-290088,623,82500,0.242,158,36000,60,Other,0,12,Mortgage,2.4,Branch
+NG-290089,672,100500,0.434,52,33500,36,Debt consolidation,0,7,Mortgage,0.6,Online
+NG-290090,758,112900,0.157,62,38000,36,Medical,1,12,Rent,2.3,Online
+NG-290091,811,108100,0.314,10,36000,60,Auto,1,7,Mortgage,2.9,Online
+NG-290092,737,77400,0.173,28,29600,36,Debt consolidation,1,3,Mortgage,1.8,Branch
+NG-290093,745,35000,0.345,123,9500,36,Medical,0,7,Rent,0.8,Branch
+NG-290094,711,89600,0.514,47,19100,60,Major purchase,0,11,Mortgage,3.5,Phone
+NG-290095,600,66300,0.121,3,3700,36,Other,1,7,Rent,1.3,Online
+NG-290096,645,88900,0.397,125,31300,36,Auto,1,5,Mortgage,2.3,Branch
+NG-290097,681,66900,0.342,59,11500,60,Medical,0,4,Rent,3.7,Phone
+NG-290098,654,74500,0.213,75,22800,36,Major purchase,0,4,Mortgage,16.0,Online
+NG-290099,745,60600,0.213,44,21000,36,Debt consolidation,0,8,Mortgage,2.2,Branch
+NG-290100,730,33500,0.179,26,9800,36,Home improvement,0,6,Mortgage,3.5,Online
+NG-290101,575,71800,0.252,39,21300,36,Auto,0,5,Rent,1.0,Branch
+NG-290102,629,54700,0.17,29,10800,36,Debt consolidation,0,6,Mortgage,7.4,Online
+NG-290103,724,46600,0.387,139,9900,60,Other,1,10,Own,3.8,Branch
+NG-290104,729,24600,0.229,80,8800,36,Medical,0,6,Rent,1.2,Branch
+NG-290105,630,64100,0.369,28,8400,60,Major purchase,3,8,Rent,8.1,Online
+NG-290106,655,67100,0.331,70,15000,60,Home improvement,0,6,Mortgage,13.2,Branch
+NG-290107,689,120600,0.146,24,22700,36,Debt consolidation,0,7,Own,10.7,Branch
+NG-290108,659,61900,0.359,112,5100,36,Auto,0,6,Mortgage,1.3,Online
+NG-290109,730,62400,0.11,62,5700,36,Home improvement,0,11,Mortgage,1.3,Branch
+NG-290110,697,102300,0.266,52,28000,36,Debt consolidation,0,12,Rent,3.7,Online
+NG-290111,655,54600,0.334,98,24500,36,Major purchase,0,9,Rent,2.5,Branch
+NG-290112,637,61500,0.257,28,3600,60,Medical,3,10,Mortgage,8.9,Online
+NG-290113,654,79400,0.235,68,29300,60,Auto,3,6,Rent,10.5,Branch
+NG-290114,629,28400,0.381,67,10200,60,Other,1,6,Rent,9.7,Online
+NG-290115,758,88200,0.264,7,24600,36,Auto,0,10,Rent,4.1,Online
+NG-290116,673,64300,0.202,22,18400,36,Debt consolidation,0,6,Mortgage,2.4,Branch
+NG-290117,631,47200,0.204,142,4500,36,Debt consolidation,0,8,Rent,4.2,Branch
+NG-290118,762,43000,0.402,87,9200,60,Debt consolidation,0,13,Own,0.4,Online
+NG-290119,647,97700,0.063,91,22000,36,Auto,0,5,Own,5.7,Online
+NG-290120,699,52500,0.318,91,11100,36,Debt consolidation,0,10,Own,1.8,Branch
+NG-290121,743,49700,0.255,12,10400,36,Other,1,2,Mortgage,3.0,Branch
+NG-290122,652,81400,0.397,59,35900,36,Home improvement,0,7,Rent,4.8,Branch
+NG-290123,755,86300,0.095,20,30600,60,Debt consolidation,0,6,Own,19.5,Online
+NG-290124,631,45300,0.093,34,11700,36,Home improvement,0,6,Mortgage,1.1,Online
+NG-290125,628,30200,0.267,74,11300,60,Other,0,7,Mortgage,1.7,Branch
+NG-290126,688,71400,0.192,104,6500,60,Auto,0,9,Rent,8.1,Online
+NG-290127,680,66700,0.159,28,5100,36,Debt consolidation,0,4,Own,2.5,Branch
+NG-290128,670,131300,0.436,129,29300,60,Debt consolidation,0,6,Rent,5.1,Online
+NG-290129,717,92500,0.115,135,37900,36,Home improvement,0,5,Rent,2.3,Branch
+NG-290130,659,73300,0.22,99,12800,60,Debt consolidation,1,4,Mortgage,4.1,Online
+NG-290131,741,56000,0.225,6,23400,36,Debt consolidation,0,7,Mortgage,1.0,Branch
+NG-290132,611,41000,0.308,50,10700,36,Debt consolidation,0,4,Mortgage,9.3,Online
+NG-290133,692,35200,0.095,22,14400,60,Debt consolidation,0,8,Rent,1.7,Online
+NG-290134,688,76700,0.201,29,22200,60,Debt consolidation,1,6,Rent,2.5,Branch
+NG-290135,674,94900,0.162,175,23500,60,Debt consolidation,0,9,Mortgage,12.0,Branch
+NG-290136,767,158700,0.098,51,31000,36,Medical,2,9,Mortgage,9.4,Branch
+NG-290137,730,64500,0.421,5,17000,36,Debt consolidation,0,4,Mortgage,2.7,Branch
+NG-290138,764,59500,0.139,24,19600,36,Debt consolidation,0,7,Mortgage,3.8,Online
+NG-290139,671,34000,0.251,8,13700,36,Other,2,5,Rent,21.2,Branch
+NG-290140,724,43700,0.225,114,17300,36,Other,1,7,Rent,10.5,Branch
+NG-290141,686,105000,0.531,106,20600,60,Home improvement,0,11,Rent,6.7,Online
+NG-290142,719,44300,0.19,179,4800,60,Home improvement,0,8,Own,6.4,Phone
+NG-290143,730,41400,0.363,49,10800,36,Other,0,7,Own,1.8,Online
+NG-290144,781,104500,0.164,34,45000,60,Auto,0,5,Mortgage,7.1,Branch
+NG-290145,684,223600,0.227,17,45000,36,Auto,0,10,Rent,6.9,Online
+NG-290146,709,78700,0.333,15,9500,36,Auto,0,8,Rent,4.0,Branch
+NG-290147,677,73000,0.1,26,21300,36,Home improvement,0,5,Rent,3.5,Online
+NG-290148,656,108600,0.194,78,30900,36,Debt consolidation,0,6,Rent,0.8,Online
+NG-290149,708,125400,0.507,1,13800,36,Debt consolidation,1,7,Own,20.7,Online
+NG-290150,644,38700,0.396,60,13200,36,Other,2,10,Rent,6.9,Branch
+NG-290151,717,49100,0.347,92,3100,60,Home improvement,0,7,Rent,8.0,Online
+NG-290152,738,82800,0.221,54,7000,60,Medical,2,7,Mortgage,4.4,Online
+NG-290153,714,48200,0.217,112,6500,60,Debt consolidation,0,11,Mortgage,7.8,Branch
+NG-290154,732,47900,0.234,48,14800,36,Debt consolidation,0,2,Mortgage,2.5,Online
+NG-290155,690,40400,0.055,45,9100,60,Debt consolidation,2,6,Rent,12.7,Online
+NG-290156,757,39900,0.334,85,11800,60,Debt consolidation,2,8,Mortgage,3.8,Phone
+NG-290157,728,109100,0.42,24,14200,60,Debt consolidation,0,4,Own,3.7,Online
+NG-290158,709,62000,0.142,78,23400,36,Debt consolidation,1,9,Rent,6.5,Online
+NG-290159,617,41500,0.167,19,18400,60,Debt consolidation,3,5,Mortgage,1.9,Online
+NG-290160,662,52400,0.174,13,19300,60,Other,0,8,Mortgage,2.2,Online
+NG-290161,749,34500,0.226,74,14400,36,Auto,0,12,Mortgage,2.2,Phone
+NG-290162,753,54600,0.139,89,11300,36,Debt consolidation,0,8,Rent,4.2,Online
+NG-290163,655,28600,0.126,17,6800,36,Home improvement,1,10,Rent,4.7,Online
+NG-290164,744,52800,0.334,65,9700,36,Major purchase,3,6,Mortgage,7.2,Branch
+NG-290165,699,95700,0.131,70,28300,60,Auto,0,12,Mortgage,1.1,Online
+NG-290166,740,64000,0.183,76,27900,60,Major purchase,4,5,Mortgage,0.4,Branch
+NG-290167,784,41900,0.601,75,13400,36,Other,0,3,Mortgage,7.3,Branch
+NG-290168,645,46400,0.405,71,17800,36,Home improvement,1,11,Own,3.5,Branch
+NG-290169,653,112000,0.269,61,33800,36,Medical,1,6,Mortgage,1.6,Online
+NG-290170,647,22200,0.132,129,4800,36,Debt consolidation,1,7,Rent,6.0,Branch
+NG-290171,734,80700,0.329,44,29200,60,Major purchase,0,5,Rent,3.0,Branch
+NG-290172,714,45000,0.084,57,4300,60,Auto,1,6,Mortgage,4.7,Online
+NG-290173,714,91500,0.395,53,24000,36,Auto,0,8,Mortgage,6.4,Online
+NG-290174,728,49800,0.156,31,18900,36,Home improvement,0,5,Own,2.1,Online
+NG-290175,752,38700,0.219,52,12500,60,Home improvement,0,7,Own,4.5,Online
+NG-290176,726,49900,0.504,11,7700,36,Auto,0,3,Mortgage,4.1,Online
+NG-290177,803,44100,0.08,21,8600,36,Debt consolidation,2,9,Mortgage,3.1,Online
+NG-290178,648,128700,0.169,13,8900,60,Major purchase,0,11,Rent,3.6,Branch
+NG-290179,696,34700,0.235,69,2000,36,Debt consolidation,0,7,Mortgage,4.7,Branch
+NG-290180,716,123600,0.283,32,45000,36,Home improvement,0,7,Rent,6.5,Phone
+NG-290181,646,45800,0.385,24,7100,60,Auto,0,3,Mortgage,1.9,Online
+NG-290182,616,181200,0.146,38,11000,60,Other,0,8,Rent,0.8,Branch
+NG-290183,768,112900,0.276,15,43300,60,Debt consolidation,0,8,Rent,10.8,Online
+NG-290184,723,26800,0.355,15,4800,36,Major purchase,3,5,Mortgage,4.4,Online
+NG-290185,645,93300,0.213,21,24400,36,Debt consolidation,0,4,Rent,10.5,Online
+NG-290186,690,112200,0.27,32,7400,36,Debt consolidation,1,6,Mortgage,4.6,Branch
+NG-290187,704,49200,0.494,318,4500,36,Home improvement,0,5,Mortgage,7.7,Branch
+NG-290188,717,77100,0.243,58,12700,36,Other,2,6,Mortgage,4.0,Branch
+NG-290189,778,74500,0.428,55,4200,36,Major purchase,0,8,Mortgage,7.5,Branch
+NG-290190,745,38000,0.237,30,16100,60,Other,0,4,Mortgage,4.7,Branch
+NG-290191,707,55200,0.167,26,14700,36,Debt consolidation,0,6,Rent,6.7,Online
+NG-290192,716,76000,0.352,33,19800,36,Home improvement,0,5,Own,0.3,Branch
+NG-290193,673,24100,0.65,2,7000,60,Auto,0,4,Rent,1.5,Branch
+NG-290194,806,36600,0.222,20,3900,36,Home improvement,1,11,Mortgage,1.5,Branch
+NG-290195,648,65400,0.349,50,4300,60,Home improvement,0,10,Mortgage,0.9,Branch
+NG-290196,558,54200,0.32,63,6700,60,Debt consolidation,0,5,Rent,1.8,Online
+NG-290197,762,70200,0.076,89,5500,36,Debt consolidation,0,4,Rent,1.8,Phone
+NG-290198,756,35200,0.211,11,2500,36,Debt consolidation,0,4,Rent,5.2,Online
+NG-290199,687,36100,0.242,131,8300,36,Home improvement,1,6,Mortgage,2.9,Branch
+NG-290200,732,97200,0.359,62,26300,36,Auto,0,9,Rent,3.3,Online
