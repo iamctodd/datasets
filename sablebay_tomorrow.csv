@@ -1,0 +1,401 @@
+appt_id,appt_date,weekday,hour,department,appt_type,lead_days,patient_age,prior_appts_2y,prior_no_shows_2y,text_reminder,portal_user,distance_km,copay_usd
+SB-500001,2026-11-03,Tue,8,Cardiology,Follow-up,68,75,9,0,Confirmed,0,30.7,0
+SB-500002,2026-11-03,Tue,8,Cardiology,Telehealth,6,64,1,0,No reply,1,5.6,75
+SB-500003,2026-11-03,Tue,8,Cardiology,Procedure,10,61,7,2,Confirmed,1,16.1,20
+SB-500004,2026-11-03,Tue,8,Cardiology,Follow-up,1,65,7,0,Not sent,0,7.7,0
+SB-500005,2026-11-03,Tue,8,Cardiology,Telehealth,67,49,4,0,Not sent,1,30.9,0
+SB-500006,2026-11-03,Tue,8,Cardiology,Follow-up,5,58,4,0,Confirmed,1,4.5,30
+SB-500007,2026-11-03,Tue,8,Cardiology,Procedure,66,54,6,0,No reply,0,2.2,20
+SB-500008,2026-11-03,Tue,8,Cardiology,Follow-up,0,46,6,0,Confirmed,0,0.5,75
+SB-500009,2026-11-03,Tue,8,Cardiology,Follow-up,66,62,4,0,No reply,1,7.6,30
+SB-500010,2026-11-03,Tue,8,Dermatology,Follow-up,65,25,4,0,Confirmed,1,3.4,30
+SB-500011,2026-11-03,Tue,8,Dermatology,Telehealth,11,38,4,0,No reply,1,11.4,40
+SB-500012,2026-11-03,Tue,8,Dermatology,Follow-up,69,59,1,0,Not sent,0,2.6,0
+SB-500013,2026-11-03,Tue,8,Family Medicine,Telehealth,9,68,7,0,No reply,1,12.4,0
+SB-500014,2026-11-03,Tue,8,Family Medicine,Annual physical,33,46,5,0,No reply,1,5.5,30
+SB-500015,2026-11-03,Tue,8,Family Medicine,Follow-up,6,47,4,0,Confirmed,1,25.6,30
+SB-500016,2026-11-03,Tue,8,Family Medicine,Procedure,6,25,2,1,Confirmed,0,53.0,50
+SB-500017,2026-11-03,Tue,8,Family Medicine,Annual physical,0,39,6,2,Confirmed,1,30.3,75
+SB-500018,2026-11-03,Tue,8,Family Medicine,New patient,6,53,0,0,Confirmed,1,2.2,0
+SB-500019,2026-11-03,Tue,8,Family Medicine,Follow-up,34,75,5,1,Not sent,0,7.4,50
+SB-500020,2026-11-03,Tue,8,Family Medicine,Annual physical,6,53,3,1,Not sent,0,3.3,75
+SB-500021,2026-11-03,Tue,8,Family Medicine,Follow-up,5,39,6,1,Confirmed,0,18.0,50
+SB-500022,2026-11-03,Tue,8,Family Medicine,Follow-up,18,49,6,2,No reply,1,3.8,30
+SB-500023,2026-11-03,Tue,8,Family Medicine,Telehealth,13,36,7,0,No reply,1,6.2,0
+SB-500024,2026-11-03,Tue,8,Family Medicine,Follow-up,0,47,1,1,No reply,1,16.1,0
+SB-500025,2026-11-03,Tue,8,Family Medicine,Follow-up,35,45,4,1,Not sent,0,10.0,20
+SB-500026,2026-11-03,Tue,8,Family Medicine,Annual physical,0,51,4,0,Confirmed,1,10.3,40
+SB-500027,2026-11-03,Tue,8,Family Medicine,Follow-up,102,69,3,0,Confirmed,1,5.2,0
+SB-500028,2026-11-03,Tue,8,Family Medicine,Follow-up,3,44,6,0,Confirmed,1,10.7,0
+SB-500029,2026-11-03,Tue,8,Family Medicine,Telehealth,16,43,4,0,No reply,0,31.9,0
+SB-500030,2026-11-03,Tue,8,Family Medicine,Annual physical,4,26,10,7,No reply,1,8.3,30
+SB-500031,2026-11-03,Tue,8,Family Medicine,Annual physical,33,49,4,0,Confirmed,1,10.7,30
+SB-500032,2026-11-03,Tue,8,Pediatrics,Telehealth,1,3,7,0,Confirmed,1,23.9,30
+SB-500033,2026-11-03,Tue,8,Pediatrics,Follow-up,13,2,8,2,Confirmed,0,18.3,0
+SB-500034,2026-11-03,Tue,8,Pediatrics,New patient,43,6,0,0,No reply,1,3.2,0
+SB-500035,2026-11-03,Tue,8,Pediatrics,New patient,6,13,0,0,Confirmed,1,12.1,0
+SB-500036,2026-11-03,Tue,8,Pediatrics,Procedure,11,15,5,0,Confirmed,0,9.1,30
+SB-500037,2026-11-03,Tue,8,Pediatrics,New patient,6,4,0,0,No reply,1,7.9,0
+SB-500038,2026-11-03,Tue,8,Pediatrics,Follow-up,25,12,4,0,Confirmed,1,16.8,40
+SB-500039,2026-11-03,Tue,8,Pediatrics,New patient,0,11,0,0,Confirmed,1,18.8,50
+SB-500040,2026-11-03,Tue,8,Pediatrics,Follow-up,38,9,3,0,Confirmed,1,3.5,0
+SB-500041,2026-11-03,Tue,8,Physical Therapy,Follow-up,0,78,10,2,Confirmed,1,4.4,40
+SB-500042,2026-11-03,Tue,8,Physical Therapy,Follow-up,21,44,9,0,No reply,0,22.5,20
+SB-500043,2026-11-03,Tue,8,Physical Therapy,Follow-up,63,22,9,0,Not sent,1,9.8,30
+SB-500044,2026-11-03,Tue,8,Physical Therapy,Follow-up,8,40,4,0,Confirmed,0,28.0,75
+SB-500045,2026-11-03,Tue,8,Physical Therapy,Follow-up,6,54,8,0,No reply,0,15.3,20
+SB-500046,2026-11-03,Tue,8,Physical Therapy,Follow-up,2,36,11,2,Confirmed,1,5.1,75
+SB-500047,2026-11-03,Tue,8,Physical Therapy,New patient,6,60,0,0,Confirmed,1,4.6,50
+SB-500048,2026-11-03,Tue,8,Physical Therapy,Follow-up,6,62,15,2,Confirmed,0,1.8,0
+SB-500049,2026-11-03,Tue,9,Cardiology,Telehealth,1,73,4,0,Confirmed,0,16.8,0
+SB-500050,2026-11-03,Tue,9,Cardiology,New patient,18,64,0,0,No reply,1,13.9,0
+SB-500051,2026-11-03,Tue,9,Cardiology,Telehealth,17,70,8,0,Confirmed,1,8.1,0
+SB-500052,2026-11-03,Tue,9,Cardiology,New patient,10,66,0,0,No reply,0,4.9,0
+SB-500053,2026-11-03,Tue,9,Cardiology,Telehealth,5,60,3,1,Confirmed,0,10.0,0
+SB-500054,2026-11-03,Tue,9,Cardiology,New patient,1,50,0,0,Confirmed,0,11.9,50
+SB-500055,2026-11-03,Tue,9,Dermatology,Procedure,20,18,5,0,Confirmed,1,17.3,75
+SB-500056,2026-11-03,Tue,9,Dermatology,Follow-up,20,24,7,2,Confirmed,1,25.1,30
+SB-500057,2026-11-03,Tue,9,Family Medicine,New patient,30,62,0,0,Not sent,1,6.1,30
+SB-500058,2026-11-03,Tue,9,Family Medicine,Follow-up,5,59,9,0,Confirmed,1,4.1,50
+SB-500059,2026-11-03,Tue,9,Family Medicine,Telehealth,49,32,8,1,Confirmed,0,15.2,30
+SB-500060,2026-11-03,Tue,9,Family Medicine,Annual physical,21,31,5,0,No reply,0,27.0,75
+SB-500061,2026-11-03,Tue,9,Family Medicine,Telehealth,22,71,4,0,Confirmed,1,7.9,0
+SB-500062,2026-11-03,Tue,9,Family Medicine,Procedure,18,63,5,0,Confirmed,1,18.4,0
+SB-500063,2026-11-03,Tue,9,Family Medicine,Follow-up,15,24,7,1,Confirmed,1,5.0,0
+SB-500064,2026-11-03,Tue,9,Family Medicine,Telehealth,12,61,3,0,Confirmed,1,10.8,75
+SB-500065,2026-11-03,Tue,9,Family Medicine,Annual physical,6,25,6,0,No reply,0,14.6,30
+SB-500066,2026-11-03,Tue,9,Family Medicine,Follow-up,9,27,10,1,Not sent,1,17.2,30
+SB-500067,2026-11-03,Tue,9,Family Medicine,Follow-up,6,35,4,1,No reply,0,14.2,40
+SB-500068,2026-11-03,Tue,9,Family Medicine,Follow-up,7,62,4,1,Confirmed,0,15.7,30
+SB-500069,2026-11-03,Tue,9,Family Medicine,Follow-up,11,54,7,2,No reply,0,36.5,0
+SB-500070,2026-11-03,Tue,9,Pediatrics,New patient,93,14,0,0,Not sent,1,4.9,75
+SB-500071,2026-11-03,Tue,9,Pediatrics,Follow-up,89,0,4,1,No reply,1,10.7,0
+SB-500072,2026-11-03,Tue,9,Pediatrics,Telehealth,23,2,4,0,Confirmed,1,16.4,0
+SB-500073,2026-11-03,Tue,9,Pediatrics,Follow-up,6,1,1,0,Confirmed,1,10.2,20
+SB-500074,2026-11-03,Tue,9,Pediatrics,Annual physical,6,11,1,0,Confirmed,1,17.7,30
+SB-500075,2026-11-03,Tue,9,Pediatrics,Follow-up,37,8,4,1,No reply,1,9.0,0
+SB-500076,2026-11-03,Tue,9,Pediatrics,Annual physical,3,6,6,2,Confirmed,1,2.0,50
+SB-500077,2026-11-03,Tue,9,Pediatrics,Telehealth,19,9,4,0,No reply,0,12.1,0
+SB-500078,2026-11-03,Tue,9,Pediatrics,Annual physical,0,8,5,0,Confirmed,1,9.7,75
+SB-500079,2026-11-03,Tue,9,Pediatrics,Follow-up,11,10,5,0,No reply,1,4.6,0
+SB-500080,2026-11-03,Tue,9,Pediatrics,New patient,6,8,0,0,Confirmed,1,12.5,30
+SB-500081,2026-11-03,Tue,9,Physical Therapy,Follow-up,40,51,14,4,No reply,0,10.6,0
+SB-500082,2026-11-03,Tue,9,Physical Therapy,Follow-up,0,46,13,0,Confirmed,0,11.6,0
+SB-500083,2026-11-03,Tue,9,Physical Therapy,Follow-up,6,58,8,1,Confirmed,1,1.6,75
+SB-500084,2026-11-03,Tue,9,Physical Therapy,Follow-up,27,59,12,0,Confirmed,0,12.2,0
+SB-500085,2026-11-03,Tue,9,Physical Therapy,Follow-up,12,56,10,0,Confirmed,1,7.6,30
+SB-500086,2026-11-03,Tue,9,Physical Therapy,Follow-up,12,37,6,3,Confirmed,1,9.9,30
+SB-500087,2026-11-03,Tue,9,Physical Therapy,New patient,1,49,0,0,Confirmed,0,17.6,0
+SB-500088,2026-11-03,Tue,9,Physical Therapy,New patient,11,30,0,0,Not sent,0,19.4,0
+SB-500089,2026-11-03,Tue,10,Cardiology,New patient,1,68,0,0,Not sent,1,16.2,40
+SB-500090,2026-11-03,Tue,10,Cardiology,Follow-up,1,73,2,0,Confirmed,0,36.5,0
+SB-500091,2026-11-03,Tue,10,Cardiology,Follow-up,10,48,9,1,Confirmed,1,5.9,40
+SB-500092,2026-11-03,Tue,10,Dermatology,Procedure,29,37,5,0,No reply,1,4.4,0
+SB-500093,2026-11-03,Tue,10,Dermatology,Follow-up,9,35,8,1,Not sent,1,10.1,0
+SB-500094,2026-11-03,Tue,10,Dermatology,Follow-up,7,43,3,1,No reply,1,21.3,20
+SB-500095,2026-11-03,Tue,10,Dermatology,Procedure,104,57,6,0,Confirmed,1,9.3,0
+SB-500096,2026-11-03,Tue,10,Dermatology,New patient,49,34,0,0,Confirmed,0,21.2,50
+SB-500097,2026-11-03,Tue,10,Dermatology,Follow-up,25,77,2,1,Confirmed,1,19.8,0
+SB-500098,2026-11-03,Tue,10,Dermatology,New patient,26,60,0,0,Confirmed,0,24.6,20
+SB-500099,2026-11-03,Tue,10,Dermatology,Follow-up,25,49,4,1,No reply,1,17.1,75
+SB-500100,2026-11-03,Tue,10,Dermatology,Follow-up,5,54,4,1,No reply,1,30.1,75
+SB-500101,2026-11-03,Tue,10,Dermatology,Procedure,7,55,5,0,Confirmed,1,1.0,75
+SB-500102,2026-11-03,Tue,10,Dermatology,New patient,2,48,0,0,Confirmed,1,2.5,30
+SB-500103,2026-11-03,Tue,10,Family Medicine,Telehealth,5,57,8,0,Confirmed,0,29.9,40
+SB-500104,2026-11-03,Tue,10,Family Medicine,Procedure,6,59,9,1,Not sent,1,12.8,0
+SB-500105,2026-11-03,Tue,10,Family Medicine,Follow-up,4,57,8,1,Not sent,1,14.2,75
+SB-500106,2026-11-03,Tue,10,Family Medicine,Procedure,13,49,2,0,Confirmed,1,5.6,30
+SB-500107,2026-11-03,Tue,10,Family Medicine,Annual physical,6,49,4,2,Not sent,1,7.7,75
+SB-500108,2026-11-03,Tue,10,Family Medicine,Follow-up,11,29,7,0,Confirmed,1,23.1,50
+SB-500109,2026-11-03,Tue,10,Family Medicine,Follow-up,59,92,9,0,Not sent,1,13.4,0
+SB-500110,2026-11-03,Tue,10,Family Medicine,Procedure,3,26,4,1,No reply,1,3.2,0
+SB-500111,2026-11-03,Tue,10,Family Medicine,Telehealth,62,42,5,2,Confirmed,1,12.3,40
+SB-500112,2026-11-03,Tue,10,Family Medicine,New patient,150,51,0,0,No reply,0,24.0,0
+SB-500113,2026-11-03,Tue,10,Family Medicine,Annual physical,13,45,5,0,Not sent,1,16.4,20
+SB-500114,2026-11-03,Tue,10,Family Medicine,Follow-up,3,18,3,1,No reply,0,9.0,20
+SB-500115,2026-11-03,Tue,10,Family Medicine,Telehealth,6,49,2,1,Confirmed,0,31.2,0
+SB-500116,2026-11-03,Tue,10,Family Medicine,Procedure,6,43,4,1,No reply,1,5.6,0
+SB-500117,2026-11-03,Tue,10,Family Medicine,Telehealth,2,66,4,2,No reply,0,11.8,40
+SB-500118,2026-11-03,Tue,10,Family Medicine,Telehealth,61,34,4,0,No reply,1,10.2,30
+SB-500119,2026-11-03,Tue,10,Family Medicine,Follow-up,4,41,4,1,Confirmed,1,14.1,0
+SB-500120,2026-11-03,Tue,10,Family Medicine,Annual physical,28,22,6,3,Not sent,1,28.3,40
+SB-500121,2026-11-03,Tue,10,Family Medicine,Annual physical,17,24,5,0,Confirmed,1,18.2,30
+SB-500122,2026-11-03,Tue,10,Family Medicine,Procedure,31,29,4,1,No reply,0,2.1,75
+SB-500123,2026-11-03,Tue,10,Pediatrics,Follow-up,6,17,5,0,Not sent,1,13.1,0
+SB-500124,2026-11-03,Tue,10,Pediatrics,Telehealth,15,12,6,0,Confirmed,0,2.8,20
+SB-500125,2026-11-03,Tue,10,Pediatrics,New patient,4,6,0,0,Confirmed,1,7.3,30
+SB-500126,2026-11-03,Tue,10,Pediatrics,Follow-up,4,6,7,1,Confirmed,0,8.8,0
+SB-500127,2026-11-03,Tue,10,Pediatrics,New patient,1,17,0,0,Confirmed,1,14.4,0
+SB-500128,2026-11-03,Tue,10,Pediatrics,Telehealth,2,2,6,0,Confirmed,1,35.9,30
+SB-500129,2026-11-03,Tue,10,Pediatrics,Telehealth,23,17,9,0,Confirmed,1,9.4,50
+SB-500130,2026-11-03,Tue,10,Pediatrics,Follow-up,39,4,4,1,No reply,1,5.4,40
+SB-500131,2026-11-03,Tue,10,Physical Therapy,Follow-up,37,46,7,3,Not sent,1,3.4,20
+SB-500132,2026-11-03,Tue,10,Physical Therapy,Follow-up,25,52,6,0,Confirmed,1,8.2,20
+SB-500133,2026-11-03,Tue,10,Physical Therapy,New patient,40,24,0,0,Confirmed,0,32.6,0
+SB-500134,2026-11-03,Tue,10,Physical Therapy,Follow-up,4,63,8,0,Confirmed,1,8.1,20
+SB-500135,2026-11-03,Tue,10,Physical Therapy,Follow-up,20,46,9,1,Confirmed,1,1.7,40
+SB-500136,2026-11-03,Tue,10,Physical Therapy,New patient,7,54,0,0,No reply,1,32.2,20
+SB-500137,2026-11-03,Tue,10,Physical Therapy,Follow-up,31,58,9,2,Confirmed,1,18.5,0
+SB-500138,2026-11-03,Tue,10,Physical Therapy,Follow-up,4,48,8,2,Not sent,1,11.0,0
+SB-500139,2026-11-03,Tue,10,Physical Therapy,Follow-up,20,56,12,1,Not sent,1,19.8,30
+SB-500140,2026-11-03,Tue,10,Physical Therapy,New patient,14,37,0,0,Confirmed,0,4.7,75
+SB-500141,2026-11-03,Tue,11,Cardiology,Follow-up,3,67,6,0,Confirmed,1,19.4,0
+SB-500142,2026-11-03,Tue,11,Cardiology,Follow-up,68,71,5,1,Confirmed,1,11.9,30
+SB-500143,2026-11-03,Tue,11,Cardiology,Telehealth,33,53,9,0,Confirmed,1,13.3,40
+SB-500144,2026-11-03,Tue,11,Cardiology,Follow-up,23,57,8,0,Confirmed,1,29.8,75
+SB-500145,2026-11-03,Tue,11,Cardiology,Telehealth,19,65,5,0,Confirmed,0,2.3,0
+SB-500146,2026-11-03,Tue,11,Cardiology,Follow-up,6,78,6,2,No reply,0,7.3,50
+SB-500147,2026-11-03,Tue,11,Cardiology,Annual physical,5,57,5,2,Confirmed,0,11.1,75
+SB-500148,2026-11-03,Tue,11,Dermatology,Procedure,18,46,7,1,Confirmed,1,38.1,0
+SB-500149,2026-11-03,Tue,11,Dermatology,Follow-up,9,54,6,5,No reply,1,10.0,0
+SB-500150,2026-11-03,Tue,11,Dermatology,Procedure,26,20,5,0,Confirmed,0,8.0,30
+SB-500151,2026-11-03,Tue,11,Dermatology,New patient,13,27,0,0,No reply,1,9.4,0
+SB-500152,2026-11-03,Tue,11,Family Medicine,New patient,0,36,0,0,Confirmed,1,17.4,0
+SB-500153,2026-11-03,Tue,11,Family Medicine,Annual physical,57,89,5,1,Confirmed,1,28.8,0
+SB-500154,2026-11-03,Tue,11,Family Medicine,Procedure,18,39,6,2,Confirmed,0,14.7,40
+SB-500155,2026-11-03,Tue,11,Family Medicine,Annual physical,1,46,4,0,Confirmed,0,1.6,0
+SB-500156,2026-11-03,Tue,11,Family Medicine,Follow-up,16,54,5,1,No reply,1,20.9,40
+SB-500157,2026-11-03,Tue,11,Family Medicine,Follow-up,15,24,6,3,Not sent,0,23.2,40
+SB-500158,2026-11-03,Tue,11,Family Medicine,Telehealth,7,18,6,0,Not sent,1,4.3,0
+SB-500159,2026-11-03,Tue,11,Family Medicine,Annual physical,1,25,7,0,No reply,1,8.4,30
+SB-500160,2026-11-03,Tue,11,Family Medicine,Follow-up,51,36,5,0,No reply,0,20.1,30
+SB-500161,2026-11-03,Tue,11,Family Medicine,Follow-up,35,51,7,3,Confirmed,0,4.4,30
+SB-500162,2026-11-03,Tue,11,Family Medicine,Annual physical,6,30,2,0,Not sent,1,23.3,0
+SB-500163,2026-11-03,Tue,11,Family Medicine,New patient,22,23,0,0,No reply,0,7.5,40
+SB-500164,2026-11-03,Tue,11,Family Medicine,Telehealth,15,26,4,0,No reply,0,8.2,30
+SB-500165,2026-11-03,Tue,11,Family Medicine,Follow-up,57,62,4,1,Not sent,1,10.8,50
+SB-500166,2026-11-03,Tue,11,Family Medicine,Follow-up,12,27,3,0,Confirmed,1,0.9,0
+SB-500167,2026-11-03,Tue,11,Family Medicine,Follow-up,26,29,2,1,No reply,0,22.6,30
+SB-500168,2026-11-03,Tue,11,Family Medicine,Annual physical,16,52,5,0,Confirmed,1,5.6,0
+SB-500169,2026-11-03,Tue,11,Family Medicine,Telehealth,61,48,0,0,No reply,1,14.5,20
+SB-500170,2026-11-03,Tue,11,Family Medicine,Follow-up,3,52,4,1,Confirmed,0,2.6,40
+SB-500171,2026-11-03,Tue,11,Pediatrics,Follow-up,6,9,6,2,Confirmed,1,10.0,0
+SB-500172,2026-11-03,Tue,11,Pediatrics,Annual physical,63,5,11,5,Not sent,0,5.3,0
+SB-500173,2026-11-03,Tue,11,Pediatrics,Follow-up,26,9,2,0,Confirmed,1,26.0,20
+SB-500174,2026-11-03,Tue,11,Physical Therapy,Follow-up,9,54,9,1,Not sent,1,37.3,0
+SB-500175,2026-11-03,Tue,11,Physical Therapy,Follow-up,2,49,7,1,Confirmed,1,3.7,50
+SB-500176,2026-11-03,Tue,11,Physical Therapy,New patient,5,52,0,0,Confirmed,0,6.2,75
+SB-500177,2026-11-03,Tue,11,Physical Therapy,Follow-up,8,56,10,1,No reply,1,2.6,50
+SB-500178,2026-11-03,Tue,11,Physical Therapy,New patient,0,37,0,0,Not sent,1,15.0,40
+SB-500179,2026-11-03,Tue,11,Physical Therapy,Follow-up,31,71,13,3,Confirmed,1,6.6,30
+SB-500180,2026-11-03,Tue,11,Physical Therapy,Follow-up,6,50,13,0,Not sent,0,9.5,0
+SB-500181,2026-11-03,Tue,11,Physical Therapy,New patient,28,35,0,0,No reply,0,55.5,20
+SB-500182,2026-11-03,Tue,11,Physical Therapy,Follow-up,1,47,13,2,Confirmed,1,20.7,40
+SB-500183,2026-11-03,Tue,12,Cardiology,Follow-up,11,55,3,0,No reply,1,14.9,40
+SB-500184,2026-11-03,Tue,12,Cardiology,Follow-up,3,56,3,0,Confirmed,1,26.0,20
+SB-500185,2026-11-03,Tue,12,Cardiology,Follow-up,7,53,7,0,No reply,1,5.6,30
+SB-500186,2026-11-03,Tue,12,Cardiology,Follow-up,6,78,2,0,Confirmed,1,6.8,40
+SB-500187,2026-11-03,Tue,12,Dermatology,New patient,23,44,0,0,No reply,1,4.1,0
+SB-500188,2026-11-03,Tue,12,Dermatology,New patient,2,66,0,0,Not sent,0,10.9,0
+SB-500189,2026-11-03,Tue,12,Dermatology,Follow-up,7,78,8,1,Confirmed,1,35.1,0
+SB-500190,2026-11-03,Tue,12,Dermatology,Procedure,50,38,7,0,No reply,0,13.8,0
+SB-500191,2026-11-03,Tue,12,Dermatology,New patient,46,67,0,0,Confirmed,1,11.3,20
+SB-500192,2026-11-03,Tue,12,Dermatology,New patient,57,37,0,0,Not sent,1,11.8,75
+SB-500193,2026-11-03,Tue,12,Dermatology,Follow-up,16,49,9,0,Confirmed,1,1.4,40
+SB-500194,2026-11-03,Tue,12,Dermatology,Follow-up,29,39,3,0,Confirmed,1,9.4,30
+SB-500195,2026-11-03,Tue,12,Dermatology,New patient,19,57,0,0,Not sent,1,5.0,0
+SB-500196,2026-11-03,Tue,12,Dermatology,Procedure,5,40,3,0,Confirmed,1,5.5,0
+SB-500197,2026-11-03,Tue,12,Family Medicine,Follow-up,5,19,7,0,Confirmed,1,26.8,30
+SB-500198,2026-11-03,Tue,12,Family Medicine,Follow-up,7,18,4,0,Confirmed,1,24.9,75
+SB-500199,2026-11-03,Tue,12,Family Medicine,Procedure,6,41,5,0,Confirmed,1,7.2,0
+SB-500200,2026-11-03,Tue,12,Family Medicine,Follow-up,6,37,4,2,No reply,1,10.8,30
+SB-500201,2026-11-03,Tue,12,Family Medicine,Follow-up,4,62,11,1,Confirmed,1,19.2,30
+SB-500202,2026-11-03,Tue,12,Family Medicine,Procedure,20,61,5,2,No reply,0,10.0,0
+SB-500203,2026-11-03,Tue,12,Family Medicine,Telehealth,37,53,4,0,Confirmed,1,3.2,20
+SB-500204,2026-11-03,Tue,12,Family Medicine,Procedure,2,30,6,0,Confirmed,1,3.8,50
+SB-500205,2026-11-03,Tue,12,Family Medicine,Follow-up,5,30,5,0,Confirmed,1,34.5,0
+SB-500206,2026-11-03,Tue,12,Family Medicine,Telehealth,18,18,4,0,Confirmed,1,5.5,50
+SB-500207,2026-11-03,Tue,12,Family Medicine,New patient,10,35,0,0,No reply,1,42.2,20
+SB-500208,2026-11-03,Tue,12,Family Medicine,Annual physical,2,49,4,1,Not sent,1,22.8,75
+SB-500209,2026-11-03,Tue,12,Family Medicine,New patient,2,66,0,0,Confirmed,0,0.9,75
+SB-500210,2026-11-03,Tue,12,Family Medicine,Follow-up,29,41,5,0,Confirmed,1,19.0,20
+SB-500211,2026-11-03,Tue,12,Family Medicine,Follow-up,1,67,5,0,Confirmed,0,20.1,75
+SB-500212,2026-11-03,Tue,12,Family Medicine,New patient,0,31,0,0,Confirmed,1,4.5,40
+SB-500213,2026-11-03,Tue,12,Family Medicine,Telehealth,29,24,9,2,Confirmed,1,24.6,75
+SB-500214,2026-11-03,Tue,12,Family Medicine,Annual physical,6,46,7,1,Not sent,0,21.2,40
+SB-500215,2026-11-03,Tue,12,Family Medicine,Procedure,29,61,4,0,Confirmed,1,27.4,75
+SB-500216,2026-11-03,Tue,12,Family Medicine,Follow-up,8,65,5,2,Confirmed,0,9.2,0
+SB-500217,2026-11-03,Tue,12,Family Medicine,New patient,6,40,0,0,No reply,0,24.5,75
+SB-500218,2026-11-03,Tue,12,Family Medicine,Telehealth,7,27,3,1,Confirmed,1,11.1,30
+SB-500219,2026-11-03,Tue,12,Family Medicine,Annual physical,1,18,7,2,Confirmed,1,7.5,0
+SB-500220,2026-11-03,Tue,12,Family Medicine,Annual physical,12,24,4,0,No reply,1,11.9,0
+SB-500221,2026-11-03,Tue,12,Pediatrics,Telehealth,77,1,7,1,No reply,1,10.8,50
+SB-500222,2026-11-03,Tue,12,Pediatrics,Telehealth,15,0,3,0,Confirmed,1,7.5,75
+SB-500223,2026-11-03,Tue,12,Pediatrics,Follow-up,6,8,4,1,Confirmed,1,23.0,30
+SB-500224,2026-11-03,Tue,12,Pediatrics,Follow-up,6,4,8,0,Confirmed,1,7.7,40
+SB-500225,2026-11-03,Tue,12,Pediatrics,Annual physical,6,12,5,0,No reply,1,12.4,75
+SB-500226,2026-11-03,Tue,12,Pediatrics,Follow-up,16,11,5,1,Not sent,1,18.7,0
+SB-500227,2026-11-03,Tue,12,Pediatrics,New patient,6,11,0,0,No reply,1,20.2,30
+SB-500228,2026-11-03,Tue,12,Pediatrics,Annual physical,19,9,10,1,Confirmed,0,12.2,40
+SB-500229,2026-11-03,Tue,12,Pediatrics,Follow-up,2,8,4,1,No reply,0,21.4,30
+SB-500230,2026-11-03,Tue,12,Physical Therapy,New patient,9,30,0,0,Not sent,1,0.9,30
+SB-500231,2026-11-03,Tue,12,Physical Therapy,Follow-up,16,47,8,2,Confirmed,0,3.6,75
+SB-500232,2026-11-03,Tue,12,Physical Therapy,Follow-up,23,47,17,1,No reply,1,11.4,0
+SB-500233,2026-11-03,Tue,12,Physical Therapy,Follow-up,2,18,12,4,No reply,0,26.7,20
+SB-500234,2026-11-03,Tue,12,Physical Therapy,Follow-up,6,34,7,1,Confirmed,1,8.1,0
+SB-500235,2026-11-03,Tue,12,Physical Therapy,Follow-up,17,34,13,1,Confirmed,0,5.5,40
+SB-500236,2026-11-03,Tue,12,Physical Therapy,Follow-up,12,38,6,1,Confirmed,1,33.7,30
+SB-500237,2026-11-03,Tue,12,Physical Therapy,Follow-up,3,18,7,0,No reply,1,21.0,20
+SB-500238,2026-11-03,Tue,13,Cardiology,Telehealth,54,66,4,0,Confirmed,1,22.1,30
+SB-500239,2026-11-03,Tue,13,Cardiology,Telehealth,133,91,11,1,Confirmed,0,13.4,40
+SB-500240,2026-11-03,Tue,13,Cardiology,Procedure,6,67,6,0,No reply,0,9.9,40
+SB-500241,2026-11-03,Tue,13,Dermatology,Follow-up,6,57,4,0,Confirmed,1,23.2,50
+SB-500242,2026-11-03,Tue,13,Dermatology,Procedure,6,37,5,1,Not sent,0,5.9,20
+SB-500243,2026-11-03,Tue,13,Dermatology,Telehealth,34,47,4,0,Confirmed,1,9.5,0
+SB-500244,2026-11-03,Tue,13,Dermatology,Procedure,32,75,4,0,Confirmed,1,5.5,50
+SB-500245,2026-11-03,Tue,13,Family Medicine,Telehealth,9,20,6,0,No reply,1,15.3,50
+SB-500246,2026-11-03,Tue,13,Family Medicine,Follow-up,52,38,4,0,Confirmed,1,35.1,75
+SB-500247,2026-11-03,Tue,13,Family Medicine,Telehealth,26,34,2,0,Confirmed,0,10.4,50
+SB-500248,2026-11-03,Tue,13,Family Medicine,Annual physical,6,56,5,1,Confirmed,1,8.9,30
+SB-500249,2026-11-03,Tue,13,Family Medicine,Telehealth,0,33,6,0,Not sent,1,2.5,30
+SB-500250,2026-11-03,Tue,13,Family Medicine,Follow-up,6,35,10,0,No reply,1,5.1,40
+SB-500251,2026-11-03,Tue,13,Family Medicine,Annual physical,21,41,5,1,Confirmed,0,4.7,0
+SB-500252,2026-11-03,Tue,13,Family Medicine,Procedure,34,52,6,0,Not sent,0,17.7,0
+SB-500253,2026-11-03,Tue,13,Family Medicine,Follow-up,6,37,8,0,No reply,1,6.0,75
+SB-500254,2026-11-03,Tue,13,Family Medicine,Follow-up,56,69,9,0,No reply,0,10.1,0
+SB-500255,2026-11-03,Tue,13,Family Medicine,Telehealth,99,48,3,0,Confirmed,1,14.2,0
+SB-500256,2026-11-03,Tue,13,Family Medicine,Annual physical,3,41,7,0,Confirmed,0,3.2,75
+SB-500257,2026-11-03,Tue,13,Family Medicine,Telehealth,5,51,8,2,Confirmed,0,24.4,0
+SB-500258,2026-11-03,Tue,13,Pediatrics,Procedure,8,9,7,0,Confirmed,1,4.4,75
+SB-500259,2026-11-03,Tue,13,Pediatrics,Annual physical,5,4,7,1,Confirmed,1,9.2,40
+SB-500260,2026-11-03,Tue,13,Pediatrics,Follow-up,6,10,7,1,Confirmed,1,17.4,40
+SB-500261,2026-11-03,Tue,13,Pediatrics,Follow-up,2,17,5,1,No reply,1,10.7,75
+SB-500262,2026-11-03,Tue,13,Physical Therapy,Follow-up,1,47,13,0,Confirmed,0,12.5,0
+SB-500263,2026-11-03,Tue,13,Physical Therapy,New patient,27,46,0,0,Confirmed,1,6.2,20
+SB-500264,2026-11-03,Tue,13,Physical Therapy,Follow-up,7,45,4,1,Not sent,1,14.4,30
+SB-500265,2026-11-03,Tue,13,Physical Therapy,Follow-up,6,29,9,0,Confirmed,1,20.3,0
+SB-500266,2026-11-03,Tue,13,Physical Therapy,New patient,0,41,0,0,Confirmed,0,3.4,50
+SB-500267,2026-11-03,Tue,13,Physical Therapy,Follow-up,8,51,9,1,No reply,1,12.5,0
+SB-500268,2026-11-03,Tue,13,Physical Therapy,Follow-up,102,44,12,1,Confirmed,1,1.6,0
+SB-500269,2026-11-03,Tue,13,Physical Therapy,Follow-up,4,73,7,1,Confirmed,0,3.2,40
+SB-500270,2026-11-03,Tue,13,Physical Therapy,New patient,12,47,0,0,Confirmed,1,16.4,40
+SB-500271,2026-11-03,Tue,13,Physical Therapy,Follow-up,23,66,12,1,Not sent,1,10.9,20
+SB-500272,2026-11-03,Tue,13,Physical Therapy,Follow-up,79,18,12,1,No reply,0,3.7,75
+SB-500273,2026-11-03,Tue,13,Physical Therapy,Follow-up,10,30,8,1,Not sent,0,6.8,40
+SB-500274,2026-11-03,Tue,14,Cardiology,Telehealth,52,56,6,0,Confirmed,1,25.1,20
+SB-500275,2026-11-03,Tue,14,Cardiology,Procedure,5,56,6,0,Not sent,1,28.2,40
+SB-500276,2026-11-03,Tue,14,Cardiology,Annual physical,41,75,2,1,Not sent,0,34.4,0
+SB-500277,2026-11-03,Tue,14,Cardiology,Follow-up,2,48,11,2,No reply,1,7.7,0
+SB-500278,2026-11-03,Tue,14,Cardiology,Annual physical,4,58,8,4,No reply,0,13.8,0
+SB-500279,2026-11-03,Tue,14,Dermatology,New patient,23,52,0,0,No reply,1,16.2,20
+SB-500280,2026-11-03,Tue,14,Dermatology,Procedure,4,30,2,0,Confirmed,1,29.4,30
+SB-500281,2026-11-03,Tue,14,Dermatology,Follow-up,5,66,2,1,Confirmed,0,27.1,40
+SB-500282,2026-11-03,Tue,14,Dermatology,New patient,15,68,0,0,Not sent,1,4.0,0
+SB-500283,2026-11-03,Tue,14,Dermatology,Telehealth,6,56,7,1,Confirmed,1,5.6,50
+SB-500284,2026-11-03,Tue,14,Dermatology,New patient,6,28,0,0,Confirmed,1,7.9,40
+SB-500285,2026-11-03,Tue,14,Dermatology,Procedure,22,50,2,0,No reply,1,4.3,0
+SB-500286,2026-11-03,Tue,14,Dermatology,New patient,2,68,0,0,Not sent,0,15.1,30
+SB-500287,2026-11-03,Tue,14,Family Medicine,Annual physical,85,58,10,0,No reply,1,17.0,0
+SB-500288,2026-11-03,Tue,14,Family Medicine,Procedure,6,58,6,1,Confirmed,1,8.6,75
+SB-500289,2026-11-03,Tue,14,Family Medicine,Follow-up,6,40,4,0,No reply,0,12.5,0
+SB-500290,2026-11-03,Tue,14,Family Medicine,Follow-up,6,49,3,0,Confirmed,1,6.2,50
+SB-500291,2026-11-03,Tue,14,Family Medicine,Annual physical,26,18,6,0,Not sent,1,6.5,0
+SB-500292,2026-11-03,Tue,14,Family Medicine,Annual physical,20,35,5,1,No reply,1,18.3,75
+SB-500293,2026-11-03,Tue,14,Family Medicine,New patient,3,47,0,0,Confirmed,1,11.6,30
+SB-500294,2026-11-03,Tue,14,Family Medicine,Telehealth,47,45,8,0,Confirmed,0,3.3,50
+SB-500295,2026-11-03,Tue,14,Family Medicine,Procedure,44,26,4,1,Confirmed,1,29.8,0
+SB-500296,2026-11-03,Tue,14,Family Medicine,Follow-up,38,50,11,3,No reply,0,26.9,20
+SB-500297,2026-11-03,Tue,14,Family Medicine,Follow-up,9,18,2,1,No reply,1,7.5,20
+SB-500298,2026-11-03,Tue,14,Family Medicine,Follow-up,20,36,6,0,No reply,1,9.5,40
+SB-500299,2026-11-03,Tue,14,Family Medicine,Follow-up,18,51,6,2,Confirmed,1,21.1,30
+SB-500300,2026-11-03,Tue,14,Family Medicine,Annual physical,11,55,4,1,Not sent,0,39.4,0
+SB-500301,2026-11-03,Tue,14,Family Medicine,Annual physical,61,52,3,0,Not sent,1,31.9,40
+SB-500302,2026-11-03,Tue,14,Family Medicine,Procedure,21,61,3,0,Confirmed,1,11.9,20
+SB-500303,2026-11-03,Tue,14,Family Medicine,Annual physical,9,43,3,0,Confirmed,1,10.8,75
+SB-500304,2026-11-03,Tue,14,Family Medicine,Procedure,8,18,8,0,Confirmed,1,2.2,20
+SB-500305,2026-11-03,Tue,14,Family Medicine,Follow-up,13,42,3,0,Confirmed,1,6.9,20
+SB-500306,2026-11-03,Tue,14,Pediatrics,Telehealth,6,0,5,3,Confirmed,1,17.4,50
+SB-500307,2026-11-03,Tue,14,Pediatrics,Annual physical,6,3,6,2,No reply,1,47.8,50
+SB-500308,2026-11-03,Tue,14,Pediatrics,New patient,6,9,0,0,No reply,1,9.1,50
+SB-500309,2026-11-03,Tue,14,Pediatrics,Annual physical,1,8,3,1,No reply,0,6.7,50
+SB-500310,2026-11-03,Tue,14,Pediatrics,New patient,1,17,0,0,Confirmed,0,17.8,0
+SB-500311,2026-11-03,Tue,14,Physical Therapy,Follow-up,6,59,12,7,No reply,1,8.2,75
+SB-500312,2026-11-03,Tue,14,Physical Therapy,Follow-up,2,46,6,0,Confirmed,1,27.1,40
+SB-500313,2026-11-03,Tue,14,Physical Therapy,Follow-up,0,24,6,1,No reply,1,25.2,30
+SB-500314,2026-11-03,Tue,14,Physical Therapy,New patient,116,54,0,0,No reply,0,14.6,0
+SB-500315,2026-11-03,Tue,14,Physical Therapy,Follow-up,18,48,12,0,Not sent,1,7.7,50
+SB-500316,2026-11-03,Tue,14,Physical Therapy,Follow-up,54,92,5,0,No reply,0,3.6,0
+SB-500317,2026-11-03,Tue,14,Physical Therapy,New patient,12,49,0,0,Confirmed,1,9.9,20
+SB-500318,2026-11-03,Tue,14,Physical Therapy,Follow-up,13,43,5,0,No reply,1,16.0,30
+SB-500319,2026-11-03,Tue,15,Cardiology,Annual physical,19,59,6,0,Confirmed,1,17.9,30
+SB-500320,2026-11-03,Tue,15,Cardiology,Telehealth,16,70,2,1,No reply,1,12.1,75
+SB-500321,2026-11-03,Tue,15,Cardiology,Telehealth,11,68,6,1,Confirmed,0,27.7,0
+SB-500322,2026-11-03,Tue,15,Cardiology,Procedure,50,46,4,3,No reply,1,19.6,40
+SB-500323,2026-11-03,Tue,15,Cardiology,Follow-up,1,72,6,1,No reply,0,14.2,0
+SB-500324,2026-11-03,Tue,15,Cardiology,Follow-up,5,42,5,0,Confirmed,1,14.6,30
+SB-500325,2026-11-03,Tue,15,Cardiology,Follow-up,6,77,5,0,No reply,0,10.9,0
+SB-500326,2026-11-03,Tue,15,Cardiology,Follow-up,35,69,8,1,Confirmed,1,6.8,0
+SB-500327,2026-11-03,Tue,15,Dermatology,New patient,9,46,0,0,Confirmed,1,24.5,50
+SB-500328,2026-11-03,Tue,15,Dermatology,Follow-up,0,45,0,0,No reply,1,15.2,0
+SB-500329,2026-11-03,Tue,15,Dermatology,Follow-up,20,70,4,1,Confirmed,0,0.5,20
+SB-500330,2026-11-03,Tue,15,Dermatology,Follow-up,3,67,3,1,Confirmed,1,6.6,75
+SB-500331,2026-11-03,Tue,15,Dermatology,Procedure,50,45,3,0,Confirmed,1,5.7,0
+SB-500332,2026-11-03,Tue,15,Dermatology,Telehealth,6,35,5,0,No reply,1,24.5,40
+SB-500333,2026-11-03,Tue,15,Dermatology,New patient,15,32,0,0,Confirmed,1,6.6,50
+SB-500334,2026-11-03,Tue,15,Dermatology,Procedure,6,33,3,0,Confirmed,1,19.7,0
+SB-500335,2026-11-03,Tue,15,Dermatology,Telehealth,31,57,6,0,Confirmed,0,4.2,50
+SB-500336,2026-11-03,Tue,15,Dermatology,Follow-up,26,74,5,0,No reply,1,4.0,40
+SB-500337,2026-11-03,Tue,15,Family Medicine,Follow-up,6,66,4,0,Confirmed,1,8.1,30
+SB-500338,2026-11-03,Tue,15,Family Medicine,New patient,138,24,0,0,Confirmed,1,13.2,0
+SB-500339,2026-11-03,Tue,15,Family Medicine,Follow-up,6,18,2,0,No reply,1,35.7,30
+SB-500340,2026-11-03,Tue,15,Family Medicine,New patient,6,52,0,0,No reply,1,22.1,0
+SB-500341,2026-11-03,Tue,15,Family Medicine,Follow-up,11,44,9,1,Confirmed,1,20.5,30
+SB-500342,2026-11-03,Tue,15,Family Medicine,Follow-up,11,38,2,0,Confirmed,1,29.5,50
+SB-500343,2026-11-03,Tue,15,Family Medicine,Follow-up,55,66,9,4,Not sent,1,10.0,50
+SB-500344,2026-11-03,Tue,15,Family Medicine,Telehealth,3,57,4,2,Confirmed,1,7.1,30
+SB-500345,2026-11-03,Tue,15,Family Medicine,Follow-up,53,34,4,0,Confirmed,1,7.3,75
+SB-500346,2026-11-03,Tue,15,Pediatrics,Telehealth,9,7,3,1,Not sent,1,43.1,20
+SB-500347,2026-11-03,Tue,15,Pediatrics,Follow-up,6,0,2,0,No reply,1,3.3,75
+SB-500348,2026-11-03,Tue,15,Pediatrics,Follow-up,23,16,7,0,Confirmed,1,30.3,0
+SB-500349,2026-11-03,Tue,15,Pediatrics,Follow-up,4,11,5,4,No reply,1,3.8,0
+SB-500350,2026-11-03,Tue,15,Pediatrics,Telehealth,10,4,4,0,Confirmed,1,18.4,0
+SB-500351,2026-11-03,Tue,15,Pediatrics,Annual physical,6,7,3,0,Confirmed,1,16.7,20
+SB-500352,2026-11-03,Tue,15,Pediatrics,Annual physical,2,8,8,1,Confirmed,1,8.0,30
+SB-500353,2026-11-03,Tue,15,Pediatrics,Follow-up,4,11,5,1,Confirmed,1,9.2,0
+SB-500354,2026-11-03,Tue,15,Pediatrics,Follow-up,19,10,5,1,Confirmed,0,4.8,0
+SB-500355,2026-11-03,Tue,15,Pediatrics,Follow-up,6,17,6,0,Confirmed,1,20.2,0
+SB-500356,2026-11-03,Tue,15,Physical Therapy,Follow-up,27,42,6,0,Not sent,0,1.8,0
+SB-500357,2026-11-03,Tue,15,Physical Therapy,Follow-up,0,44,10,1,Not sent,1,18.4,50
+SB-500358,2026-11-03,Tue,15,Physical Therapy,Follow-up,16,48,12,3,Not sent,0,25.7,0
+SB-500359,2026-11-03,Tue,15,Physical Therapy,Follow-up,32,50,3,1,Confirmed,0,7.8,0
+SB-500360,2026-11-03,Tue,15,Physical Therapy,Follow-up,56,59,13,3,Confirmed,1,15.1,30
+SB-500361,2026-11-03,Tue,15,Physical Therapy,New patient,1,27,0,0,Confirmed,1,6.5,30
+SB-500362,2026-11-03,Tue,15,Physical Therapy,Follow-up,12,37,8,0,Confirmed,0,4.9,40
+SB-500363,2026-11-03,Tue,16,Cardiology,Follow-up,5,95,3,0,Confirmed,1,7.4,75
+SB-500364,2026-11-03,Tue,16,Cardiology,Follow-up,0,62,6,0,Confirmed,0,1.0,50
+SB-500365,2026-11-03,Tue,16,Cardiology,Follow-up,23,62,6,0,Confirmed,0,19.6,0
+SB-500366,2026-11-03,Tue,16,Cardiology,Annual physical,0,34,2,0,Confirmed,0,13.3,20
+SB-500367,2026-11-03,Tue,16,Cardiology,Follow-up,8,41,8,2,Confirmed,1,14.3,40
+SB-500368,2026-11-03,Tue,16,Cardiology,Follow-up,50,53,2,0,Confirmed,1,8.4,30
+SB-500369,2026-11-03,Tue,16,Cardiology,Follow-up,6,61,4,0,Not sent,1,19.3,30
+SB-500370,2026-11-03,Tue,16,Cardiology,Annual physical,6,73,2,0,Confirmed,0,8.3,50
+SB-500371,2026-11-03,Tue,16,Cardiology,Follow-up,14,52,3,0,No reply,1,22.4,0
+SB-500372,2026-11-03,Tue,16,Cardiology,Telehealth,6,62,3,0,Not sent,0,4.7,0
+SB-500373,2026-11-03,Tue,16,Dermatology,New patient,9,66,0,0,Confirmed,1,4.4,40
+SB-500374,2026-11-03,Tue,16,Dermatology,Follow-up,30,35,2,0,No reply,0,3.2,50
+SB-500375,2026-11-03,Tue,16,Family Medicine,Telehealth,3,51,4,1,Confirmed,1,19.1,0
+SB-500376,2026-11-03,Tue,16,Family Medicine,Telehealth,47,45,10,2,No reply,1,29.7,50
+SB-500377,2026-11-03,Tue,16,Family Medicine,New patient,29,32,0,0,No reply,1,11.5,75
+SB-500378,2026-11-03,Tue,16,Family Medicine,Follow-up,20,56,6,0,Confirmed,0,9.2,0
+SB-500379,2026-11-03,Tue,16,Family Medicine,Annual physical,26,20,7,0,Not sent,1,6.8,30
+SB-500380,2026-11-03,Tue,16,Family Medicine,Follow-up,17,68,7,3,Confirmed,1,5.0,0
+SB-500381,2026-11-03,Tue,16,Family Medicine,Annual physical,3,45,7,3,Confirmed,1,5.6,40
+SB-500382,2026-11-03,Tue,16,Family Medicine,Annual physical,4,22,4,1,No reply,1,7.2,30
+SB-500383,2026-11-03,Tue,16,Family Medicine,Follow-up,38,18,5,2,No reply,1,5.3,50
+SB-500384,2026-11-03,Tue,16,Family Medicine,Telehealth,6,66,11,2,Confirmed,1,2.7,0
+SB-500385,2026-11-03,Tue,16,Family Medicine,New patient,19,88,0,0,No reply,1,4.1,0
+SB-500386,2026-11-03,Tue,16,Family Medicine,Annual physical,4,18,3,3,No reply,1,5.4,50
+SB-500387,2026-11-03,Tue,16,Family Medicine,Telehealth,74,67,3,1,No reply,1,18.9,0
+SB-500388,2026-11-03,Tue,16,Family Medicine,Annual physical,1,20,5,0,No reply,0,31.8,30
+SB-500389,2026-11-03,Tue,16,Family Medicine,Procedure,9,31,6,1,Not sent,1,27.7,30
+SB-500390,2026-11-03,Tue,16,Family Medicine,New patient,9,24,0,0,Confirmed,1,15.3,20
+SB-500391,2026-11-03,Tue,16,Family Medicine,New patient,18,22,0,0,Confirmed,1,7.3,30
+SB-500392,2026-11-03,Tue,16,Family Medicine,Annual physical,3,22,7,1,No reply,0,6.6,20
+SB-500393,2026-11-03,Tue,16,Family Medicine,Annual physical,6,60,6,0,Confirmed,0,9.5,40
+SB-500394,2026-11-03,Tue,16,Pediatrics,Telehealth,20,3,2,0,Confirmed,0,9.9,50
+SB-500395,2026-11-03,Tue,16,Pediatrics,Follow-up,28,16,3,0,Confirmed,1,4.9,0
+SB-500396,2026-11-03,Tue,16,Pediatrics,Follow-up,17,5,3,1,Confirmed,1,21.2,75
+SB-500397,2026-11-03,Tue,16,Pediatrics,Telehealth,0,14,5,0,Not sent,1,5.9,0
+SB-500398,2026-11-03,Tue,16,Physical Therapy,Follow-up,54,45,5,0,Confirmed,0,5.7,40
+SB-500399,2026-11-03,Tue,16,Physical Therapy,New patient,0,55,0,0,No reply,0,2.2,0
+SB-500400,2026-11-03,Tue,16,Physical Therapy,Follow-up,19,37,6,0,Confirmed,1,21.6,30
